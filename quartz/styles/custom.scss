@@ -21,18 +21,12 @@
   --visited: #575757 !important;
 }
 
-/*@import url("https://fonts.googleapis.com/css?family=Exo+2:400");
-*/
 html {
-  font-size: 125%;
+  font-size: 125%; /*20px*/
   @media all and (max-width: 450px) {
-    font-size: 112.5%;
+    font-size: 112.5%; /*18px*/
   }
-} /*20px*/
-
-body {
-  font-family: "Exo 2", sans-serif;
-}
+} 
 
 h1,
 h2,
