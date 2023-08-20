@@ -24,13 +24,13 @@ const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
-    depth: 1,
-    scale: 1.1,
-    repelForce: 0.5,
+    depth: 3,
+    scale: 1.4,
+    repelForce: 0.3,
     centerForce: 0.3,
     linkDistance: 30,
-    fontSize: 0.6,
-    opacityScale: 1,
+    fontSize: 0.4,
+    opacityScale: 0.7,
   },
   globalGraph: {
     drag: true,
