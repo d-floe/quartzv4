@@ -10,7 +10,7 @@ export default (() => {
     return (
         <div class="gb-nav">
           <button type="button" id="nav-btn">
-            <h3>Navigation</h3>
+            <h4>Navigation</h4>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"
