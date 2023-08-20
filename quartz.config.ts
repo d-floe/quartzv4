@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "Signika Negative",
-        body: "Exo",
+        body: "Exo 2",
         code: "Source Code Pro",
       },
       colors: {
