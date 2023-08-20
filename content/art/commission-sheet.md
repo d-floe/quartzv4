@@ -1,0 +1,99 @@
+---
+title: "D-FLOE'S COMMISSION SHEET"
+summary: "Interested in commissioning me? Check out my sheet!"
+tags:
+---
+
+![[art/attachments/d-floe-commission-sheet-1.png]]
+
+Thank you for checking out my commission sheet! I’m happy to work with a wide variety of requests to make a piece you like!
+
+### Questions? Comments? 
+
+You can contact me anytime on Twitter or Discord below!
+
+> Twitter: [@d*floe*](https://twitter.com/d_floe_)
+> Discord: d_floe
+
+[COMMISSION QUEUE](https://trello.com/b/2gT3qDED/commission-sheet)
+
+---
+
+## Standard Commission
+
+- Variable price per character and complexity
+- Flat color and Grayscale are the same price
+
+<div class="Comm">
+  <div class="Image">![[art/attachments/d-floe-commission-sheet.png]]</div>
+  <div class="Top">Lineart / Flat / Render</div>
+  <div class="Headshot">Headshot<br>85 / 97  / 110 USD</div>
+  <div class="Chest-up">Chest Up<br>90 / 115  / 140 USD</div>
+  <div class="Legs-up">Legs Up<br>120 / 145  / 170 USD</div>
+  <div class="Full-Pose">Full Pose<br>140 / 175  / 210 USD</div>
+</div>
+
+---
+
+## Terms of Service
+
+By commissioning me, you accept my T.O.S.
+
+- Prices are subject to change between commissions, all prices are ‘as listed’ when you commission me.
+- Refunds, or cancellations, are only allowed before a draft is finalized.
+- Do not sell, steal, trace, heavily reference, or claim credit for my art without prior agreement.
+- I reserve the right to modify any and all commissions for advertisement/promotional purposes.
+- You may not use my work or any component of my work for Commercial use, this includes but is not limited to Resale, Advertising, etc.
+- I reserve the right to refuse service to anyone in accordance with my guidelines.
+
+---
+
+## Guidelines
+
+- All commissions must be paid upfront through PayPal (USD), Prices are on a “per-character” basis.
+- Work will not begin until the transaction has been processed and confirmed by me.
+- All commissions will be handled through Twitter or Discord direct messages, if you feel I may be unable to reach you through either of these, you can contact me by email; Contact info is listed at the end of this document.
+- Commissions:
+    - Humanoids Only
+    - No Rigid Armor (Plated armor, ect.)
+    - No Mecha
+    - [NSFW](https://nsfw.d-floe.com/)
+    - No Fetish Art, Gore, Etc.
+- RUSH ORDERS: Jump to the front of the queue for +50% addition to Total Price.
+
+---
+
+## Order Process
+
+1. Contact me via Twitter or Discord direct messages and describe what kind of commission you’d like.
+2. Your order will be discussed and confirmed. I will request your PayPal email for invoicing.
+3. An invoice will be sent to the email you gave me.
+4. Upon your full payment, your order will be added to the Commission Queue.
+5. Once work has begun on your order, a draft will be sent to you to confirm and finalize.
+6. After finalization, further progress reports may be sent to go over details and ensure the piece is as expected.
+7. Once your commission is finished I will send you the file to wherever we have been communicating. If you have a preferred method: let me know in advance. Additionally, your piece may be posted onto my Social Media, in which case I will ask for appropriate attribution, i.e. your Twitter Username, so I can link to you in the post.
+
+---
+
+## Examples
+
+### Rendered
+
+| ![[art/attachments/comm-example.png]]   | ![[art/attachments/comm-example-3.png]] |
+| --------------------------------------- | --------------------------------------- |
+| ![[art/attachments/comm-example-2.png]] | ![[art/attachments/comm-example-4.png]] |
+
+### Flat Color
+
+| ![[art/attachments/comm-example-6.png]] | ![[art/attachments/comm-example-7.png]] |
+| --------------------------------------- | --------------------------------------- |
+
+### Grayscale
+
+| ![[art/attachments/comm-example-1.png]] | ![[art/attachments/comm-example-5.png]] |
+| --------------------------------------- | --------------------------------------- |
+
+### Line Art
+
+| ![[art/attachments/comm-example-8.png]] | ![[art/attachments/comm-example-9.png]] |
+| --------------------------------------- | --------------------------------------- |

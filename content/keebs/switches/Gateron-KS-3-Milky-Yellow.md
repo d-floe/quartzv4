@@ -1,0 +1,11 @@
+---
+title: "Gateron KS-3 Milky Yellow"
+tags:
+- switches
+---
+
+![[keebs/switches/attachments/ks3-milky-yellow.jpg]]
+
+## Gateron KS-3 Milky Yellow
+
+Got these with my [[keebs/MACRO_Megalodon-Triple-Knob|Megalodon Triple Knob Macropad]]. They really surprised me with their stock smoothness. Definitely gonna recommend these to newcomers.

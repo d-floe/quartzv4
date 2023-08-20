@@ -7,3 +7,9 @@ tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
 private/
+content/.obsidian
+content/.trash
+content/!private
+content/templates
+run-quartz
+run-quartz.bat
