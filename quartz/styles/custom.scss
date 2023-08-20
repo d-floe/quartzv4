@@ -176,7 +176,7 @@ footer {
 .left {
   left: calc(calc(100vw - $pageWidth) / 2 - ($sidePanelWidth + 100px)) !important;
   grid-template-rows: min-content min-content min-content;
-  .logo-svg {
+  .page-title {
     grid-area: 1 / 1 / 2 / 3;
   }
   .search {
@@ -192,7 +192,7 @@ footer {
     padding-top: 2rem !important;
     grid-template-columns: 1fr min-content min-content;
     grid-template-rows: min-content;
-    .logo-svg {
+    .page-title {
       grid-area: 1 / 1 / 2 / 2;
     }
     .search {
@@ -218,6 +218,7 @@ footer {
   max-height: 4em;
   width: 100%;
   max-width: 20rem;
+  cursor: pointer;
 }
 .tags {
   display: inline !important;
