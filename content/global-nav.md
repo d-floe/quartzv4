@@ -1,4 +1,8 @@
-> [!tree]
+---
+draft: true
+---
+
+[!tree]
 >
 > -   📁 [[_index]] (You are here)
 >     -   📂[[art]]

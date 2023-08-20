@@ -3,7 +3,7 @@ import style from "./styles/GlobalNav.scss"
 
 export default (() => {
     function GlobalNav() {
-        return <div class="global-nav">
+        return <div id="global-nav">
         <ul>
         <li>📁 <a href="." class="internal">_index</a> <ul>
             <li>📂 <a href="./art" class="internal">art</a>
