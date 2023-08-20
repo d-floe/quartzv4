@@ -325,6 +325,10 @@ blockquote[data-callout="tree"] {
   overflow: unset;
 }
 
+blockquote[data-callout="tree"] .callout-title {
+  display: none;
+}
+
 blockquote[data-callout="tree"],
 .navigation {
   font-weight: 400;
@@ -564,10 +568,6 @@ p > img + em {
     transform: none !important;
 }
 */
-
-blockquote[data-callout="tree"] .callout-title {
-  display: none;
-}
 
 blockquote[data-callout="hidden"] {
   display: none;
