@@ -27,13 +27,12 @@ button#nav-btn {
 
 nav {
   list-style: none;
-  overflow:visible;
+  overflow:hidden;
   max-height: none;
-  transition: max-height 0.5s ease;
-  transition: overflow 0.1s steps(start,1);
+  transition: max-height 500ms cubic-bezier(0.180, -0.215, 0.000, 1.405); /* custom */
 
-  &.collapsed {
-    overflow: hidden;
+  & .popover {
+    display: none;
   }
 
   &.collapsed > .overflow::after {
