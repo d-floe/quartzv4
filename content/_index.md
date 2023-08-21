@@ -31,7 +31,7 @@ The third and final tool in my arsenal — and the whole reason this website is 
 
 I already pay for the d-floe.com domain for a mere pittance, so being able to handle everything for free with just a bit of extra on-boarding effort is well worth the long-lasting benefits.
 
-For comparison, Obsidian's proprietary syncing and publishing tools both cost 96 USD/year or 10 USD/month **each**. It certainly comes with the added convenience, but like most things in life, there's a strong tradeoff.
+For comparison, Obsidian's proprietary syncing and publishing tools both cost 96 USD/year or 10 USD/month **each**. It certainly comes with added convenience, but like most things in life, there's a trade-off for going cheap.
 
 ```mermaid
 flowchart TD
