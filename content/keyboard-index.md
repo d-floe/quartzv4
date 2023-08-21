@@ -44,15 +44,15 @@ gantt
 ## Currently Own
 
 <ul class="card-reel">
-	<div class="card" onclick="location.href='../keebs/22_Ultra-Compact-Model-F62';">
+	<div class="card" onclick="location.href='/keebs/22_Ultra-Compact-Model-F62';">
 			![[keebs/attachments/model-f-kishsaver.png]]
 			[[keebs/22_Ultra-Compact-Model-F62|Ultra Compact Model F62 - 60%]]
 	</div>
-	<div class="card" onclick="location.href='../keebs/21_Sharkeneko-60';">
+	<div class="card" onclick="location.href='/keebs/21_Sharkeneko-60';">
 			![[keebs/attachments/sharkeneko.png]]
 			[[keebs/21_Sharkeneko-60|Sharkeneko - 60%]]
 	</div>
-	<div class="card" onclick="location.href='../keebs/19_CMM-Studio-Isabell-60';">
+	<div class="card" onclick="location.href='/keebs/19_CMM-Studio-Isabell-60';">
 			![[keebs/attachments/cmm-isabell.jpg]]
 			[[keebs/19_CMM-Studio-Isabell-60|CMM.Studio Isabell - 60%]] 
 	</div>
