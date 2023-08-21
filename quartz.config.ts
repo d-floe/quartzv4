@@ -66,7 +66,7 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: true,
       }),
-      Plugin.Assets(),
+      Plugin.Assets({ attachmentsFolder: null }),
       Plugin.Static(),
     ],
   },
