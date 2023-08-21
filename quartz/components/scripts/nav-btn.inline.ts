@@ -1,4 +1,3 @@
-const bufferPx = 150
 
 function toggleNavBtn(this: HTMLElement) {
   this.classList.toggle("collapsed")
