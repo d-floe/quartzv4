@@ -6,7 +6,7 @@ tags:
 
 ![[keebs/stabilizers/attachments/Zen-Pond-Stabs.png]]
 
-> Image Attribution: [Wuque Studio](https://shop.wuquestudio.com/products/aurora-x-zen-pond-kit-gb)
+> Image attribution: [Wuque Studio](https://shop.wuquestudio.com/products/aurora-x-zen-pond-kit-gb)
 
 ## Aurora x Zen Pond Stabilizers
 

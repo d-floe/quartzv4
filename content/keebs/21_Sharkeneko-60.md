@@ -50,7 +50,7 @@ The clear coat on the brass weight started to show signs of Patina. I wasn't sur
 ![[keebs/attachments/21_Sharkeneko-60-1.jpg]]
 ![[keebs/attachments/21_Sharkeneko-60-2.jpg]]
 
-> Image Attributions: [kneedeeppatinas](https://www.instagram.com/kneedeeppatinas/)
+> Image attributions: [kneedeeppatinas](https://www.instagram.com/kneedeeppatinas/)
 
 I eagerly await the result. These patina jobs look stellar.
 
