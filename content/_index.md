@@ -9,7 +9,7 @@ Welcome to d-floe's documents. Feel free to browse and look around. This site is
 
 ## What is this?
 
-I use this website a bit like a second brain. There is always so much going on and so much to think about day-in and day-out that it can be incredibly easy to forget vital or useful information. Writing down all the stuff in your brain is a great way to clear your thoughts, and focus on important things in life, rather than needing to commit everything you know to memory.
+I use this website a bit like a second brain. Life is hectic and complicated; it can be incredibly easy to forget vital or useful information. Writing down all the stuff in your brain is a great way to clear your thoughts, and focus on important things, rather than needing to commit everything you know to memory.
 
 Initially this project was going to remain as a private and personal journal, but I found myself wanting to share some parts of it with the rest of the world. A great example of this would be my [[art]] guides or personal [[keyboard-index|keyboard]] documents.
 
