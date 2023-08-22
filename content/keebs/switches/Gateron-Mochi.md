@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/mochi.jpg]]
+![[mochi.jpg]]
 
 ## Gateron Mochi
 

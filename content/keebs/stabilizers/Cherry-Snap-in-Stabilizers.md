@@ -4,7 +4,7 @@ tags:
 - stabilizers
 ---
 
-![[keebs/stabilizers/attachments/cherry-stabs.png]]
+![[cherry-stabs.png]]
 
 > Image attribution: [EloquentClicks](https://www.eloquentclicks.com/product/original-cherry-pcb-mount-stabilizers/)
 

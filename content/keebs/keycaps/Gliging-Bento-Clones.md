@@ -4,6 +4,6 @@ tags:
 - keycaps
 ---
 
-![[keebs/attachments/Gliging-Bento-Clones.png]]
+![[Gliging-Bento-Clones.png]]
 
 ## Gliging Bento Clones

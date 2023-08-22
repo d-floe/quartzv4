@@ -4,6 +4,6 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/devtty.jpg]]
+![[devtty.jpg]]
 
 ## MT3 devtty

@@ -4,6 +4,6 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/shinbun.png]]
+![[shinbun.png]]
 
 ## NicePBT Shinbun

@@ -4,7 +4,7 @@ tags:
 - misc 
 ---
 
-![[keebs/misc/attachments/h60.jpg]]
+![[h60.jpg]]
 
 ## Hineybush H60
 

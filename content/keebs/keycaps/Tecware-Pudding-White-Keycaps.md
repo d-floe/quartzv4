@@ -4,7 +4,7 @@ tags:
 - example
 ---
 
-![[keebs/keycaps/attachments/Tecware-Pudding-Keycaps.png]]
+![[Tecware-Pudding-Keycaps.png]]
 
 > Image attribution: [TECWARE](https://www.amazon.com/gp/product/B08N6GD5SH)
 

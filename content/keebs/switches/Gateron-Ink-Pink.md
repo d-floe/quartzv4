@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/ink-pink.jpg]]
+![[ink-pink.jpg]]
 
 ## Gateron Ink Pink
 

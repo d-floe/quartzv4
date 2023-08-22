@@ -4,6 +4,6 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/monochrome-2.png]]![[keebs/keycaps/attachments/monochrome.png]]
+![[monochrome-2.png]]![[monochrome.png]]
 
 # IFK Monochrome

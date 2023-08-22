@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/speed-copper.jpg]]
+![[speed-copper.jpg]]
 
 ## Kailh Speed Copper
 

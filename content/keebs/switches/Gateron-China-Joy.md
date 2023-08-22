@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/china-joy.jpg]]
+![[china-joy.jpg]]
 
 ## Gateron China Joy
 

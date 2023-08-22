@@ -4,7 +4,7 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/pom-jelly.jpg]]
-![[keebs/keycaps/attachments/pom-jelly-2.jpg]]
+![[pom-jelly.jpg]]
+![[pom-jelly-2.jpg]]
 
 ## POM Jelly Keycaps

@@ -4,6 +4,6 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/black-samurai-clones.png]]
+![[black-samurai-clones.png]]
 
 ## Black Samurai Clones

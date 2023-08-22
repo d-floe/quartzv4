@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/cherry-bunga.jpg]]
+![[cherry-bunga.jpg]]
 
 ## Cherry Bunga
 
@@ -14,4 +14,4 @@ tags:
 
 Stem length:  13.77-13.80mm (compared to MX Red: 12.42mm)
 
-![[keebs/switches/attachments/Cherry-Bunga.png]]
+![[Cherry-Bunga.png]]

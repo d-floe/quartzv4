@@ -4,7 +4,7 @@ tags:
 - misc 
 ---
 
-![[keebs/misc/attachments/wooting-60he.png]]
+![[wooting-60he.png]]
 
 > Image attribution: [Wooting](https://twitter.com/WootingKB/status/1484520328936235009)
 

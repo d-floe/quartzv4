@@ -4,7 +4,7 @@ tags:
 - misc 
 ---
 
-![[keebs/misc/attachments/7305-0-gold-sockets.jpg]]
+![[7305-0-gold-sockets.jpg]]
 
 ## 7305-0 Gold Sockets
 

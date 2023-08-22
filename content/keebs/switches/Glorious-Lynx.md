@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/glorious-lynx.jpg]]
+![[glorious-lynx.jpg]]
 
 ## Glorious Lynx
 

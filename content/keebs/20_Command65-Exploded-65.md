@@ -31,7 +31,7 @@ https://www.play-keyboard.store/products/command-65
 - Keycaps: [[IFK-WoB|IFK WoB]]
 - Plate: black sandblasted aluminum
     - Make sure to file down the notches on the plate. The tolerances on this plate are very tight and can even be problematic for cherry switches.
-- Stabilizers: [[keebs/stabilizers/TX-AP-Stabilizers-Rev-4|TX AP Stabilizers Rev.4]]
+- Stabilizers: [[TX-AP-Stabilizers-Rev-4|TX AP Stabilizers Rev.4]]
 - Switches: [[Kailh-Box-Jade|Kailh Box Jade]] / [[NovelKeys-Cream-Clickie|NovelKeys Cream Clickie]]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Rp_AqlqRecU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

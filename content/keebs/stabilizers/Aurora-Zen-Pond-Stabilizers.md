@@ -4,7 +4,7 @@ tags:
 - stabilizers
 ---
 
-![[keebs/stabilizers/attachments/Zen-Pond-Stabs.png]]
+![[Zen-Pond-Stabs.png]]
 
 > Image attribution: [Wuque Studio](https://shop.wuquestudio.com/products/aurora-x-zen-pond-kit-gb)
 

@@ -4,6 +4,6 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/sailor.jpg]]
+![[sailor.jpg]]
 
 ## NicePBT Sailor

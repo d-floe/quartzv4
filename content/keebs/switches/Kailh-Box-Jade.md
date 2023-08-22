@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/box-jade.jpg]]
+![[box-jade.jpg]]
 
 ## Kailh Box Jade
 

@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/cream-clickie.jpg]]
+![[cream-clickie.jpg]]
 
 ## NovelKeys Cream Clickie
 

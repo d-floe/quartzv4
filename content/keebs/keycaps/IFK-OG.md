@@ -4,7 +4,7 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/ifk-og-1.png]]
+![[ifk-og-1.png]]
 
 > Image attribution: [InvoluntarySoul](https://keyo.sk/browse?user=InvoluntarySoul)
 

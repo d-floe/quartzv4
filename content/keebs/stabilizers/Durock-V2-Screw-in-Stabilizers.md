@@ -4,7 +4,7 @@ tags:
 - stabilizers
 ---
 
-![[keebs/stabilizers/attachments/durock-v2.png]]
+![[durock-v2.png]]
 
 > Image attribution: [Custom Keyboard Co.](https://www.customkeysco.com/product/durock-v2-stabilizers-set-full-black-nero)
 

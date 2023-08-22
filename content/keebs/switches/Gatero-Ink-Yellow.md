@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/ink-yellow.jpg]]
+![[ink-yellow.jpg]]
 
 ## Gateron Ink Yellow
 

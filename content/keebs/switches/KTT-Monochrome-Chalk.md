@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/ktt-chalk.jpg]]
+![[ktt-chalk.jpg]]
 
 ## KTT Monochrome Chalk
 

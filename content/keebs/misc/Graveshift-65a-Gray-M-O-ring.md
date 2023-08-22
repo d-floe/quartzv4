@@ -4,7 +4,7 @@ tags:
 - misc 
 ---
 
-![[keebs/misc/attachments/graveshift-oring.png]]
+![[graveshift-oring.png]]
 
 ## Graveshift 65a Gray M O-ring
 

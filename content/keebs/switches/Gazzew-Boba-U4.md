@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/u4.jpg]]
+![[u4.jpg]]
 
 ## Gazzew Boba U4
 

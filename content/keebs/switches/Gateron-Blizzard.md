@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/blizzard.jpg]]
+![[blizzard.jpg]]
 
 ## Gateron Blizzard
 

@@ -4,7 +4,7 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/greyscale.jpg]]
-![[keebs/keycaps/attachments/greyscale-2.jpg]]
+![[greyscale.jpg]]
+![[greyscale-2.jpg]]
 
 ## NicePBT Greyscale

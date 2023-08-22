@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/jelly-black.jpg]]
+![[jelly-black.jpg]]
 
 ## KTT AKKO Jelly Black
 

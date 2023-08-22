@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/IMG_20230629_193102.jpg]]
+![[IMG_20230629_193102.jpg]]
 
 ## JWK TKC Tangies
 

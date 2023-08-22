@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/bobagum.jpg]]
+![[bobagum.jpg]]
 
 ## Gazzew Boba Gum
 

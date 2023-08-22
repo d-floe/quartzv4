@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/ks3-milky-yellow.jpg]]
+![[ks3-milky-yellow.jpg]]
 
 ## Gateron KS-3 Milky Yellow
 

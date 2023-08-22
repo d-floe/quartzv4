@@ -5,7 +5,7 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/saturn-60.png]]
+![[saturn-60.png]]
 
 ## Saturn-60
 

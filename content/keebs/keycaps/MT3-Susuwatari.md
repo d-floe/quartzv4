@@ -4,7 +4,7 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/susuwatari-2.png]]
-![[keebs/keycaps/attachments/susuwatari.png]]
+![[susuwatari-2.png]]
+![[susuwatari.png]]
 
 ## MT3 Susuwatari

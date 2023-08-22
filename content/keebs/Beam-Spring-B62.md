@@ -5,7 +5,7 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/Beam-Spring-B62-Repro.jpg]]
+![[Beam-Spring-B62-Repro.jpg]]
 
 ## Beam Spring B62
 
@@ -13,7 +13,7 @@ tags:
 
 When I was ordering some extra parts for my Model F Labs F62 keyboard, I decided to try out a single Beam Spring switch as a taste since I heard they were such a highly coveted switch. Oh boy, I was immediately hooked.
 
-![[keebs/attachments/Beam-Spring-B62.png]]
+![[Beam-Spring-B62.png]]
 
 ## The 1u Switch Assembly
 
@@ -21,14 +21,14 @@ I decided to make a simple stack mount housing for the single beam spring switch
 
 Originally the plan was to make the plates from 26.282 mm squares with 3mm holes at the corners, and a 15mm hole in the top like so:
 
-![[keebs/attachments/Beam-Spring-B62-1.png]]
+![[Beam-Spring-B62-1.png]]
 
 In my naivety, I simply assumed that those specifications would work perfectly fine without any interference issues, so I went ahead and ordered these as plates from JLCPCB.
 
 I later decided to go into Fusion360 and verify that the parts that I ordered would work.
 
-![[keebs/attachments/Beam-Spring-B62-2.png]]
+![[Beam-Spring-B62-2.png]]
 
 > Initial square plates, 1.6mm in thickness
 
-![[keebs/attachments/Beam-Spring-B62-3.png]]
+![[Beam-Spring-B62-3.png]]

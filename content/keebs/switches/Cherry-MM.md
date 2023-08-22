@@ -14,7 +14,7 @@ Missing Image :(
 
 Stem length: 12.96mm (Compared to MX Red: 12.42mm)
 
-![[keebs/switches/attachments/Cherry-MM.png]]
+![[Cherry-MM.png]]
 
-I was rocking these before the Kailh Speed Pro OG Stems came back. These have a longer travel than [[keebs/switches/JWK-MM-Alpaca|JWK MM Alpaca]] which have a similar key
-travel to [[keebs/switches/Cherry-Burgundy|Cherry Burgundy]].
+I was rocking these before the Kailh Speed Pro OG Stems came back. These have a longer travel than [[JWK-MM-Alpaca|JWK MM Alpaca]] which have a similar key
+travel to [[Cherry-Burgundy|Cherry Burgundy]].

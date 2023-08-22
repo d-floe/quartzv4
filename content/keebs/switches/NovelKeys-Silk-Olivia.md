@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/silk-olivia.jpg]]
+![[silk-olivia.jpg]]
 
 ## NovelKeys Silk Olivia
 

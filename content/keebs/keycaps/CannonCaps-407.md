@@ -4,6 +4,6 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/407-2.png]]![[keebs/keycaps/attachments/407.png]]
+![[407-2.png]]![[407.png]]
 
 ## CannonCaps 407

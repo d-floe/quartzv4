@@ -6,9 +6,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/MACRO_Pikatea-Macropad-GB4.jpg]]
+![[MACRO_Pikatea-Macropad-GB4.jpg]]
 
-> Pikatea Macropad GB4 with [[keebs/keycaps/IFK-BRED-R2|IFK BRED]] and [Pikatea 1.25u Red Knob](https://www.pikatea.com/products/red-anodized-aluminum-knob-with-indicator-1-25u)
+> Pikatea Macropad GB4 with [[IFK-BRED-R2|IFK BRED]] and [Pikatea 1.25u Red Knob](https://www.pikatea.com/products/red-anodized-aluminum-knob-with-indicator-1-25u)
 
 ## Pikatea Macropad GB4
 
@@ -23,6 +23,6 @@ I got this macro pad to serve 4 needs:
 - A discord deafen button
 - A toggle RGB button for my PC
 
-Building this was initially a pain because I attempted to use [[keebs/misc/7305-0-Gold-Sockets|Millmax Sockets]]; however, the assembly was effectively held together by the switches, so soldering directly to the PCB was necessary. Originally I had [[keebs/switches/Kailh-Box-Jade|Kailh Box Jade]] switches in this, but the translucent top housing looked garish compared to the black top housing of [[keebs/switches/JWK-Black-T1|JWK Black T1]] switches.
+Building this was initially a pain because I attempted to use [[7305-0-Gold-Sockets|Millmax Sockets]]; however, the assembly was effectively held together by the switches, so soldering directly to the PCB was necessary. Originally I had [[Kailh-Box-Jade|Kailh Box Jade]] switches in this, but the translucent top housing looked garish compared to the black top housing of [[JWK-Black-T1|JWK Black T1]] switches.
 
 Simple and effective!

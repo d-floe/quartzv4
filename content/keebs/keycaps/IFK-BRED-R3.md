@@ -4,7 +4,7 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/bred-r3.png]]
-![[keebs/keycaps/attachments/bred-r3-2.png]]
+![[bred-r3.png]]
+![[bred-r3-2.png]]
 
 ## IFK BRED R3

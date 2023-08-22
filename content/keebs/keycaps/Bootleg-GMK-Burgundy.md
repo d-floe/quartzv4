@@ -4,8 +4,8 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/linworks-wob.png]]
-![[keebs/keycaps/attachments/linworks-burgundy.png]]
+![[linworks-wob.png]]
+![[linworks-burgundy.png]]
 
 ## Bootleg GMK Burgundy
 
@@ -14,4 +14,4 @@ tags:
 
 If I don't end up liking the red on Linworks Burgundy, my backup plan is to use [DCX Garnet](https://drop.com/buy/drop-dcx-garnet-keycap-set) and [DCX WoB](https://drop.com/buy/drop-dcx-white-on-black-keycap-set)
 
-![[keebs/keycaps/attachments/gmk-burgundy.png]]
+![[gmk-burgundy.png]]

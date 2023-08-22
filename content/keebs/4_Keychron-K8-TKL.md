@@ -41,4 +41,4 @@ This keyboard was my gateway into keyboard modding. Since this board was hot swa
 - Configuration: package foam in lower case
 - Mounting Style: integrated Plate
 - Stabilizers: plate mount
-- Switches: [[Kailh-Speed-Copper|Kailh Speed Copper]] / [[keebs/switches/Glorious Panda|Glorious Panda]]
+- Switches: [[Kailh-Speed-Copper|Kailh Speed Copper]] / [[Glorious Panda|Glorious Panda]]

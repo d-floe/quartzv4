@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/cream.jpg]]
+![[cream.jpg]]
 
 ## NovelKeys Cream
 

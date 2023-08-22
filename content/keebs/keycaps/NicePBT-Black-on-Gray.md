@@ -4,6 +4,6 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/bog-2.png]]![[keebs/keycaps/attachments/bog.png]]
+![[bog-2.png]]![[bog.png]]
 
 ## NicePBT Black on Gray

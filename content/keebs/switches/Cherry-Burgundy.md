@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/cherry-burgundy.jpg]]
+![[cherry-burgundy.jpg]]
 
 ## Cherry Burgundy
 

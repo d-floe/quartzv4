@@ -4,8 +4,8 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/BRB.jpg]]
-![[keebs/keycaps/attachments/BRB-2.jpg]]
+![[BRB.jpg]]
+![[BRB-2.jpg]]
 
 ## Beyond Reason Bars
 

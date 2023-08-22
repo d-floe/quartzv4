@@ -4,6 +4,6 @@ tags:
 - keycaps 
 ---
 
-![[keebs/keycaps/attachments/moon.jpg]]
+![[moon.jpg]]
 
 ## CannonCaps Moon

@@ -6,7 +6,7 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/MACRO_Megalodon-Triple-Knob.png]]
+![[MACRO_Megalodon-Triple-Knob.png]]
 
 ## Megalodon Triple Knob Macropad
 
@@ -26,12 +26,12 @@ After using the macropad I noticed a few shortcomings:
 ### Parts
 
 - Case: black sandblasted(?) aluminum top and CNC acrylic bottom
-- Switches: [[keebs/switches/Cherry-Boba|Cherry Boba]]
+- Switches: [[Cherry-Boba|Cherry Boba]]
 - Keycaps:
-    - [[keebs/keycaps/PBTFans-Retro-Dark-Lights-Relegendables|PBTFans Retro Dark Lights Relegendables]]
-    - [[keebs/keycaps/Signature-Plastics-G20-Blanks|Signature Plastics G20 Blanks]] 2u POS Black and 1u Black
-    - [[keebs/keycaps/UNGODLY-DESIGN-Custom-Shark-Artisan|UNGODLY.DESIGN Custom Shark Artisan]]
+    - [[PBTFans-Retro-Dark-Lights-Relegendables|PBTFans Retro Dark Lights Relegendables]]
+    - [[Signature-Plastics-G20-Blanks|Signature Plastics G20 Blanks]] 2u POS Black and 1u Black
+    - [[UNGODLY-DESIGN-Custom-Shark-Artisan|UNGODLY.DESIGN Custom Shark Artisan]]
 - Knobs:
-    - [[keebs/misc/Lovermusic-32mm-Knob|Lovermusic 32mm Knob]]
-    - [[keebs/misc/DaierTek-12mm-knob|DairTek 12mm Knob]]
+    - [[Lovermusic-32mm-Knob|Lovermusic 32mm Knob]]
+    - [[DaierTek-12mm-knob|DairTek 12mm Knob]]
 - 1" Platinum Silicone Hemisphere Bumpons

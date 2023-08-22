@@ -4,7 +4,7 @@ tags:
 - switches
 ---
 
-![[keebs/switches/attachments/zaku.jpg]]
+![[zaku.jpg]]
 
 ## Tecsee Zaku
 

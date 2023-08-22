@@ -9,7 +9,7 @@ tags:
 
 ![[gmmk-pro.jpg]]
 
-> **GMMK Pro** with [[keebs/keycaps/WianXP-Hammerhead-Clones|WianXP Hammerhead Clones]]
+> **GMMK Pro** with [[WianXP-Hammerhead-Clones|WianXP Hammerhead Clones]]
 
 ## GMMK Pro
 
@@ -43,5 +43,5 @@ I don't quite remember a lot about this keyboard. I remember modding this board 
 - Case: black sand-blasted aluminum
 - Configuration: double gaskets, PE Foam, tape mod, plate foam
 - Plate: aluminum
-- Stabilizers: [[keebs/stabilizers/Durock-V2-Screw-in-Stabilizers|Durock V2 Screw-in Stabilizers]]
-- Switches: [[keebs/switches/Gazzew-Boba-U4T|Gazzew Boba U4T]]
+- Stabilizers: [[Durock-V2-Screw-in-Stabilizers|Durock V2 Screw-in Stabilizers]]
+- Switches: [[Gazzew-Boba-U4T|Gazzew Boba U4T]]

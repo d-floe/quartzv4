@@ -7,8 +7,8 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/sharkeneko.png]]
-![[keebs/attachments/sharkeneko-2.jpg]]
+![[sharkeneko.png]]
+![[sharkeneko-2.jpg]]
 
 ## Sharkeneko
 
@@ -23,7 +23,7 @@ My baby, my ultimate daily driver. This board feels, sounds, and looks exactly h
 
 ### Original Concept
 
-![[keebs/attachments/sharkeneko-concept.gif]]
+![[sharkeneko-concept.gif]]
 
 ### Parts
 
@@ -31,14 +31,14 @@ My baby, my ultimate daily driver. This board feels, sounds, and looks exactly h
 - [x] Configuration: [Geon 3.5mm Poron LE-20, Soft Plate Foam](https://keebsforall.com/products/geon-keyboard-foams-for-tkl?variant=43926766026971) in lower case
     - I got the idea from Alexotos' Mode Sonnet build. It seems to act as a middle ground dampener between shelf liner and a thick poron sheet.
     - The sound is improved over no dampening, and the typing feel is unaffected.
-- [ ] Keycaps: [[keebs/keycaps/Bootleg-GMK-Burgundy|Bootleg GMK Burgundy]]
-- [x] Mounting: [[keebs/misc/Graveshift-65a-Gray-M-O-ring|Graveshift 65a Gray M O-ring]]
-- [x] PCB: [[keebs/misc/Hineybush-H60|Hineybush H60]]
-    - [x] Mill-Max sockets: [[keebs/misc/7305-0-Gold-Sockets|7305-0 Gold Sockets]]
+- [ ] Keycaps: [[Bootleg-GMK-Burgundy|Bootleg GMK Burgundy]]
+- [x] Mounting: [[Graveshift-65a-Gray-M-O-ring|Graveshift 65a Gray M O-ring]]
+- [x] PCB: [[Hineybush-H60|Hineybush H60]]
+    - [x] Mill-Max sockets: [[7305-0-Gold-Sockets|7305-0 Gold Sockets]]
 - [x] Plate: full carbon fiber
     - Note: expand the tolerances on the stabilizer cut-outs
-- [x] Stabilizers: [[keebs/stabilizers/TX-Stabilizers-Rev-3|TX Stabilizers Rev.3]]
-- [x] Switches: [[keebs/switches/Cherry-Burgundy|Cherry Burgundy]]
+- [x] Stabilizers: [[TX-Stabilizers-Rev-3|TX Stabilizers Rev.3]]
+- [x] Switches: [[Cherry-Burgundy|Cherry Burgundy]]
 - [x] Feet: 8x4mm black silicone bumpers
 - [ ] Weight: rainbow patina brass ~~clear-coat brass~~ ~~PVD stainless steel~~
 
@@ -46,9 +46,9 @@ My baby, my ultimate daily driver. This board feels, sounds, and looks exactly h
 
 The clear coat on the brass weight started to show signs of Patina. I wasn't sure what had stripped the clear-coating off the weight, but I figured that if was to get patina on my weight, I might as well make the patina look beautiful. I commissioned [LoobedSwitches](https://loobedswitches.com/) to strip the clear coat off my brass weight, and apply a rainbow patina to it inspired by these images:
 
-![[keebs/attachments/21_Sharkeneko-60.jpg]]
-![[keebs/attachments/21_Sharkeneko-60-1.jpg]]
-![[keebs/attachments/21_Sharkeneko-60-2.jpg]]
+![[21_Sharkeneko-60.jpg]]
+![[21_Sharkeneko-60-1.jpg]]
+![[21_Sharkeneko-60-2.jpg]]
 
 > Image attributions: [kneedeeppatinas](https://www.instagram.com/kneedeeppatinas/)
 
