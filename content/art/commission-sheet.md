@@ -12,7 +12,7 @@ Thank you for checking out my commission sheet! I’m happy to work with a wide 
 
 You can contact me anytime on Twitter or Discord below!
 
-> Twitter: [@d*floe*](https://twitter.com/d_floe_)
+> Twitter: [@d_floe\_](https://twitter.com/d_floe_)
 > Discord: d_floe
 
 [COMMISSION QUEUE](https://trello.com/b/2gT3qDED/commission-sheet)
@@ -80,20 +80,20 @@ By commissioning me, you accept my T.O.S.
 ### Rendered
 
 | ![[comm-example.png]]   | ![[comm-example-3.png]] |
-| --------------------------------------- | --------------------------------------- |
+| ----------------------- | ----------------------- |
 | ![[comm-example-2.png]] | ![[comm-example-4.png]] |
 
 ### Flat Color
 
 | ![[comm-example-6.png]] | ![[comm-example-7.png]] |
-| --------------------------------------- | --------------------------------------- |
+| ----------------------- | ----------------------- |
 
 ### Grayscale
 
 | ![[comm-example-1.png]] | ![[comm-example-5.png]] |
-| --------------------------------------- | --------------------------------------- |
+| ----------------------- | ----------------------- |
 
 ### Line Art
 
 | ![[comm-example-8.png]] | ![[comm-example-9.png]] |
-| --------------------------------------- | --------------------------------------- |
+| ----------------------- | ----------------------- |
