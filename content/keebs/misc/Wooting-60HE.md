@@ -10,6 +10,6 @@ tags:
 
 ## Wooting 60HE
 
-https://next.wooting.io/configurator/wooting-60he#config
+[Store page](https://next.wooting.io/configurator/wooting-60he#config)
 
 I want one of these. Please wooting, just sell the PCB by itself.
