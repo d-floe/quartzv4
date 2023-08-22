@@ -13,13 +13,13 @@ const defaultOptions: Options = {
   layout: "modern",
 }
 
-function TableOfContents({ fileData, displayClass }: QuartzComponentProps) {
+function TableOfContents({ fileData }: QuartzComponentProps) {
   if (!fileData.toc) {
     return null
   }
 
   return (
-    <div class={`toc ${displayClass}`}>
+    <div class="desktop-only">
       <button type="button" id="toc">
         <h3>Table of Contents</h3>
         <svg
