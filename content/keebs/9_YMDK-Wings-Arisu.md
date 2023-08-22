@@ -19,7 +19,7 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yybEsv9ZYbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> White Cerakote **Maker Phantom** with [[keebs/keycaps/NicePBT-Greyscale|NicePBT Greyscale]]
+> White Cerakote **Maker Phantom** with [[NicePBT-Greyscale|NicePBT Greyscale]]
 
 ### Parts
 
@@ -27,4 +27,4 @@ tags:
 - Configuration: tape mod, PE foam, plate foam
 - Plate: aluminum
 - Stabilizers: YMDK Screw-in Stabilizers
-- Switches: [[keebs/switches/Gazzew-Boba-U4T|Gazzew Boba U4T]]
+- Switches: [[Gazzew-Boba-U4T|Gazzew Boba U4T]]

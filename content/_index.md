@@ -50,9 +50,9 @@ quartz --> |Automatically deploys to GitHub Pages| website["Published to docs.d-
 >
 > -   📁 [[_index]] (You are here)
 >     -   📂[[art]]
->         -   📄 [[art/color-precision|Achieving Color Precision]]
->         -   📄 [[art/clothing-and-folds|Clothing and Folds]]
->         -   📄 [[art/commission-sheet|Commission Info]]
+>         -   📄 [[color-precision|Achieving Color Precision]]
+>         -   📄 [[clothing-and-folds|Clothing and Folds]]
+>         -   📄 [[commission-sheet|Commission Info]]
 >     -   📁 [[keyboard-index|keyboards]]
 >         -   📂 [[tags/keycaps]]
 >         -   📂 [[tags/switches]]

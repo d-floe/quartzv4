@@ -31,4 +31,4 @@ tags:
 - Configuration: tape mod, PE foam, plate foam
 - Plate: polycarbonate
 - Stabilizers: [[keebs/stabilizers/Durock-V2-Screw-in-Stabilizers|Durock V2 Screw in Stabilizers]]
-- Switches: [[keebs/switches/Gazzew-Boba-U4T-nixdork|Gazzew Boba U4T *nixdork]] / [[keebs/switches/JWK-Alpaca|JWK Alpaca]] / [[keebs/switches/JWICK-Red|JWICK Red]] / [[keebs/switches/Tecsee-Zaku|Tecsee Zaku]] / [[keebs/switches/Kailh-Box-Jade|Kailh Box Jade]]
+- Switches: [[keebs/switches/Gazzew-Boba-U4T-nixdork|Gazzew Boba U4T *nixdork]] / [[keebs/switches/JWK-Alpaca|JWK Alpaca]] / [[keebs/switches/JWICK-Red|JWICK Red]] / [[keebs/switches/Tecsee-Zaku|Tecsee Zaku]] / [[Kailh-Box-Jade|Kailh Box Jade]]
