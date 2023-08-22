@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "docs.d-floe.com",
     ignorePatterns: ["!private", "templates"],
     theme: {
       typography: {
