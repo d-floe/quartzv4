@@ -4,7 +4,7 @@ summary: "Interested in commissioning me? Check out my sheet!"
 tags:
 ---
 
-![[art/attachments/d-floe-commission-sheet-1.png]]
+![[d-floe-commission-sheet-1.png]]
 
 Thank you for checking out my commission sheet! I’m happy to work with a wide variety of requests to make a piece you like!
 
@@ -25,7 +25,7 @@ You can contact me anytime on Twitter or Discord below!
 - Flat color and Grayscale are the same price
 
 <div class="Comm">
-  <div class="Image">![[art/attachments/d-floe-commission-sheet.png]]</div>
+  <div class="Image">![[d-floe-commission-sheet.png]]</div>
   <div class="Top">Lineart / Flat / Render</div>
   <div class="Headshot">Headshot<br>85 / 97  / 110 USD</div>
   <div class="Chest-up">Chest Up<br>90 / 115  / 140 USD</div>
@@ -79,21 +79,21 @@ By commissioning me, you accept my T.O.S.
 
 ### Rendered
 
-| ![[art/attachments/comm-example.png]]   | ![[art/attachments/comm-example-3.png]] |
+| ![[comm-example.png]]   | ![[comm-example-3.png]] |
 | --------------------------------------- | --------------------------------------- |
-| ![[art/attachments/comm-example-2.png]] | ![[art/attachments/comm-example-4.png]] |
+| ![[comm-example-2.png]] | ![[comm-example-4.png]] |
 
 ### Flat Color
 
-| ![[art/attachments/comm-example-6.png]] | ![[art/attachments/comm-example-7.png]] |
+| ![[comm-example-6.png]] | ![[comm-example-7.png]] |
 | --------------------------------------- | --------------------------------------- |
 
 ### Grayscale
 
-| ![[art/attachments/comm-example-1.png]] | ![[art/attachments/comm-example-5.png]] |
+| ![[comm-example-1.png]] | ![[comm-example-5.png]] |
 | --------------------------------------- | --------------------------------------- |
 
 ### Line Art
 
-| ![[art/attachments/comm-example-8.png]] | ![[art/attachments/comm-example-9.png]] |
+| ![[comm-example-8.png]] | ![[comm-example-9.png]] |
 | --------------------------------------- | --------------------------------------- |

@@ -10,7 +10,7 @@ tags:
 
 The important thing to note about cloth is that cloth is always dead weight. Unless a force is being acted upon it, the general direction that every part of the cloth is trying to approach is always down. Cloth material is flexible enough to conform to the shape of objects but strong enough to maintain its structure without falling apart. No mass is ever added or removed, so the consistency is key to making believable cloth.
 
-![[art/attachments/clothing-and-folds.png]]
+![[clothing-and-folds.png]]
 
 In this example, clothing can  have different types of fits depending on what you're going for. The tighter the fit, the more creases you're going to see and the more those creases follow the direction of the form. Using basic shapes will help keep the believability apparent and consistent. Clothes should seldom take away from the form and space of the object (or person) covering it. Many people make the mistake of drawing on clothing without consideration for the shape or body underneath it and that can ruin the structure of the drawing. Good structure is key!
 
@@ -22,13 +22,13 @@ Below is a demonstration showing different ways clothing can conform to the body
 - B - Tight fit clothing.
 - C - Loose fit clothing.
 
-![[art/attachments/clothing-and-folds-1.png]]
+![[clothing-and-folds-1.png]]
 
 The key trick to understanding creases is **contact/tension points**. Creases will always stem from points of tension towards the ground unless acted upon by a force such as another contact point. The flexibility allows for a lot of leeway for creative liberty. There's a lot of ways to screw it up but just as many ways to bullshit your way through it with enough practice. The more you draw cloth, the better general understanding you'll have of the shape language.
 
 ## Types of folds
 
-![[art/attachments/clothing-and-folds-2.png]]
+![[clothing-and-folds-2.png]]
 
 While cloth is infinitely manipulatable, understanding the 7 different types of folds will help you get the better picture of what you should look out for in ultimately gripping its complex shape language.
 
@@ -40,7 +40,7 @@ While cloth is infinitely manipulatable, understanding the 7 different types of 
 - 6 - **Drop fold:** Curtains, towels, blankets, shirts, you name it, this type of fold is created from irregular deformations when a cloth is held up and drooping off an object. Its far less dramatic than the other folds but its everywhere.
 - 7 - **Inert fold:** This one is extremely difficult. Trying to make sense of loose cloth on the ground is just a nightmare. Highest margin of error, but also modestly easy to BS. I still haven't figured this one out but your best bet is to just use a reference if you're stuck.
 
-![[art/attachments/clothing-and-folds-3.png]]
+![[clothing-and-folds-3.png]]
 
 ## Materials
 
@@ -48,6 +48,6 @@ Last but not least, when drawing clothing it is important to figure out what kin
 
 **Thin and thick** materials can be both soft or hard. It should go without saying that the hardness of the cloth isnt affected directly by the thickness, (think thick wool sweater or thin aluminum foil if thats confusing.) Thin materials tend to fold and crease more than thick materials. These principles are great methods of getting the look and feel you're looking for.
 
-![[art/attachments/clothing-and-folds-4.png]]
+![[clothing-and-folds-4.png]]
 
 And there you have it! Now that you have the basics, go study up some cloth references, and eventually you'll get the hang of it. Practice makes perfect!

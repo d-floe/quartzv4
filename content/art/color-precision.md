@@ -16,17 +16,17 @@ tags:
 
 Before talking about color precision, it's important that we make a distinction between **precision** and **accuracy**. Precision is all about getting consistent results, while accuracy is about getting correct results. Precision and accuracy work well hand in hand, but aren't mutually correlated. For the sake of this guide, we will be prioritizing precision over accuracy.
 
-![[art/attachments/color-precision.jpg]]
+![[color-precision.jpg]]
 
 > Here's a basic diagram that helps visually describe the difference between precision and accuracy. [Image attribution](https://www.mfg-space.com/precision-vs-accuracy-what-is-the-difference/)
 
 **Color accuracy** is when the colors on all your monitors are as close to “perceptually correct” as possible. Accuracy doesn't necessarily mean that the colors on each monitor will match each other. If you're using different monitors with different color accuracy, the colors on each monitor will show up differently, despite each monitor attempting to display colors as accurately as possible.
 
-![[art/attachments/color-precision.png]]
+![[color-precision.png]]
 
 **Color precision** is when colors on all of your monitors are matching each other as close as possible. This does not typically require very expensive monitors, however, _you will always be limited by the least color capable monitor in your setup._
 
-![[art/attachments/color-precision-1.png]]
+![[color-precision-1.png]]
 
 ## So which one do you want?
 
@@ -56,7 +56,7 @@ The **white point** of your monitor is one of the most crucial things to get rig
 
 The color temperature of light is measured in Kelvin, based on the temperature and light output of [black-body radiation](https://en.wikipedia.org/wiki/Black-body_radiation). All you really need to know is the higher the temperature in kelvin, the cooler the color of light gets, which can be a little counter-intuitive.
 
-![[art/attachments/color-precision-8.png]]
+![[color-precision-8.png]]
 
 > [Image attribution](https://commons.wikimedia.org/wiki/File:Color_temperature_black_body_800-12200K.svg#/media/File:Color_temperature_black_body_800-12200K.svg)
 
@@ -64,17 +64,17 @@ A lot of sources tend to disagree on what classifies as “daylight,” “soft 
 
 If you use 5000K daylight bulbs in your room, you might want to set your white point to the 6500K photography standard.
 
-![[art/attachments/color-precision-2.png]]
+![[color-precision-2.png]]
 
 > Example of how 6500K light is perceived under **daylight** bulbs. The grays are perfectly neutral with the environment.
 
 If your room uses a warmer light bulbs, 6500K may end up looking too cold, and it may help to set your white point to something warmer such as the 5000K graphic arts industry standard.
 
-![[art/attachments/color-precision-6.png]]
+![[color-precision-6.png]]
 
 > Example of how 6500K light is perceived under **soft light** bulbs. The grays are too cool and leans toward cyan and blue.
 
-![[art/attachments/color-precision-5.png]]
+![[color-precision-5.png]]
 
 > Example of how 5000K light is perceived under **soft light** bulbs. The grays are adjusted to the environment and are perceptually neutral again.
 
@@ -86,7 +86,7 @@ Another big part of color precision is maintaining consistent brightness across 
 
 We will need to lower our brightness on the other monitors to match the monitor with the weakest peak brightness.
 
-![[art/attachments/color-precision-7.png]]
+![[color-precision-7.png]]
 
 I personally find that calibrating my monitors for **190cd/m²** generally grants the best results for my environment, however you will need to play around to find what brightness works best for your eyes and your environment.
 
@@ -98,7 +98,7 @@ Now that we understand these basic concepts, let's talk about colorimeters.
 
 **Colorimeters** are devices that are specifically designed to sense the light coming off of a monitor. They are the best solution for getting your colors as **accurate** as possible. Colorimeters do this by interfacing with **calibration software** such as DisplayCAL by sending information about the light emitted from your monitor. From there, the calibration software will generate a file called an **ICC profile,** which adjusts the colors outputted by the computer to the monitor.
 
-![[art/attachments/color-precision-9.png]]
+![[color-precision-9.png]]
 
 Each monitor will need its own unique color profile to display colors as accurately as possible. Calibration can take roughly 10–20 minutes.
 
@@ -109,38 +109,38 @@ If you have not installed [DisplayCAL](https://displaycal.net/), make sure to do
 1. Start off by plugging your colorimeter into your PC. Make sure it connects directly to the computer instead of a USB hub or secondary device.
 2. Start DisplayCAL and make sure your colorimeter is detected, and you have the correct monitor selected. You might need to experiment with which “Mode” works best for you, but don't worry if you only have one option.
 
-![[art/attachments/color-precision-10.png]]
+![[color-precision-10.png]]
 
 4. Click on the calibration tab and set your desired settings. Always set the tone curve to `Gamma 2.2` and turn on `Interactive display adjustment`.
 
-![[art/attachments/color-precision-11.png]]
+![[color-precision-11.png]]
 
 5. Now click `Calibrate & profile` at the bottom of the window. Make sure the calibration window shows up on the correct monitor. If it does not show up, make sure to cancel and try another monitor in step 2. Sometimes monitors will just show up as `Generic PnP Monitor` instead of the actual name of the monitor.
 
-![[art/attachments/color-precision-12.png]]
+![[color-precision-12.png]]
 
 6. Click `Start measurement` and follow the prompt. This window will likely show up on your main monitor. Feel free to drag it over after following the prompts on screen.
 
-![[art/attachments/color-precision-13.png]]
+![[color-precision-13.png]]
 
 7. Make sure to tilt the monitor up, so the colorimeter is flush with the screen to minimize light leak.
 
-![[art/attachments/color-precision-14.png]]
+![[color-precision-14.png]]
 
 8. Now for the most involved part of the process:
    Click `Start measurement` and wait for the window to start showing the white point bars. You will need to adjust your monitor's settings to line up the colors as close to both targets as possible.
 
-![[art/attachments/color-precision-15.png]]
+![[color-precision-15.png]]
 
 9. Open your monitor's **OSD** (on-screen display). You may need to go into the settings to reposition the OSD if it shows up in the middle of the screen. Navigate to the color temperature settings and use the user/custom setting. Your monitor's OSD may show different names and settings, so make sure to familiarize yourself with the layout.
 
-![[art/attachments/color-precision-16.png]]
+![[color-precision-16.png]]
 
 10. Edit your RGB settings. You may also need to adjust your backlight or brightness setting if the brightness is too light. If your monitor already has a backlight setting, do not adjust the brightness setting.
 
 From my experience, green tends to affect the brightness the most. What you're attempting to do is balance the red, green, and blue bars on the calibrator until you reach the target white point. If for whatever reason, your monitor cannot meet the target white level, you may need to lower the white level in step 3.
 
-![[art/attachments/color-precision-18.png]]![[art/attachments/color-precision-19.png]]
+![[color-precision-18.png]]![[color-precision-19.png]]
 
 > [!caution] Important
 >
@@ -148,21 +148,21 @@ From my experience, green tends to affect the brightness the most. What you're a
 
 11. After meeting your targets in both white point and white level, click `Stop measurement` and then click `Continue on to calibration`.
 
-![[art/attachments/color-precision-20.png]]
+![[color-precision-20.png]]
 
 12. The hard part is over. Now just sit back and let DisplayCAL do its magic. This will take longer than you may expect.
 
-![[art/attachments/color-precision-21.png]]
+![[color-precision-21.png]]
 
 13. After the calibration is complete, click `Intall profile`. You are now finished. Repeat from step 2 for your other monitors.
 
-![[art/attachments/color-precision-22.png]]
+![[color-precision-22.png]]
 
 ### Making sure your profile installed correctly
 
 You can double-check that your monitor profile is on by right-clicking your desktop and going to `Display settings`.
 
-![[art/attachments/color-precision-23.png]]
+![[color-precision-23.png]]
 
 Click on the monitor you calibrated and check if the profile you made shows up in the `Color profile` drop down box. The profile name will also give useful information about the profile.
 
@@ -174,13 +174,13 @@ The name is of the profile, structured as follows:
 
 This information will be useful for differentiating between multiple profiles in the future.
 
-![[art/attachments/color-precision-24.png]]
+![[color-precision-24.png]]
 
 ### Color checking your profile
 
 Once you've calibrated all your monitors, check your colors using a non-color-managed software such as MS Paint. Paste various images into the canvas and check to see if they look consistent between your monitors. If one of your monitors appear too saturated compared to the others, you can turn down the vibrance in your graphics card control panel.
 
-![[art/attachments/color-precision-26.png]]
+![[color-precision-26.png]]
 
 > [!note] Important Note
 >
@@ -204,13 +204,13 @@ Left is Photoshop, a color managed program. Right is MS Paint, a non-color manag
 
 The Photoshop image is desaturated and washed out. If you cannot tell the difference between the bottom two images, you probably do not need to worry about color management.
 
-![[art/attachments/color-precision-27.png]]
+![[color-precision-27.png]]
 
 This problem can have compounding negative effects.
 
 When taking screenshots of Photoshop and pasting the screenshot back in, Photoshop assumes the image is sRGB and adjusts how the colors are displayed each time. The result demonstrates just how detrimental color management is for color precision.
 
-![[art/attachments/color-precision-28.png]]
+![[color-precision-28.png]]
 
 Here's how to fix this issue on various color managed software.
 
@@ -223,7 +223,7 @@ Below is an untagged CSS element on top of a tagged sRGB image. If you see any d
 	<div class="green bar"></div>
 	<div class="blue bar"></div>
 </div>
-![[art/attachments/color-precision-1.jpg]]
+![[color-precision-1.jpg]]
 
 > [!info] Note
 >
@@ -233,19 +233,19 @@ Below is an untagged CSS element on top of a tagged sRGB image. If you see any d
 
 In Chrome, go to `chrome://flags/#force-color-profile` into your address bar, and set `Force color profile` to `sRGB`. Then, restart your browser.
 
-![[art/attachments/color-precision-29.png]]
+![[color-precision-29.png]]
 
 #### Microsoft Edge
 
 In Edge, go to `edge://flags/#force-color-profile` into your address bar, and set `Force color profile` to `sRGB`. Then, restart your browser.
 
-![[art/attachments/Pasted image 20230722051222.png]]
+![[Pasted image 20230722051222.png]]
 
 #### Firefox
 
 In Firefox, go to `about:config` into your address bar and type `srgb` in the search bar. Double-click on `gfx.color_management.native_srgb` so it switches to `true`. Then, restart your browser.
 
-![[art/attachments/color-precision-31.png]]
+![[color-precision-31.png]]
 
 #### Other browsers
 
@@ -255,8 +255,8 @@ If you are using another browser, it's either not color managed, or you know how
 
 In Obsidian, go to your user settings in the bottom left. Click on `About` in the sidebar and make sure to turn `Hardware acceleration` OFF. Your Obsidian will need to be restarted.
 
-![[art/attachments/color-precision-47.png]]
-![[art/attachments/color-precision-48.png]]
+![[color-precision-47.png]]
+![[color-precision-48.png]]
 
 > Left: `Hardware acceleration` ON | Right: `Hardware acceleration` OFF
 
@@ -264,13 +264,13 @@ In Obsidian, go to your user settings in the bottom left. Click on `About` in th
 
 Currently there doesn't appear to be a viable way to turn off color management for the Figma desktop app. I suggest using the in-browser version of the app instead for color sensitive usage.
 
-![[art/attachments/color-precision-52.png]]
+![[color-precision-52.png]]
 
 > Left: Figma in Firefox (sRGB) | Right: Figma desktop (sRGB color profile)
 
 You can try to set the color profile mode to `Display P3`, however this will instead slightly boost the saturation instead of displaying the colors accurately. This also affects how colors are exported, too.
 
-![[art/attachments/color-precision-53.png]]
+![[color-precision-53.png]]
 
 > Left: Figma in Firefox (sRGB) | Right: Figma desktop (Display P3 color profile)
 
@@ -278,8 +278,8 @@ You can try to set the color profile mode to `Display P3`, however this will ins
 
 In Discord, go to your user settings in the bottom left. Click on `Advanced` in the sidebar and make sure to turn `Hardware Acceleration` OFF. Your Discord will restart automatically.
 
-![[art/attachments/color-precision-33.png]]
-![[art/attachments/color-precision-36.png]]
+![[color-precision-33.png]]
+![[color-precision-36.png]]
 
 > Left: `Hardware Acceleration` ON | Right: `Hardware Acceleration` OFF
 
@@ -289,8 +289,8 @@ This one took a while to figure out because people online would explicitly say *
 
 To disable color management in Photoshop and Illustrator, simply go to `Edit` -> `Color Settings` and set the `Settings` dropdown to `Monitor Color`. Then, click `OK`.
 
-![[art/attachments/color-precision-37.png]]
-![[art/attachments/color-precision-40.png]]
+![[color-precision-37.png]]
+![[color-precision-40.png]]
 
 If you want to undo this, simply change the `Settings` dropdown to `North America General Purpose 2`.
 
@@ -298,15 +298,15 @@ If you want to undo this, simply change the `Settings` dropdown to `North Americ
 
 When using the `Save for Web` feature, make sure to uncheck `Convert to sRGB`. This will keep images from exporting _too_ saturated.
 
-![[art/attachments/color-precision-41.png]]
+![[color-precision-41.png]]
 
 Before using the Quick Export feature, go to `File` -> `Export `-> `Export Preferences` and make sure to uncheck `Convert to sRGB`.
 
-![[art/attachments/color-precision-50.png]]
+![[color-precision-50.png]]
 
 When using the `Export As` feature, make sure to uncheck `Convert to sRGB`.
 
-![[art/attachments/color-precision-51.png]]
+![[color-precision-51.png]]
 
 ### Clip Studio Paint
 
@@ -314,7 +314,7 @@ Clip Studio Paint is not color managed by default, however, if your colors in Cl
 
 To disable color management in Clip Studio Paint, simply go to `View` -> `Color Profile` and make sure `Preview` is OFF.
 
-![[art/attachments/color-precision-43.png]]
+![[color-precision-43.png]]
 
 ---
 

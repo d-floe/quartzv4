@@ -8,4 +8,4 @@ tags:
 
 ## Gateron KS-3 Milky Yellow
 
-Got these with my [[keebs/MACRO_Megalodon-Triple-Knob|Megalodon Triple Knob Macropad]]. They really surprised me with their stock smoothness. Definitely gonna recommend these to newcomers.
+Got these with my [[MACRO_Megalodon-Triple-Knob|Megalodon Triple Knob Macropad]]. They really surprised me with their stock smoothness. Definitely gonna recommend these to newcomers.

@@ -10,4 +10,4 @@ tags:
 
 ## Owlstab V1
 
-I got these with my [[keebs/14_OwLab-Spring-Arisu|Owlab Spring]]. They just remind me of [[Durock-V2-Screw-in-Stabilizers|Durock V2 Stabilizers]].
+I got these with my [[14_OwLab-Spring-Arisu|Owlab Spring]]. They just remind me of [[Durock-V2-Screw-in-Stabilizers|Durock V2 Stabilizers]].
