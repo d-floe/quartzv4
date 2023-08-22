@@ -8,9 +8,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/corne.jpg]]
+![[corne.jpg]]
 
-> **Corne** with [[keebs/keycaps/XDA-Virtual-War|XDA Virtual War]]
+> **Corne** with [[XDA-Virtual-War|XDA Virtual War]]
 
 ## Corne
 
@@ -23,4 +23,4 @@ tags:
 - Case: **3D printed ABS**
 - Configuration: PE Foam, poron plate foam
 - Plate: FR4
-- Switches: [[keebs/switches/Gazzew-Boba-U4T-Black|Gazzew Boba U4T Black]]
+- Switches: [[Gazzew-Boba-U4T-Black|Gazzew Boba U4T Black]]

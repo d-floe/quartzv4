@@ -7,9 +7,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/drop-ctrl.jpg]]
+![[drop-ctrl.jpg]]
 
-> **Drop CTRL** with [[keebs/keycaps/GMK-Red-Samurai|GMK Red Samurai]]
+> **Drop CTRL** with [[GMK-Red-Samurai|GMK Red Samurai]]
 
 ## Drop CTRL
 
@@ -43,7 +43,7 @@ The options available for In-Stock TKLs were really limited at the time, and at 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LpR41UftB7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> Drop CTRL with [[keebs/keycaps/Gliging-Bento-Clones]]
+> Drop CTRL with [[Gliging-Bento-Clones]]
 
 ### Parts
 
@@ -51,4 +51,4 @@ The options available for In-Stock TKLs were really limited at the time, and at 
 - Configuration: Stupidfish plate and case foam
 - Mounting style: integrated plate
 - Stabilizers: plate mount
-- Switches: [[keebs/switches/Glorious Panda|Glorious Panda]]
+- Switches: [[Glorious Panda|Glorious Panda]]

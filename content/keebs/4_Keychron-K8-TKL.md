@@ -7,9 +7,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/keychron-k8.jpg]]
+![[keychron-k8.jpg]]
 
-> **Keychron K8** with [[keebs/keycaps/POM-Jelly-Keycaps|POM Jelly Keycaps]]
+> **Keychron K8** with [[POM-Jelly-Keycaps|POM Jelly Keycaps]]
 
 ## Keychron K8
 
@@ -33,7 +33,7 @@ This keyboard was my gateway into keyboard modding. Since this board was hot swa
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gO5EiNsUrXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> Keychron K8 with [[keebs/keycaps/Epomaker-Red-Samurai-PBT-Clones|Epomaker Red Samurai PBT Clones]]
+> Keychron K8 with [[Epomaker-Red-Samurai-PBT-Clones|Epomaker Red Samurai PBT Clones]]
 
 ### Parts
 
@@ -41,4 +41,4 @@ This keyboard was my gateway into keyboard modding. Since this board was hot swa
 - Configuration: package foam in lower case
 - Mounting Style: integrated Plate
 - Stabilizers: plate mount
-- Switches: [[keebs/switches/Kailh-Speed-Copper|Kailh Speed Copper]] / [[keebs/switches/Glorious Panda|Glorious Panda]]
+- Switches: [[Kailh-Speed-Copper|Kailh Speed Copper]] / [[keebs/switches/Glorious Panda|Glorious Panda]]

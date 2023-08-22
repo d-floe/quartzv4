@@ -7,9 +7,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/corsair-k60.jpg]]
+![[corsair-k60.jpg]]
 
-> **Corsair K60 RGB Pro Low Profile** with [[keebs/keycaps/Tecware-Pudding-White-Keycaps|Tecware Pudding Keycaps]]
+> **Corsair K60 RGB Pro Low Profile** with [[Tecware-Pudding-White-Keycaps|Tecware Pudding Keycaps]]
 
 ## Corsair K60 RGB Pro Low Profile
 

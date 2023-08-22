@@ -7,9 +7,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/akko-mod001.jpg]]
+![[akko-mod001.jpg]]
 
-> **MOD 001** with [[keebs/keycaps/IFK-WoB|IFK WoB]] and Cheap WoB Baybayin Keycaps for missing keys.
+> **MOD 001** with [[IFK-WoB|IFK WoB]] and Cheap WoB Baybayin Keycaps for missing keys.
 
 ## Akko MOD 001
 
@@ -25,4 +25,4 @@ tags:
 - Configuration: tape mod, PE foam, plate foam
 - Plate: steel (?)
 - Stabilizers: plate mount
-- Switches: [[keebs/switches/Gazzew-Boba-U4T-nixdork|Gazzew Boba U4T *nixdork]] / [[keebs/switches/Clear-Top-Holy-Bobas|Clear Top Holy Bobas]]
+- Switches: [[Gazzew-Boba-U4T-nixdork|Gazzew Boba U4T *nixdork]] / [[Clear-Top-Holy-Bobas|Clear Top Holy Bobas]]

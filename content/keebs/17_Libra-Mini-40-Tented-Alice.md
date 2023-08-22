@@ -8,9 +8,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/libra-mini.jpg]]
+![[libra-mini.jpg]]
 
-> **Libra Mini** with [[keebs/keycaps/NicePBT-Shinbun|NicePBT Shinbun]]
+> **Libra Mini** with [[NicePBT-Shinbun|NicePBT Shinbun]]
 
 ## Libra Mini
 
@@ -26,16 +26,16 @@ tags:
 - Configuration: PE foam
 - Plate: steel
 - Stabilizers: unknown
-- Switches: [[keebs/switches/JWICK-Red|JWICK Red]]
+- Switches: [[JWICK-Red|JWICK Red]]
 
 ## Photoshoot
 
-![[keebs/attachments/17_Libra-Mini-40-Tented-Alice-4.jpg]]
+![[17_Libra-Mini-40-Tented-Alice-4.jpg]]
 
-![[keebs/attachments/17_Libra-Mini-40-Tented-Alice-3.jpg]]
+![[17_Libra-Mini-40-Tented-Alice-3.jpg]]
 
-![[keebs/attachments/17_Libra-Mini-40-Tented-Alice-2.jpg]]
+![[17_Libra-Mini-40-Tented-Alice-2.jpg]]
 
-![[keebs/attachments/17_Libra-Mini-40-Tented-Alice-1.jpg]]
+![[17_Libra-Mini-40-Tented-Alice-1.jpg]]
 
-![[keebs/attachments/17_Libra-Mini-40-Tented-Alice.jpg]]
+![[17_Libra-Mini-40-Tented-Alice.jpg]]

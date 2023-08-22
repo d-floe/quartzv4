@@ -7,9 +7,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/ymdk-wings.jpg]]
+![[ymdk-wings.jpg]]
 
-> **YMDK Wings** with [[keebs/keycaps/IFK-BRED-R2|IFK BRED R2]]
+> **YMDK Wings** with [[IFK-BRED-R2|IFK BRED R2]]
 
 ## YMDK Wings
 

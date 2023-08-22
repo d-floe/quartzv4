@@ -7,7 +7,7 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/corsair-k65.jpg]]
+![[corsair-k65.jpg]]
 
 > Best photo I have of my **Corsair K65 LUX RGB**
 

@@ -7,9 +7,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/maker-phantom.jpg]]
+![[maker-phantom.jpg]]
 
-> White Cerakote **Maker Phantom** with [[keebs/keycaps/NicePBT-Greyscale|NicePBT Greyscale]] + [[keebs/keycaps/IFK-WoB|IFK WoB]] Accents
+> White Cerakote **Maker Phantom** with [[NicePBT-Greyscale|NicePBT Greyscale]] + [[IFK-WoB|IFK WoB]] Accents
 
 ## Maker Phantom
 
@@ -40,14 +40,14 @@ Probably my first self-proclaimed “premium” mechanical keyboard that I bough
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rRKLoyT3TO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> Original coating **Maker Phantom** with [[keebs/keycaps/GMK-Red-Samurai|GMK Red Samurai]]
+> Original coating **Maker Phantom** with [[GMK-Red-Samurai|GMK Red Samurai]]
 
 ### Parts
 
 - Case: Aluminum
 - Configuration: case shelf liner, PE foam, Swagkeys 65% plate foam
 - Plate: POM
-- Stabilizers: [[keebs/stabilizers/Durock-V2-Screw-in-Stabilizers|Durock V2 Screw-in Stabilizers]] / [[keebs/stabilizers/Cherry-Snap-in-Stabilizers|Cherry Snap in Stabilizers]]
-- Switches: [[keebs/switches/Gazzew-Boba-U4T-Black|Gazzew Boba U4T Black]]
+- Stabilizers: [[Durock-V2-Screw-in-Stabilizers|Durock V2 Screw-in Stabilizers]] / [[Cherry-Snap-in-Stabilizers|Cherry Snap in Stabilizers]]
+- Switches: [[Gazzew-Boba-U4T-Black|Gazzew Boba U4T Black]]
 
-![[keebs/attachments/maker-phantom-2.jpg]]
+![[maker-phantom-2.jpg]]

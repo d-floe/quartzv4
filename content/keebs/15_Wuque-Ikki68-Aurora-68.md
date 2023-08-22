@@ -7,9 +7,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/ikki68-aurora.jpg]]
+![[ikki68-aurora.jpg]]
 
-> **Ikki68 Aurora** with [[keebs/keycaps/IFK-Monochrome|IFK Monochrome]] and [[keebs/keycaps/NicePBT-Sailor|NicePBT Sailor]] accent keys.
+> **Ikki68 Aurora** with [[IFK-Monochrome|IFK Monochrome]] and [[NicePBT-Sailor|NicePBT Sailor]] accent keys.
 
 ## Wuque Ikki68 Aurora
 
@@ -24,6 +24,6 @@ tags:
 - Case: e-coat aluminum top, navy blue injection-molded polycarbonate bottom
 - Configuration: case foam, PE Foam, plate Foam
 - Plate: brass
-- Stabilizers: [[keebs/stabilizers/Aurora-Zen-Pond-Stabilizers|Aurora x Zen Pond Stabilizers]]
-- Switches: [[keebs/switches/JWK-Alpaca|JWK Alpaca]]
+- Stabilizers: [[Aurora-Zen-Pond-Stabilizers|Aurora x Zen Pond Stabilizers]]
+- Switches: [[JWK-Alpaca|JWK Alpaca]]
 - Weight: brass

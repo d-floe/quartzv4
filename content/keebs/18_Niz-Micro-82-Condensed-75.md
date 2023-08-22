@@ -7,7 +7,7 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/niz-micro-82.png]]
+![[niz-micro-82.png]]
 
 > **Niz Micro 82** with stock keycaps
 
@@ -24,6 +24,6 @@ tags:
 - Case: red and black anodized aluminum
 - Configuration: 1 layer of case foam, PE Foam, plate foam
 - Plate: FR4
-- Stabilizers: [[keebs/stabilizers/TX-Stabilizers-Rev-3|TX Stabilizers Rev.3]]
-- Switches: [[keebs/switches/JWK-Alpaca|JWK Alpaca]] + [[keebs/switches/JWICK-Black|JWICK Black]] for F-row
+- Stabilizers: [[TX-Stabilizers-Rev-3|TX Stabilizers Rev.3]]
+- Switches: [[JWK-Alpaca|JWK Alpaca]] + [[JWICK-Black|JWICK Black]] for F-row
 - Weight: gold-plated brass

@@ -7,8 +7,8 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/20_Command65-Exploded-65.png]]
-![[keebs/attachments/command65.png]]
+![[20_Command65-Exploded-65.png]]
+![[command65.png]]
 
 ## Command65
 
@@ -19,7 +19,7 @@ tags:
 
 ### Summary
 
-This retro callback to the Commodore64 oozes of fun and style. The [[keebs/switches/NovelKeys-Cream-Clickie|NovelKeys Cream Clickies]] perfectly complements the retro style of this board and thus making it an excellent typist experience. I pull out this bad boy any time I want to type an essay or write notes because the deep reverberating clicks are just that satisfying.
+This retro callback to the Commodore64 oozes of fun and style. The [[NovelKeys-Cream-Clickie|NovelKeys Cream Clickies]] perfectly complements the retro style of this board and thus making it an excellent typist experience. I pull out this bad boy any time I want to type an essay or write notes because the deep reverberating clicks are just that satisfying.
 
 ### Parts
 
@@ -28,11 +28,11 @@ https://www.play-keyboard.store/products/command-65
 - Add-ons: Nokia batteries for wireless Bluetooth functionality
 - Case: ivory injection-molded ABS plastic
 - Configuration: lower case silicone
-- Keycaps: [[keebs/keycaps/IFK-WoB|IFK WoB]]
+- Keycaps: [[IFK-WoB|IFK WoB]]
 - Plate: black sandblasted aluminum
     - Make sure to file down the notches on the plate. The tolerances on this plate are very tight and can even be problematic for cherry switches.
 - Stabilizers: [[keebs/stabilizers/TX-AP-Stabilizers-Rev-4|TX AP Stabilizers Rev.4]]
-- Switches: [[keebs/switches/Kailh-Box-Jade|Kailh Box Jade]] / [[keebs/switches/NovelKeys-Cream-Clickie|NovelKeys Cream Clickie]]
+- Switches: [[Kailh-Box-Jade|Kailh Box Jade]] / [[NovelKeys-Cream-Clickie|NovelKeys Cream Clickie]]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Rp_AqlqRecU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -50,18 +50,18 @@ https://www.play-keyboard.store/products/command-65
 
 ## Photoshoot
 
-![[keebs/attachments/20_Command65-Exploded-65-8.png]]
+![[20_Command65-Exploded-65-8.png]]
 
-![[keebs/attachments/20_Command65-Exploded-65-7.png]]
+![[20_Command65-Exploded-65-7.png]]
 
-![[keebs/attachments/20_Command65-Exploded-65-6.png]]
+![[20_Command65-Exploded-65-6.png]]
 
-![[keebs/attachments/20_Command65-Exploded-65-1.png]]
+![[20_Command65-Exploded-65-1.png]]
 
-![[keebs/attachments/20_Command65-Exploded-65-2.png]]
+![[20_Command65-Exploded-65-2.png]]
 
-![[keebs/attachments/20_Command65-Exploded-65-5.png]]
+![[20_Command65-Exploded-65-5.png]]
 
-![[keebs/attachments/20_Command65-Exploded-65-4.png]]
+![[20_Command65-Exploded-65-4.png]]
 
-![[keebs/attachments/20_Command65-Exploded-65-3.png]]
+![[20_Command65-Exploded-65-3.png]]

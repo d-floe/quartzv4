@@ -7,9 +7,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/gk64.jpg]]
+![[gk64.jpg]]
 
-> **GK64** with [[keebs/keycaps/Gliging-White-Hiragana|Gliging White Hiragana]]
+> **GK64** with [[Gliging-White-Hiragana|Gliging White Hiragana]]
 
 ## Skyloong GK64
 
@@ -41,13 +41,13 @@ Got this board shortly before returning my Drop CTRL. I don't specifically remem
 - Configuration: Vinyl Shelf Liner Case Foam, PE Foam
 - Mounting style: burger-tray mount
 - Plate: steel
-- Stabilizers: [[keebs/stabilizers/Durock-V2-Plate-Mount-Stabilizers|Durock V2 Plate Mount Stabilizers]]
-- Switches: [[keebs/switches/Gazzew-Boba-U4|Gazzew Boba U4]]
+- Stabilizers: [[Durock-V2-Plate-Mount-Stabilizers|Durock V2 Plate Mount Stabilizers]]
+- Switches: [[Gazzew-Boba-U4|Gazzew Boba U4]]
 
 ### Alternative Configs
 
 - Case: Walnut Wood
 - Switches: Glorious Panda
 
-![[keebs/attachments/gk-bounce-1.gif]]
-![[keebs/attachments/gk-bounce-2.gif]]
+![[gk-bounce-1.gif]]
+![[gk-bounce-2.gif]]

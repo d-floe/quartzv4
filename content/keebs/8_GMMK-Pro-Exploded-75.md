@@ -7,7 +7,7 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/gmmk-pro.jpg]]
+![[gmmk-pro.jpg]]
 
 > **GMMK Pro** with [[keebs/keycaps/WianXP-Hammerhead-Clones|WianXP Hammerhead Clones]]
 

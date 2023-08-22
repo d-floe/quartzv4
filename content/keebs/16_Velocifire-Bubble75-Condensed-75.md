@@ -7,9 +7,9 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/bubble75.jpg]]
+![[bubble75.jpg]]
 
-> **Bubble75** with [[keebs/keycaps/IFK-WoB|IFK WoB]]
+> **Bubble75** with [[IFK-WoB|IFK WoB]]
 
 ## Velocifire Bubble75
 
@@ -24,16 +24,16 @@ tags:
 - Case: red and black anodized aluminum
 - Configuration: 1 layer of case foam, PE Foam, plate foam
 - Plate: FR4
-- Stabilizers: [[keebs/stabilizers/TX-Stabilizers-Rev-3|TX Stabilizers Rev.3]]
-- Switches: [[keebs/switches/JWK-Alpaca|JWK Alpaca]] + [[keebs/switches/JWICK-Black|JWICK Black]] for F-row
+- Stabilizers: [[TX-Stabilizers-Rev-3|TX Stabilizers Rev.3]]
+- Switches: [[JWK-Alpaca|JWK Alpaca]] + [[JWICK-Black|JWICK Black]] for F-row
 - Weight: gold-plated brass
 
 ## Photoshoot
 
-![[keebs/attachments/16_Velocifire-Bubble75-Condensed-75-3.png]]
+![[16_Velocifire-Bubble75-Condensed-75-3.png]]
 
-![[keebs/attachments/16_Velocifire-Bubble75-Condensed-75-2.png]]
+![[16_Velocifire-Bubble75-Condensed-75-2.png]]
 
-![[keebs/attachments/16_Velocifire-Bubble75-Condensed-75-1.png]]
+![[16_Velocifire-Bubble75-Condensed-75-1.png]]
 
-![[keebs/attachments/16_Velocifire-Bubble75-Condensed-75.png]]
+![[16_Velocifire-Bubble75-Condensed-75.png]]

@@ -7,7 +7,7 @@ tags:
 - keyboard
 ---
 
-![[keebs/attachments/rk84.png]]
+![[rk84.png]]
 
 > Image attribution: [Royal Kludge](https://rkgamingstore.com/collections/75-keyboards/products/rk84-75-percent-keyboard)
 
