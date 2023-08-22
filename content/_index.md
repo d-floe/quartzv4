@@ -1,6 +1,6 @@
 ---
 summary: "Welcome to d-floe’s documents: My personal notes, guides, and documentation database." 
-enabletoc: false
+enableToc: false
 ---
 
 ![[index.png]]
