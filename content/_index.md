@@ -3,7 +3,7 @@ summary: "Welcome to d-floe’s documents: My personal notes, guides, and docume
 enabletoc: false
 ---
 
-![[attachments/_index.png]]
+![[_index.png]]
 
 Welcome to d-floe's documents. Feel free to browse and look around. This site is still very much a work-in-progress.
 
