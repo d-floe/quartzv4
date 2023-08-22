@@ -13,9 +13,9 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Signika Negative",
+        body: "Exo 2",
+        code: "Source Code Pro",
       },
       colors: {
         lightMode: {
@@ -67,7 +67,7 @@ const config: QuartzConfig = {
         enableRSS: true,
       }),
       Plugin.Assets(),
-      Plugin.Static()
+      Plugin.Static(),
     ],
   },
 }
