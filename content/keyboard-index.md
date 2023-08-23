@@ -33,9 +33,9 @@ gantt
         section 60%
         GK64:a6, June 20th 2021,August 13th 2021
         Blade60:a11, October 15th 2021,March 9th 2023
-        Isabell:a19, February 4th 2023,August 18th 2023
-        Sharkeneko:a21, May 4th 2023,August 18th 2023
-        UC Model F62:a22, July 22nd 2023,August 18th 2023
+        Isabell:a19, February 4th 2023,August 22nd 2023
+        Sharkeneko:a21, May 4th 2023,August 22nd 2023
+        UC Model F62:a22, July 22nd 2023,August 22nd 2023
         
 		section Ergo
         YMDK Wings:a9, September 7th 2021,December 16th 2021
@@ -44,8 +44,8 @@ gantt
 		Libra Mini:a17, November 3rd 2022,November 6th 2022
 		
 		section Macropad
-		Pikatea GB4:apk, December 5th 2022,July 26th 2023
-		Megalodon Triple Knob:atk, June 3rd 2023,July 26th 2023
+		Pikatea GB4:apk, December 5th 2022,August 22nd 2023
+		Megalodon Triple Knob:atk, June 3rd 2023,August 22nd 2023
 ```
 
 ## Currently Own
