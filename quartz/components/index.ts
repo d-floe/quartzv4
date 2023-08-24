@@ -15,7 +15,9 @@ import Search from "./Search"
 import Footer from "./Footer"
 import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
+import GlobalNav from "./GlobalNav"
 import RecentNotes from "./RecentNotes"
+
 
 export {
   ArticleTitle,
@@ -35,5 +37,6 @@ export {
   Footer,
   DesktopOnly,
   MobileOnly,
-  RecentNotes,
+  GlobalNav,
+  RecentNotes
 }
