@@ -16,7 +16,6 @@ import http from "http"
 import serveHandler from "serve-handler"
 import { WebSocketServer } from "ws"
 import { randomUUID } from "crypto"
-import { Mutex } from "async-mutex"
 
 const ORIGIN_NAME = "origin"
 const UPSTREAM_NAME = "upstream"
@@ -137,10 +136,7 @@ async function popContentFolder(contentFolder) {
 
 function gitPull(origin, branch) {
   const flags = ["--no-rebase", "--autostash", "-s", "recursive", "-X", "ours", "--no-edit"]
-  const out = spawnSync("git", ["pull", ...flags, origin, branch], { stdio: "inherit" })
-  if (out.stderr) {
-    throw new Error(`Error while pulling updates: ${out.stderr}`)
-  }
+  spawnSync("git", ["pull", ...flags, origin, branch], { stdio: "inherit" })
 }
 
 yargs(hideBin(process.argv))
@@ -253,19 +249,19 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
     outro(`You're all set! Not sure what to do next? Try:
    • Customizing Quartz a bit more by editing \`quartz.config.ts\`
    • Running \`npx quartz build --serve\` to preview your Quartz locally
-   • Hosting your Quartz online (see: https://quartz.jzhao.xyz/hosting)
+   • Hosting your Quartz online (see: https://quartz.jzhao.xyz/setup/hosting)
 `)
   })
   .command("update", "Get the latest Quartz updates", CommonArgv, async (argv) => {
     const contentFolder = path.join(cwd, argv.directory)
     console.log(chalk.bgGreen.black(`\n Quartz v${version} \n`))
     console.log("Backing up your content")
-    execSync(
-      `git remote show upstream || git remote add upstream https://github.com/jackyzha0/quartz.git`,
-    )
     await stashContentFolder(contentFolder)
     console.log(
       "Pulling updates... you may need to resolve some `git` conflicts if you've made changes to components or plugins.",
+    )
+    execSync(
+      `git remote show upstream || git remote add upstream https://github.com/jackyzha0/quartz.git`,
     )
     gitPull(UPSTREAM_NAME, QUARTZ_SOURCE_BRANCH)
     await popContentFolder(contentFolder)
@@ -390,23 +386,8 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
       ],
     })
 
-    const buildMutex = new Mutex()
-    let lastBuildMs = 0
-    let cleanupBuild = null
+    const timeoutIds = new Set()
     const build = async (clientRefresh) => {
-      const buildStart = new Date().getTime()
-      lastBuildMs = buildStart
-      const release = await buildMutex.acquire()
-      if (lastBuildMs > buildStart) {
-        release()
-        return
-      }
-
-      if (cleanupBuild) {
-        await cleanupBuild()
-        console.log(chalk.yellow("Detected a source code change, doing a hard rebuild..."))
-      }
-
       const result = await ctx.rebuild().catch((err) => {
         console.error(`${chalk.red("Couldn't parse Quartz configuration:")} ${fp}`)
         console.log(`Reason: ${chalk.grey(err)}`)
@@ -432,8 +413,15 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
       clientRefresh()
     }
 
+    const rebuild = (clientRefresh) => {
+      timeoutIds.forEach((id) => clearTimeout(id))
+      timeoutIds.add(setTimeout(() => build(clientRefresh), 250))
+    }
+
     if (argv.serve) {
+      const wss = new WebSocketServer({ port: 3001 })
       const connections = []
+      wss.on("connection", (ws) => connections.push(ws))
       const clientRefresh = () => connections.forEach((conn) => conn.send("rebuild"))
 
       if (argv.baseDir !== "" && !argv.baseDir.startsWith("/")) {
@@ -460,12 +448,6 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
           await serveHandler(req, res, {
             public: argv.output,
             directoryListing: false,
-            headers: [
-              {
-                source: "**/*.html",
-                headers: [{ key: "Content-Disposition", value: "inline" }],
-              },
-            ],
           })
           const status = res.statusCode
           const statusString =
@@ -524,8 +506,6 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
         return serve()
       })
       server.listen(argv.port)
-      const wss = new WebSocketServer({ port: 3001 })
-      wss.on("connection", (ws) => connections.push(ws))
       console.log(
         chalk.cyan(
           `Started a Quartz server listening at http://localhost:${argv.port}${argv.baseDir}`,
@@ -537,7 +517,8 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
           ignoreInitial: true,
         })
         .on("all", async () => {
-          build(clientRefresh)
+          console.log(chalk.yellow("Detected a source code change, doing a hard rebuild..."))
+          rebuild(clientRefresh)
         })
     } else {
       await build(() => {})

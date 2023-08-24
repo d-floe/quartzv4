@@ -16,7 +16,6 @@ import { Argv, BuildCtx } from "./util/ctx"
 import { glob, toPosixPath } from "./util/glob"
 import { trace } from "./util/trace"
 import { options } from "./util/sourcemap"
-import { Mutex } from "async-mutex"
 
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const ctx: BuildCtx = {
@@ -81,10 +80,10 @@ async function startServing(
   }
 
   const initialSlugs = ctx.allSlugs
-  let lastBuildMs = 0
-  const toRebuild: Set<FilePath> = new Set()
-  const toRemove: Set<FilePath> = new Set()
-  const trackedAssets: Set<FilePath> = new Set()
+  let timeoutIds: Set<ReturnType<typeof setTimeout>> = new Set()
+  let toRebuild: Set<FilePath> = new Set()
+  let toRemove: Set<FilePath> = new Set()
+  let trackedAssets: Set<FilePath> = new Set()
   async function rebuild(fp: string, action: "add" | "change" | "delete") {
     // don't do anything for gitignored files
     if (ignored(fp)) {
@@ -110,51 +109,45 @@ async function startServing(
       toRemove.add(filePath)
     }
 
+    timeoutIds.forEach((id) => clearTimeout(id))
+
     // debounce rebuilds every 250ms
+    timeoutIds.add(
+      setTimeout(async () => {
+        const perf = new PerfTimer()
+        console.log(chalk.yellow("Detected change, rebuilding..."))
+        try {
+          const filesToRebuild = [...toRebuild].filter((fp) => !toRemove.has(fp))
 
-    const buildStart = new Date().getTime()
-    lastBuildMs = buildStart
-    const release = await mut.acquire()
-    if (lastBuildMs > buildStart) {
-      release()
-      return
-    }
+          const trackedSlugs = [...new Set([...contentMap.keys(), ...toRebuild, ...trackedAssets])]
+            .filter((fp) => !toRemove.has(fp))
+            .map((fp) => slugifyFilePath(path.posix.relative(argv.directory, fp) as FilePath))
 
-    const perf = new PerfTimer()
-    console.log(chalk.yellow("Detected change, rebuilding..."))
-    try {
-      const filesToRebuild = [...toRebuild].filter((fp) => !toRemove.has(fp))
+          ctx.allSlugs = [...new Set([...initialSlugs, ...trackedSlugs])]
+          const parsedContent = await parseMarkdown(ctx, filesToRebuild)
+          for (const content of parsedContent) {
+            const [_tree, vfile] = content
+            contentMap.set(vfile.data.filePath!, content)
+          }
 
-      const trackedSlugs = [...new Set([...contentMap.keys(), ...toRebuild, ...trackedAssets])]
-        .filter((fp) => !toRemove.has(fp))
-        .map((fp) => slugifyFilePath(path.posix.relative(argv.directory, fp) as FilePath))
+          for (const fp of toRemove) {
+            contentMap.delete(fp)
+          }
 
-      ctx.allSlugs = [...new Set([...initialSlugs, ...trackedSlugs])]
-      const parsedContent = await parseMarkdown(ctx, filesToRebuild)
-      for (const content of parsedContent) {
-        const [_tree, vfile] = content
-        contentMap.set(vfile.data.filePath!, content)
-      }
+          await rimraf(argv.output)
+          const parsedFiles = [...contentMap.values()]
+          const filteredContent = filterContent(ctx, parsedFiles)
+          await emitContent(ctx, filteredContent)
+          console.log(chalk.green(`Done rebuilding in ${perf.timeSince()}`))
+        } catch {
+          console.log(chalk.yellow(`Rebuild failed. Waiting on a change to fix the error...`))
+        }
 
-      for (const fp of toRemove) {
-        contentMap.delete(fp)
-      }
-
-      const parsedFiles = [...contentMap.values()]
-      const filteredContent = filterContent(ctx, parsedFiles)
-      // TODO: we can probably traverse the link graph to figure out what's safe to delete here
-      // instead of just deleting everything
-      await rimraf(argv.output)
-      await emitContent(ctx, filteredContent)
-      console.log(chalk.green(`Done rebuilding in ${perf.timeSince()}`))
-    } catch {
-      console.log(chalk.yellow(`Rebuild failed. Waiting on a change to fix the error...`))
-    }
-
-    clientRefresh()
-    toRebuild.clear()
-    toRemove.clear()
-    release()
+        clientRefresh()
+        toRebuild.clear()
+        toRemove.clear()
+      }, 250),
+    )
   }
 
   const watcher = chokidar.watch(".", {
