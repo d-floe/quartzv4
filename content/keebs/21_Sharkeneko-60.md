@@ -21,6 +21,8 @@ My baby, my ultimate daily driver. This board feels, sounds, and looks exactly h
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xm_P2Fgp8us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 ### Journey
 
 #### Original Concept
@@ -29,18 +31,20 @@ This keyboard came from the desire to own a stand-in for the highly coveted— a
 
 While I was intrigued by Kalam's efforts to clone the Singa Unikorn, I was remiss to discover that they would **not** be producing the board in anodized black, which was a bummer. So, upon finding this out, I took it upon myself to learn Fusion360.
 
-Now, of course, I did not design the Sharkeneko from scratch, and to say that I even "designed" it at all is generous at best. The design of the Sharkeneko was effectively poached from the open-source `glizzy-60-hidden-jst`, which was a fork of [glizzy-goblin](https://github.com/glizzy-goblin/)'s [glizzy-60](https://github.com/glizzy-goblin/glizzy-60). All I effectively did was extrude my name and logo onto the board. This however, as simple as it sounds on paper, was really difficult to figure out coming from a background of zero prior Fusion360 knowledge. 
+Now, of course, I did not design the Sharkeneko from scratch, and to say that I even "designed" it at all is generous at best. The design of the Sharkeneko was effectively poached from the open-source `glizzy-60-hidden-jst`, which was a fork of [glizzy-goblin](https://github.com/glizzy-goblin/)'s [glizzy-60](https://github.com/glizzy-goblin/glizzy-60). All I effectively did was extrude my name and logo onto the board. This however, as simple as it sounds on paper, was really difficult to figure out coming from a background of zero prior Fusion360 knowledge.
 
 I tried a few different approaches to the design such as:
 
 ![[21_Sharkeneko-60.png]]
+
 > Standard brass weight with engraved logo
 
 ![[21_Sharkeneko-60-1.png]]
+
 > Brass weight with carbon fiber backplate.
 
-
 ![[21_Sharkeneko-60-2.png]]
+
 > Brass weight with keycult/2 style aluminum backplate
 
 Ultimately, due to manufacturing restrictions of 1mm minimum thickness, I ended up settling for the first design, and after much deliberation, I decided to go with a PVD finish instead of sand-blasted brass. This would ultimately prove to be a blunder (or perhaps a blessing in disguise?).
@@ -49,7 +53,7 @@ Ultimately, due to manufacturing restrictions of 1mm minimum thickness, I ended 
 
 #### Stainless-steel weight
 
-
+...
 
 #### Brass Patina
 
