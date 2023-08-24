@@ -13,16 +13,25 @@ tags:
 - Received: July 22nd, 2023
 - Weight (built): 1609g / 3.547lbs
 
-### Introspective
+### Summary
+
+My first (or second) experience with non-MX style switches in a keyboard. The IBM Model F is coveted as one of the greats when it comes to "mechanical" switches. This reproduction unit by Ellipse of Model F Labs serves to bring back the magic of the Model F keyboard with a lot of modern enhancements. Suffice it to say, I am very happy with the experience of typing on this board minus one small caveat. My biggest gripe with this board, and consequently any other buckling spring keyboard is the fact that there is simply no way to flip the spacebar. The asymmetrical design of the keycap stem paired with the fact that the spacebar wire attaches directly to only one side of the spacebar keycap makes it so that you are required to use this in its standard spacebar configuration. I find this to be really uncomfortable because my thumb is essentially pressing right against the hard edge of the keycap rather than the smooth edge afforded by a flipped spacebar. This was such an issue that I attempted to model my own keycap and have it resin 3D printed by JLCPCB, but to no avail. The tolerances on buckling-spring stems are really specific which makes the mechanism really difficult to replicate. I don't have the time or money to fine tune this problem. Despite that glaring issue, I still have a great time typing on this board and I find the typing experience to be very pleasant otherwise. The deep clicks are much preferable to the high pitch clicks you'd often hear in MX-Style switches. The mechanism is also reasonably smooth if you take the time to lube the keycap stems with Krytox 205g0. You might also notice that there is no coating on this keyboard. When I had originally bought this board from a seller off Mechmarket, the original coating on it was a powder-coated black. I wasn't thrilled with the look and feel of it so I took it upon myself to strip the coating by submerging the pieces in a vat of Klear-Strip for roughly 2 days. Overall, I think the result turned out great and gives a raw look to the design. So far the Zinc hasn't shown any clear sings of tarnishing but I do anticipate it to eventually show some wear. There's still a marginal amount of residue left over from the stripping so the finish isn't perfect, but I think it gives the board a lot of character. Despite there being no "integrated" weight in this board like you see in a lot of premium customs, this still out-weighs my Sharkeneko 1600g to 1470g. The steel inner assembly paired with the thick zinc chassis makes this a weapon of a keyboard.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1n-yxSOP_GY?si=cgtfScKX1Bhmag_B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+### Journey
+#### Introspective
 
 This board will probably be my first real commitment to leaving the MX switch space. I did experiment a little with the Niz switches, but other than that, I've never tried anything else. I hear the Model F Buckling springs are excellent, and I think it'll be a perfect opportunity to really try it out in a modern form-factor. Likewise, I like juxtaposition of Modern switches in retro boards, and retro switches in modern boards. Furthermore, I don't really know what to expect with this one, but at least the board is an In-Stock option rather than a limited buy.
 
-### Purchase
+#### Purchase
 
 ![[Model-F62-Kishsaver-60.png]]
 I found this awesome deal on MechMarket for this board in black, pre modded, for only 255 USD. What a steal!
 
-### First Impressions
+#### First Impressions
 
 ![[22_Ultra-Compact-Model-F62-1.png]]
 After typing on this board for a couple days I have a few thoughts:
@@ -32,7 +41,7 @@ After typing on this board for a couple days I have a few thoughts:
 3. Whoever built this keyboard forgot to install the stabilizer stems so now I have to order them myself. The long mods are really wobbly.
 4. I'm not a fan of the rough finish of the powder-coating so I decided that I will be stripping it using a gallon of Klean Strip. Submerging the chassis in paint stripper seems to have done a great job though it takes time. If the zinc starts to tarnish I'll just have it cerakoted in silver.
 
-### Concept
+#### Concept
 
 After fiddling around in Keyboard Render Kit I found my dream setup for this board. When it comes to buckling springs boards the limiting factor for creativity is the available keycaps, so I needed to find a combination that worked with what I was able to acquire. I settled on Unicomp's custom printed Red Cyrillic keycaps on white, and I was going to combine it with the gray keycaps that I got with the board to make a Modern Dolch Light set with red Cyrillic sub legends.
 
@@ -61,7 +70,7 @@ After fiddling around in Keyboard Render Kit I found my dream setup for this boa
 
 > Final render idea using Unicomp white + gray mods red Cyrillic on silver.
 
-### Stripping Process
+#### Stripping Process
 
 To strip the original black powder coating off of the keyboard I bought a gallon of [Klean Strip paint stripper](https://www.homedepot.com/p/Klean-Strip-1-Gal-Premium-Paint-Remover-and-Stripper-GKPS300/307994460) and poured it all into a metal container. I then submerged the keyboard chassis parts into the vat of paint stripper and waited for roughly 4 hour increments, each time scraping off more and more of the residual powder coating. Originally I was having a lot of trouble getting it off but after buying a stainless steel wire brush I was able to get the coating off much faster. Paint stripper is very corrosive so I went through 3 pairs of heavy duty rubber gloves to get this project done. Try not to breathe this stuff in if you can help it, and always work in a well ventilated area. I did this on my porch witch a big fan blowing the vapors away.
 
@@ -72,7 +81,7 @@ After about a day of soaking and stripping, the final result turned out pretty d
 
 ![[22_Ultra-Compact-Model-F62-11.png]]
 
-### Flipped Spacebar Design
+#### Flipped Spacebar Design
 
 Due to the design of the buckling spring spacebar using a wire that attaches to the spacebar itself, it's impossible to simply flip the spacebar. So I took it upon myself to model a "flipped" spacebar and have it 3D printed by JLCPCB.
 I took the SCAD model from [Jaseg's Model M Keycaps](https://github.com/jaseg/Model-m), generated it using OpenSCAD, exported it as an STL and modified the rest in Blender.
@@ -96,7 +105,7 @@ After receiving the first prototype I quickly noticed a few issues with my desig
 For version two I will need to make the keycap tall enough to actuate properly but not too tall that I end up with an identical keycap to the original.
 
 ![[22_Ultra-Compact-Model-F62-17.png]]
-### Lubing Buckling Spring Keycaps
+#### Lubing Buckling Spring Keycaps
 
 Unlike MX switches, the push mechanism for buckling spring switches are driven by the integrated stem underneath the keycap. All of the friction in the keypress comes from the keycap stem rubbing against the barrel of the switch. Much like in MX switches, minimizing the friction of the stem using Krytox 205g0 greatly improves the sound and feel of the switch.
 

@@ -21,6 +21,8 @@ tags:
 
 This retro callback to the Commodore64 oozes of fun and style. The [[NovelKeys-Cream-Clickie|NovelKeys Cream Clickies]] perfectly complements the retro style of this board and thus making it an excellent typist experience. I pull out this bad boy any time I want to type an essay or write notes because the deep reverberating clicks are just that satisfying.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Rp_AqlqRecU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4gzmWPU9VB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### Parts
 
 https://www.play-keyboard.store/products/command-65
@@ -33,10 +35,6 @@ https://www.play-keyboard.store/products/command-65
     - Make sure to file down the notches on the plate. The tolerances on this plate are very tight and can even be problematic for cherry switches.
 - Stabilizers: [[TX-AP-Stabilizers-Rev-4|TX AP Stabilizers Rev.4]]
 - Switches: [[Kailh-Box-Jade|Kailh Box Jade]] / [[NovelKeys-Cream-Clickie|NovelKeys Cream Clickie]]
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Rp_AqlqRecU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4gzmWPU9VB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Pricing
 

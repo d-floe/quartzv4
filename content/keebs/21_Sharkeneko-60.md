@@ -21,9 +21,47 @@ My baby, my ultimate daily driver. This board feels, sounds, and looks exactly h
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xm_P2Fgp8us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Original Concept
+### Journey
+
+#### Original Concept
+
+This keyboard came from the desire to own a stand-in for the highly coveted— and equally controversial— **Singa Unikorn**. When I heard that Kalam, a reputable keyboard cloner, was working on a clone a keyboard that was effectively unobtanium for the average joe, I was intrigued. Normally cloning isn't that appealing to me but the Singa Unikorn had built its "gold status" reputation off of the arguably anti-consumer business practice of a raffle system that only served to create artificial scarcity and effectively lined the pockets of scalpers. That, paired with Singa's venomous approach to DMCAing designers who strayed too close to their the Unikorn fostered what effectively became an "underground" cloning scene. Designers who wanted to replicate the magic of the OTD 356mini or Singa Unikorn started making small scale group-buy runs and single unit prototypes. A good example of this would be the **Bongoneko**.
+
+While I was intrigued by Kalam's efforts to clone the Singa Unikorn, I was remiss to discover that they would **not** be producing the board in anodized black, which was a bummer. So, upon finding this out, I took it upon myself to learn Fusion360.
+
+Now, of course, I did not design the Sharkeneko from scratch, and to say that I even "designed" it at all is generous at best. The design of the Sharkeneko was effectively poached from the open-source `glizzy-60-hidden-jst`, which was a fork of [glizzy-goblin](https://github.com/glizzy-goblin/)'s [glizzy-60](https://github.com/glizzy-goblin/glizzy-60). All I effectively did was extrude my name and logo onto the board. This however, as simple as it sounds on paper, was really difficult to figure out coming from a background of zero prior Fusion360 knowledge. 
+
+I tried a few different approaches to the design such as:
+
+![[21_Sharkeneko-60.png]]
+> Standard brass weight with engraved logo
+
+![[21_Sharkeneko-60-1.png]]
+> Brass weight with carbon fiber backplate.
+
+
+![[21_Sharkeneko-60-2.png]]
+> Brass weight with keycult/2 style aluminum backplate
+
+Ultimately, due to manufacturing restrictions of 1mm minimum thickness, I ended up settling for the first design, and after much deliberation, I decided to go with a PVD finish instead of sand-blasted brass, this would ultimately prove to be a blunder (or perhaps a blessing in disguise?).
 
 ![[sharkeneko-concept.gif]]
+
+#### Stainless-steel weight
+
+
+
+#### Brass Patina
+
+The clear coat on the brass weight started to show signs of Patina. I wasn't sure what had stripped the clear-coating off the weight, but I figured that if was to get patina on my weight, I might as well make the patina look beautiful. I commissioned [LoobedSwitches](https://loobedswitches.com/) to strip the clear coat off my brass weight, and apply a rainbow patina to it inspired by these images:
+
+![[21_Sharkeneko-60.jpg]]
+![[21_Sharkeneko-60-1.jpg]]
+![[21_Sharkeneko-60-2.jpg]]
+
+> Image attributions: [kneedeeppatinas](https://www.instagram.com/kneedeeppatinas/)
+
+I eagerly await the result. These patina jobs look stellar.
 
 ### Parts
 
@@ -42,18 +80,6 @@ My baby, my ultimate daily driver. This board feels, sounds, and looks exactly h
 - [x] Feet: 8x4mm black silicone bumpers
 - [ ] Weight: rainbow patina brass ~~clear-coat brass~~ ~~PVD stainless steel~~
 
-### Brass Patina
-
-The clear coat on the brass weight started to show signs of Patina. I wasn't sure what had stripped the clear-coating off the weight, but I figured that if was to get patina on my weight, I might as well make the patina look beautiful. I commissioned [LoobedSwitches](https://loobedswitches.com/) to strip the clear coat off my brass weight, and apply a rainbow patina to it inspired by these images:
-
-![[21_Sharkeneko-60.jpg]]
-![[21_Sharkeneko-60-1.jpg]]
-![[21_Sharkeneko-60-2.jpg]]
-
-> Image attributions: [kneedeeppatinas](https://www.instagram.com/kneedeeppatinas/)
-
-I eagerly await the result. These patina jobs look stellar.
-
 ### Pricing
 
 | Vendor                    | Item                                                                                           | Subtotal                                | Total                            |
@@ -69,7 +95,8 @@ I eagerly await the result. These patina jobs look stellar.
 |                           |                                                                                                |                                         |
 | **Grand Total**           |                                                                                                | **939.60**                              | **1073.90**                      |
 
-> [!hidden]
-> Spots started to develop on weight, force patina in future or look up ways to clean with lemon juice maybe?? Find someone who can do really cool rainbow patina on brass too like kneedeeppatinas.
-> it'd be pretty sweet to have a rainbow patina on the bottom [dayum](https://www.instagram.com/p/ChXimANOcWH/?igshid=MzRlODBiNWFlZA==)
-> I ended up commissioning Loobedswitches to do a forced patina on my brass weight. They seem to have done one before so I'm excited to see the results. Should take about two to three weeks to get done.
+%%
+Spots started to develop on weight, force patina in future or look up ways to clean with lemon juice maybe?? Find someone who can do really cool rainbow patina on brass too like kneedeeppatinas.
+it'd be pretty sweet to have a rainbow patina on the bottom [dayum](https://www.instagram.com/p/ChXimANOcWH/?igshid=MzRlODBiNWFlZA==)
+I ended up commissioning Loobedswitches to do a forced patina on my brass weight. They seem to have done one before so I'm excited to see the results. Should take about two to three weeks to get done.
+%%
