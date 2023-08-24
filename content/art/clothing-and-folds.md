@@ -3,7 +3,7 @@ title: "Clothing and Folds"
 summary: "d-floe's guide to drawing clothing and folds. This guide touches on clothing physics and the different kinds of clothing folds that are commonly observed."
 date: "2020-04-13"
 tags:
-- guide
+- guides
 ---
 
 ## Thinking about cloth physics
