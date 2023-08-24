@@ -1,6 +1,6 @@
 ---
 title: "Sharkeneko - 60%"
-summary: "d-floe's keyboard overview for the Sharkeneko."
+description: "d-floe's keyboard overview for the Sharkeneko."
 tags:
 - 60Percent
 - GummyOring

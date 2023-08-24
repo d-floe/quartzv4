@@ -1,6 +1,6 @@
 ---
 title: "CMM.Studio Isabell - 60%"
-summary: "d-floe's keyboard overview for the Isabell by CMM.Studio."
+description: "d-floe's keyboard overview for the Isabell by CMM.Studio."
 tags:
 - 60Percent
 - GasketMount

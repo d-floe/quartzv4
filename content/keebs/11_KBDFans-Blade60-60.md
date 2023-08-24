@@ -1,6 +1,6 @@
 ---
 title: "KBDFans Blade60 - 60%"
-summary: "d-floe's keyboard overview for the Blade60 by KBDFans."
+description: "d-floe's keyboard overview for the Blade60 by KBDFans."
 tags:
 - 60Percent
 - TrayMount

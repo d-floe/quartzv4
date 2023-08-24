@@ -1,6 +1,6 @@
 ---
 title: "Drop CTRL - TKL"
-summary: "d-floe's keyboard overview for the CTRL by Drop."
+description: "d-floe's keyboard overview for the CTRL by Drop."
 tags:
 - TKL
 - IntegratedPlate

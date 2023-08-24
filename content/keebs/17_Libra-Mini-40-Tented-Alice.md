@@ -1,6 +1,6 @@
 ---
 title: "Libra Mini - 40% Tented Alice"
-summary: "d-floe's keyboard overview for the Libra Mini."
+description: "d-floe's keyboard overview for the Libra Mini."
 tags:
 - Alice
 - 40Percent

@@ -1,6 +1,6 @@
 ---
 title: "Skyloong GK64 - 60%"
-summary: "d-floe's keyboard overview for the GK64 by Skyloong."
+description: "d-floe's keyboard overview for the GK64 by Skyloong."
 tags:
 - 60Percent
 - TrayMount

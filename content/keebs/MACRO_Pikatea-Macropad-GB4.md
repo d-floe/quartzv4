@@ -1,6 +1,6 @@
 ---
 title: "Pikatea Macropad GB4"
-summary: "d-floe's macropad overview for the Macropad GB4 by Pikatea"
+description: "d-floe's macropad overview for the Macropad GB4 by Pikatea"
 tags:
 - Macropad
 - keyboard

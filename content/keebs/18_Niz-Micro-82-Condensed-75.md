@@ -1,6 +1,6 @@
 ---
 title: "Niz Micro 82 - Condensed 75%"
-summary: "d-floe's keyboard overview for the Micro 82 by Niz."
+description: "d-floe's keyboard overview for the Micro 82 by Niz."
 tags:
 - 75Percent
 - SandwichMount

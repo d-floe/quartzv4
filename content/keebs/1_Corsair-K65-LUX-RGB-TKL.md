@@ -1,6 +1,6 @@
 ---
 title: "Corsair K65 LUX RGB - TKL"
-summary: "d-floe's keyboard overview for the K65 LUX RGB by Corsair."
+description: "d-floe's keyboard overview for the K65 LUX RGB by Corsair."
 tags:
 - TKL
 - IntegratedPlate

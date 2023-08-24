@@ -1,6 +1,6 @@
 ---
 title: "OwLab Spring - Arisu"
-summary: "d-floe's keyboard overview for the Spring by OwLab."
+description: "d-floe's keyboard overview for the Spring by OwLab."
 tags:
 - Arisu
 - LeafSpringMount

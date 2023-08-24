@@ -1,6 +1,6 @@
 ---
 title: "Maker Phantom - 65%"
-summary: "d-floe's keyboard overview for the Phantom by Maker."
+description: "d-floe's keyboard overview for the Phantom by Maker."
 tags:
 - 65Percent
 - GummyOring

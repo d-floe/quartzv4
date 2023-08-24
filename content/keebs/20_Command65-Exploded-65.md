@@ -1,6 +1,6 @@
 ---
 title: "Command65 - Exploded 65%"
-summary: "d-floe's keyboard overview for the Command65 by Play Keyboard and BIOI."
+description: "d-floe's keyboard overview for the Command65 by Play Keyboard and BIOI."
 tags:
 - 65Percent
 - PseudoTopMount

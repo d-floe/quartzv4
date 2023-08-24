@@ -1,6 +1,6 @@
 ---
 title: "Corne - 40% Split Ortho"
-summary: "d-floe's keyboard overview for the Corne."
+description: "d-floe's keyboard overview for the Corne."
 tags:
 - 40Percent
 - Ortholinear

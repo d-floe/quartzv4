@@ -1,6 +1,6 @@
 ---
 title: "D-FLOE'S COMMISSION SHEET"
-summary: "Interested in commissioning me? Check out my sheet!"
+description: "Interested in commissioning me? Check out my sheet!"
 tags:
 ---
 

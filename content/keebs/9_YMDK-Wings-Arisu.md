@@ -1,6 +1,6 @@
 ---
 title: "YMDK Wings - Arisu"
-summary: "d-floe's keyboard overview for the Wings by YMDK."
+description: "d-floe's keyboard overview for the Wings by YMDK."
 tags:
 - Arisu
 - IntegratedPlate

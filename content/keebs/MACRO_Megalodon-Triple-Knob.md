@@ -1,6 +1,6 @@
 ---
 title: "Megalodon Triple Knob Macropad"
-summary: "d-floe's macropad overview for the Triple Knob Macropad by Megalodon"
+description: "d-floe's macropad overview for the Triple Knob Macropad by Megalodon"
 tags:
 - Macropad
 - keyboard

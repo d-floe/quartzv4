@@ -1,6 +1,6 @@
 ---
 title: "Wuque Ikki68 Aurora - 68%"
-summary: "d-floe's keyboard overview for the Ikki68 Aurora by Wuque Studio."
+description: "d-floe's keyboard overview for the Ikki68 Aurora by Wuque Studio."
 tags:
 - 65Percent
 - GasketMount

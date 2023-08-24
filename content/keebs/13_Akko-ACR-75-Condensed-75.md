@@ -1,6 +1,6 @@
 ---
 title: "Akko ACR 75 - Condensed 75%"
-summary: "d-floe's keyboard overview for the ACR 75 by Akko."
+description: "d-floe's keyboard overview for the ACR 75 by Akko."
 tags:
 - 75Percent
 - StackMount

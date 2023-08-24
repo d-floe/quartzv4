@@ -1,5 +1,5 @@
 ---
-summary: "Welcome to d-floe’s documents: My personal notes, guides, and documentation database." 
+description: "Welcome to d-floe’s documents: My personal notes, guides, and documentation database." 
 enableToc: false
 ---
 

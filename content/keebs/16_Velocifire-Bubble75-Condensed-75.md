@@ -1,6 +1,6 @@
 ---
 title: "Velocifire Bubble75 - Condensed 75%"
-summary: "d-floe's keyboard overview for the Bubble75 by Velocifire."
+description: "d-floe's keyboard overview for the Bubble75 by Velocifire."
 tags:
 - 75Percent
 - GasketMount

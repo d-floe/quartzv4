@@ -1,6 +1,6 @@
 ---
 title: "Beam Spring B62"
-summary: "d-floe's keyboard overview for the Beam Spring B62 Keyboard by Model F Labs"
+description: "d-floe's keyboard overview for the Beam Spring B62 Keyboard by Model F Labs"
 tags:
 - keyboard
 ---

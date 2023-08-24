@@ -1,6 +1,6 @@
 ---
 title: "Keychron K8 - TKL"
-summary: "d-floe's keyboard overview for the K8 by Keychron."
+description: "d-floe's keyboard overview for the K8 by Keychron."
 tags:
 - TKL
 - IntegratedPlate

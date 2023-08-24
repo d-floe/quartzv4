@@ -1,6 +1,6 @@
 ---
 title: "Akko MOD 001 - TKL"
-summary: "d-floe's keyboard overview for the MOD 001 by Akko."
+description: "d-floe's keyboard overview for the MOD 001 by Akko."
 tags:
 - TKL
 - TrayMount
