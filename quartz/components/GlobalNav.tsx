@@ -29,7 +29,7 @@ export default (() => {
           <nav>
             <ul class="overflow-nav">
                 <ul>
-                <li>📁 <a href="/" class="internal">_index</a> <ul>
+                <li>📁 <a href="/" class="internal">index</a> <ul>
                     <li>📂 <a href="/art" class="internal">art</a>
                         <ul>
                             <li>📄 <a href="/art/color-precision" class="internal">Achieving Color Precision</a></li>

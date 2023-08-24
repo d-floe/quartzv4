@@ -4,7 +4,7 @@ draft: true
 
 [!tree]
 >
-> -   📁 [[_index]] (You are here)
+> -   📁 [[index]] (You are here)
 >     -   📂[[art]]
 >         -   📄 [[color-precision|Achieving Color Precision]]
 >         -   📄 [[clothing-and-folds|Clothing and Folds]]
