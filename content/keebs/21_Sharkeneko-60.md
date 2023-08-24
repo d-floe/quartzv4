@@ -99,8 +99,3 @@ I eagerly await the result. These patina jobs look stellar.
 |                           |                                                                                                |                                         |
 | **Grand Total**           |                                                                                                | **939.60**                              | **1073.90**                      |
 
-%%
-Spots started to develop on weight, force patina in future or look up ways to clean with lemon juice maybe?? Find someone who can do really cool rainbow patina on brass too like kneedeeppatinas.
-it'd be pretty sweet to have a rainbow patina on the bottom [dayum](https://www.instagram.com/p/ChXimANOcWH/?igshid=MzRlODBiNWFlZA==)
-I ended up commissioning Loobedswitches to do a forced patina on my brass weight. They seem to have done one before so I'm excited to see the results. Should take about two to three weeks to get done.
-%%

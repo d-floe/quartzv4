@@ -715,3 +715,20 @@ ol.overflow {
     display: none;
   }
 }
+
+table {
+  margin: 0 auto !important;
+  border: 2px solid var(--lightgray) !important;
+}
+
+th, td {
+  padding: 0.3rem 0.4rem !important;
+  border: 1px solid var(--lightgray) !important;
+  line-height: 1.6rem !important;
+  min-width: 92px;
+  max-width: 240px;
+}
+
+th {
+  border-bottom: 2px solid var(--lightgray) !important;
+}
