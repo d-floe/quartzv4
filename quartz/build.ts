@@ -17,7 +17,7 @@ import { glob, toPosixPath } from "./util/glob"
 import { trace } from "./util/trace"
 import { options } from "./util/sourcemap"
 
-async function buildQuartz(argv: Argv, clientRefresh: () => void) {
+async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const ctx: BuildCtx = {
     argv,
     cfg,
@@ -37,6 +37,7 @@ async function buildQuartz(argv: Argv, clientRefresh: () => void) {
     console.log(`  Emitters: ${pluginNames("emitters").join(", ")}`)
   }
 
+  const release = await mut.acquire()
   perf.addEvent("clean")
   await rimraf(output)
   console.log(`Cleaned output directory \`${output}\` in ${perf.timeSince("clean")}`)
@@ -55,15 +56,17 @@ async function buildQuartz(argv: Argv, clientRefresh: () => void) {
   const filteredContent = filterContent(ctx, parsedFiles)
   await emitContent(ctx, filteredContent)
   console.log(chalk.green(`Done processing ${fps.length} files in ${perf.timeSince()}`))
+  release()
 
   if (argv.serve) {
-    return startServing(ctx, parsedFiles, clientRefresh)
+    return startServing(ctx, mut, parsedFiles, clientRefresh)
   }
 }
 
 // setup watcher for rebuilds
 async function startServing(
   ctx: BuildCtx,
+  mut: Mutex,
   initialContent: ProcessedContent[],
   clientRefresh: () => void,
 ) {
@@ -157,11 +160,15 @@ async function startServing(
     .on("add", (fp) => rebuild(fp, "add"))
     .on("change", (fp) => rebuild(fp, "change"))
     .on("unlink", (fp) => rebuild(fp, "delete"))
+
+  return async () => {
+    await watcher.close()
+  }
 }
 
-export default async (argv: Argv, clientRefresh: () => void) => {
+export default async (argv: Argv, mut: Mutex, clientRefresh: () => void) => {
   try {
-    return await buildQuartz(argv, clientRefresh)
+    return await buildQuartz(argv, mut, clientRefresh)
   } catch (err) {
     trace("\nExiting Quartz due to a fatal error", err as Error)
   }
