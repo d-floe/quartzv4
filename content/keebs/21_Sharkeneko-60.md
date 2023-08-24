@@ -43,7 +43,7 @@ I tried a few different approaches to the design such as:
 ![[21_Sharkeneko-60-2.png]]
 > Brass weight with keycult/2 style aluminum backplate
 
-Ultimately, due to manufacturing restrictions of 1mm minimum thickness, I ended up settling for the first design, and after much deliberation, I decided to go with a PVD finish instead of sand-blasted brass, this would ultimately prove to be a blunder (or perhaps a blessing in disguise?).
+Ultimately, due to manufacturing restrictions of 1mm minimum thickness, I ended up settling for the first design, and after much deliberation, I decided to go with a PVD finish instead of sand-blasted brass. This would ultimately prove to be a blunder (or perhaps a blessing in disguise?).
 
 ![[sharkeneko-concept.gif]]
 
