@@ -9,6 +9,7 @@ const config: QuartzConfig = {
     analytics: null,
     baseUrl: "docs.d-floe.com",
     ignorePatterns: ["!private", "templates"],
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Signika Negative",
