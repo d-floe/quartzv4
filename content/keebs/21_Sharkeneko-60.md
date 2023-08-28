@@ -51,9 +51,31 @@ Ultimately, due to manufacturing restrictions of 1mm minimum thickness, I ended 
 
 ![[sharkeneko-concept.gif]]
 
+#### Build
+
+The initial build process went pretty smoothly. I soldered [[7305-0-Gold-Sockets|7305-0 Gold Mill-Max Sockets]] onto the [[Hineybush-H60|Hineybush H60]] PCB, making sure to leave the Esc key, and both Ctrl keys bare so that when it was time to put it together, the corner switches would remain attached, ensuring that the PCB and Plate assembly would remain inseparable. This is important when it comes to gummy-oring keyboards because the corners keep the o-ring in place. If you happen to remove the corner keys, you would effectively have to reassemble the whole thing, which would end up being a major hassle. All of the other keys are completely fine to remove, though.
+
+Next, I went ahead and installed the [[TX-Stabilizers-Rev-3|stabilizers]]. With the help of Krytox XHT-BDZ, they were a breeze to tune.
+
+My first hiccup with this build was designing the stabilizer cut-outs to be too tight on the carbon fiber plate. Initially I had trouble fitting the plate onto the PCB because the cut-outs did not fit the width of the TX Stabilizers. The fix was to file down the openings with a nail file. Thankfully this was very simple and didn't cause any noticable cosmetic defects due to carbon fiber being black all the way through as opposed to coated or anodized aluminum which scratches in a metallic gray. The decision to go completely single layout and flex-cut-less on the plate resulted in a very strong and full sound signature. It was the first build I was able to make without needing any plate or pcb foam. Full plates and full PCB's are a big part of what makes a solid sound signature in a board.
+
+![[IMG_20230424_165731.jpg]]
+
+> [!note]
+>
+> The stabilizers pictured here are the long-pole variant of the TX Rev.3 stabilizers; however, I did end up swapping these out for the regular version.
+
+#### The Chassis
+
+The aluminum on this board was immaculate. Every other board I've used thus far utilized chamfered edges as opposed to filleted, but the difference between the two is night and day. I love handling this board, it's incredibly smooth to the touch and I didn't notice any machining errors whatsoever. There isn't much else to say other than it's the best anodized aluminum I've ever had the pleasure to handle.
+
+![[IMG_20230425_063936.jpg]]
+
 #### Stainless-steel weight
 
-...
+This was probably the only part of the board I had issues with. The resulting finish of the PVD stainless-steel weight was not like the others I had seen on the manufacturers Instagram. It unfortunately was covered in scratches. The manufacturer was nice about it and let me order a sandblasted brass weight as a replacement, the cost of which was only for the clear-coat and shipping.
+
+![[21_Sharkeneko-60-3.jpg]]
 
 #### Brass Patina
 
@@ -98,4 +120,3 @@ I eagerly await the result. These patina jobs look stellar.
 | LoobedSwitches            | Brass weight forced rainbow patina                                                             | 130                                     | 138.05                           |
 |                           |                                                                                                |                                         |
 | **Grand Total**           |                                                                                                | **939.60**                              | **1073.90**                      |
-
