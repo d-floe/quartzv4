@@ -34,9 +34,9 @@ gantt
         section 60%
         GK64:a6, June 20th 2021,August 13th 2021
         Blade60:a11, October 15th 2021,March 9th 2023
-        Isabell:a19, February 4th 2023,August 22nd 2023
-        Sharkeneko:a21, May 4th 2023,August 22nd 2023
-        UC Model F62:a22, July 22nd 2023,August 22nd 2023
+        Isabell:a19, February 4th 2023,August 25th 2023
+        Sharkeneko:a21, May 4th 2023,August 26th 2023
+        UC Model F62:a22, July 22nd 2023,August 26th 2023
 
 		section Ergo
         YMDK Wings:a9, September 7th 2021,December 16th 2021
@@ -45,8 +45,8 @@ gantt
 		Libra Mini:a17, November 3rd 2022,November 6th 2022
 
 		section Macropad
-		Pikatea GB4:apk, December 5th 2022,August 22nd 2023
-		Megalodon Triple Knob:atk, June 3rd 2023,August 22nd 2023
+		Pikatea GB4:apk, December 5th 2022,August 26th 2023
+		Megalodon Triple Knob:atk, June 3rd 2023,August 26th 2023
 ```
 
 ## Currently Own
@@ -59,10 +59,6 @@ gantt
 	<div class="card" onclick="location.href='/keebs/21_Sharkeneko-60';">
 			![[sharkeneko.png]]
 			[[21_Sharkeneko-60|Sharkeneko - 60%]]
-	</div>
-	<div class="card" onclick="location.href='/keebs/19_CMM-Studio-Isabell-60';">
-			![[cmm-isabell.jpg]]
-			[[19_CMM-Studio-Isabell-60|CMM.Studio Isabell - 60%]] 
 	</div>
 </ul>
 
@@ -95,9 +91,13 @@ gantt
 ## Past Projects
 
 <ul class="card-reel">
-		<div class="card" onclick="location.href='/keebs/20_Command65-Exploded-65';">
+	<div class="card" onclick="location.href='/keebs/20_Command65-Exploded-65';">
 			![[20_Command65-Exploded-65.png]]
 			[[20_Command65-Exploded-65|Command65 - Exploded 65%]] 
+	</div>
+	<div class="card" onclick="location.href='/keebs/19_CMM-Studio-Isabell-60';">
+			![[cmm-isabell.jpg]]
+			[[19_CMM-Studio-Isabell-60|CMM.Studio Isabell - 60%]] 
 	</div>
 	<div class="card" onclick="location.href='/keebs/18_Niz-Micro-82-Condensed-75';">
 			![[niz-micro-82.png]]

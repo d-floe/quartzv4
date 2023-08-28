@@ -14,6 +14,7 @@ tags:
 ## CMM.Studio Isabell
 
 - Received: Februrary 4th, 2023
+- Sold: August 25th, 2023
 - Weight (built): 993g / 2.189lbs
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/h7f791hUw1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
