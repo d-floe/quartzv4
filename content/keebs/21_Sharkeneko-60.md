@@ -79,7 +79,7 @@ This was probably the only part of the board I had issues with. The resulting fi
 
 #### Brass Patina
 
-The clear coat on the brass weight started to show signs of Patina. I wasn't sure what had stripped the clear-coating off the weight, but I figured that if was to get patina on my weight, I might as well make the patina look beautiful. I commissioned [LoobedSwitches](https://loobedswitches.com/) to strip the clear coat off my brass weight, and apply a rainbow patina to it inspired by these images:
+The clear coat on the brass weight started to show signs of patina. I wasn't sure what had stripped the clear-coating off the weight, but I figured that if was to get patina on my weight, I might as well make the patina look beautiful. I commissioned [LoobedSwitches](https://loobedswitches.com/) to strip the clear coat off my brass weight, and apply a rainbow patina to it inspired by these images:
 
 ![[21_Sharkeneko-60.jpg]]
 ![[21_Sharkeneko-60-1.jpg]]
