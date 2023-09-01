@@ -21,9 +21,9 @@ My biggest gripe with this board, and consequently any other buckling spring key
 
 Despite that glaring issue, I still have a great time typing on this board and I find the typing experience to be very pleasant otherwise. The deep clicks are much preferable to the high pitch clicks you'd often hear in MX-Style switches. The mechanism is also reasonably smooth if you take the time to lube the keycap stems with Krytox 205g0. 
 
-You might also notice that there is no coating on this keyboard. When I had originally bought this board from a seller off Mechmarket, the original coating on it was a powder-coated black. I wasn't thrilled with the look and feel of it so I took it upon myself to strip the coating by submerging the pieces in a vat of Klear-Strip for roughly 2 days. Overall, I think the result turned out great and gives a raw look to the design. So far the Zinc hasn't shown any clear sings of tarnishing but I do anticipate it to eventually show some wear. There's still a marginal amount of residue left over from the stripping so the finish isn't perfect, but I think it gives the board a lot of character. 
+You might also notice that there is no coating on this keyboard. When I had originally bought this board from a seller off Mechmarket, the original coating on it was a powder-coated black. I wasn't thrilled with the look and feel of it so I took it upon myself to strip the coating by submerging the pieces in a vat of Klear-Strip for roughly 2 days. Overall, I think the result turned out great and gives a raw look to the design. So far the aluminum hasn't shown any clear sings of tarnishing but I do anticipate it to eventually show some wear. There's still a marginal amount of residue left over from the stripping so the finish isn't perfect, but I think it gives the board a lot of character. 
 
-Despite there being no "integrated" weight in this board like you see in a lot of premium customs, this still out-weighs my Sharkeneko, 1600g to 1470g. The steel inner assembly paired with the thick zinc chassis makes this a weapon of a keyboard.
+Despite there being no "integrated" weight in this board like you see in a lot of premium customs, this still out-weighs my Sharkeneko, 1600g to 1470g. The steel inner assembly paired with the thick aluminum chassis makes this a weapon of a keyboard.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1n-yxSOP_GY?si=cgtfScKX1Bhmag_B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ After typing on this board for a couple days I have a few thoughts:
 1. These switches are really loud and really fun to type on. The click of the buckling springs are very satisfying both in sound and feel. The sound is a much more aggressive CLUNK compared to the MX clicks
 2. I really wish there was a flipped spacebar option, the edge of the spacebar currently is uncomfortable to type on because of how the edge just digs into my thumb. I might consider 3D printing one but idk how yet.
 3. Whoever built this keyboard forgot to install the stabilizer stems so now I have to order them myself. The long mods are really wobbly.
-4. I'm not a fan of the rough finish of the powder-coating so I decided that I will be stripping it using a gallon of Klean Strip. Submerging the chassis in paint stripper seems to have done a great job though it takes time. If the zinc starts to tarnish I'll just have it cerakoted in silver.
+4. I'm not a fan of the rough finish of the powder-coating so I decided that I will be stripping it using a gallon of Klean Strip. Submerging the chassis in paint stripper seems to have done a great job though it takes time. If the aluminum starts to tarnish I'll just have it cerakoted in silver.
 
 #### Concept
 
@@ -85,7 +85,7 @@ To strip the original black powder coating off of the keyboard I bought a gallon
 ![[22_Ultra-Compact-Model-F62-4.png]]
 ![[22_Ultra-Compact-Model-F62-5.png]]
 
-After about a day of soaking and stripping, the final result turned out pretty decent. There's some blemishes from the raw Zinc but some people say they like it. I'm still on the fence about it, but if it starts to really bother me I'll get it cerakoted in [H-151 Satin Aluminum](https://www.cerakote.com/shop/cerakote-coating/H-151/satin-aluminum).
+After about a day of soaking and stripping, the final result turned out pretty decent. There's some blemishes from the raw aluminum but some people say they like it. I'm still on the fence about it, but if it starts to really bother me I'll get it cerakoted in [H-151 Satin Aluminum](https://www.cerakote.com/shop/cerakote-coating/H-151/satin-aluminum).
 
 ![[22_Ultra-Compact-Model-F62-11.png]]
 
@@ -126,7 +126,7 @@ Unlike MX switches, the push mechanism for buckling spring switches are driven b
 
 ### Parts
 
-- Case: ~~Black~~ Raw Zinc
+- Case: ~~Black~~ Raw aluminum
 - Keycaps: Unicomp Red Cyrillic on Brilliant White + Gray Modifiers
     - Custom 3D printed flipped spacebar from JLCPCB(?)
 - Layout: HHKB-style split right shift and regular 2-unit wide backspace
