@@ -36,3 +36,11 @@ I later decided to go into Fusion360 and verify that the parts that I ordered wo
 ### Result
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0RQXUvb5luA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Concept
+
+![[Beam-Spring-B62-12.png]]
+
+![[Beam-Spring-B62-11.png]]
+
+![[Beam-Spring-B62-10.png]]
+
