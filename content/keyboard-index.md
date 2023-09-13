@@ -82,10 +82,6 @@ gantt
 				![[Beam-Spring-B62-Repro.jpg]]
 				[[Beam-Spring-B62|Beam Spring B62 - 60%]]
 		</div>
-		<div class="card" onclick="location.href='/keebs/Saturn-60';">
-				![[saturn-60.png]]
-				[[Saturn-60|Saturn-60-60%]]
-		</div>
 </ul>
 
 ## Past Projects
