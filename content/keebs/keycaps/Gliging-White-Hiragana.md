@@ -9,3 +9,5 @@ tags:
 > Image attribution: [Gliging](https://www.amazon.com/gp/product/B08T5YL3Q8/)
 
 # Gliging White Hiragana
+- Manufacturer: Gliging
+- Material: Dye-Sublimated PBT

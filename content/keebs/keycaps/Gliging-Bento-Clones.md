@@ -7,3 +7,5 @@ tags:
 ![[Gliging-Bento-Clones.png]]
 
 ## Gliging Bento Clones
+- Manufacturer: Gliging
+- Material: Dye-Sublimated PBT

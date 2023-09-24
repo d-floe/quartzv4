@@ -4,6 +4,14 @@ tags:
 - keycaps 
 ---
 
-![[monochrome-2.png]]![[monochrome.png]]
+![[monochrome.png]]
 
 # IFK Monochrome
+
+- Manufacturer: Infinikey
+- Distributor: TheKeyCompany
+- Material: Dye-Sublimated PBT
+
+### Kitting
+
+![[monochrome-2.png]]
