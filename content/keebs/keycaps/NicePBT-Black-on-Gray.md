@@ -4,6 +4,14 @@ tags:
 - keycaps 
 ---
 
-![[bog-2.png]]![[bog.png]]
+![[bog.png]]
 
 ## NicePBT Black on Gray
+
+- Manufacturer: NicePBT
+- Distributor: CannonKeys
+- Material: Dye-Sublimated PBT
+
+### Kitting
+
+    ![[bog-2.png]]

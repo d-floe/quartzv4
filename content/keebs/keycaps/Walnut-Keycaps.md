@@ -9,3 +9,6 @@ tags:
 ![[walnut-3.jpg]]
 
 ## Walnut Keycaps
+
+- Distributor: KBDFans
+- Material: Walnut wood

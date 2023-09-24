@@ -1,7 +1,7 @@
 ---
-title: "XDA Virtual War"
+title: XDA Virtual War
 tags:
-- example
+  - keycaps
 ---
 
 ![[XDA-Virtual-War.png]]
@@ -9,3 +9,5 @@ tags:
 > Image attribution: [Sumgsn](https://www.amazon.com/gp/product/B096RM4TFM)
 
 # XDA Virtual War
+
+- Material: Dye-sublimated PBT

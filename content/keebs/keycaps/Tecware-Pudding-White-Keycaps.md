@@ -1,7 +1,7 @@
 ---
-title: "Tecware Pudding White Keycaps"
+title: Tecware Pudding White Keycaps
 tags:
-- example
+  - keycaps
 ---
 
 ![[Tecware-Pudding-Keycaps.png]]
@@ -9,3 +9,5 @@ tags:
 > Image attribution: [TECWARE](https://www.amazon.com/gp/product/B08N6GD5SH)
 
 ## TECWARE Pudding White Keycaps
+- Distributor: TECWARE
+- Material: Doubleshot PBT

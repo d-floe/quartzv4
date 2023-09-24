@@ -8,3 +8,5 @@ tags:
 ![[pom-jelly-2.jpg]]
 
 ## POM Jelly Keycaps
+- Manufacturer: Unknown
+- Material: POM

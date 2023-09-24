@@ -7,3 +7,7 @@ tags:
 ![[sailor.jpg]]
 
 ## NicePBT Sailor
+
+- Manufacturer: NicePBT
+- Distributor: CannonKeys
+- Material: Dye-Sublimated PBT
