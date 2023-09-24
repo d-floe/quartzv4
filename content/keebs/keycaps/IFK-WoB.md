@@ -4,8 +4,10 @@ tags:
 - keycaps 
 ---
 
-![[ifk-wob.png]]
-
-> Image attribution: [u/Overlord0994](https://www.reddit.com/r/mechmarket/comments/muao6p/usnj_h_ifk_wob_keycaps_ifk_wob_cmyk_gmk_laser_r1/)
-
+![[IFK-WoB.png]]
+![[IFK-WoB-1.png]]
+![[IFK-WoB-2.png]]
 ## IFK WoB
+- Manufacturer: Infinikey
+- Distributor: TheKeyCompany
+- Material: Dye-Sublimated PBT

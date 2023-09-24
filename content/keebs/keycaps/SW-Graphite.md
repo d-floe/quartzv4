@@ -3,9 +3,12 @@ title: SW Graphite
 tags:
   - keycaps
 ---
-
-
-
+![[SW-Graphite.png]]
 # SW Graphite
 - Distributor: Swagkeys
-- Material: PBT + ABS Blend
+- Material: Doubleshot PBT + ABS blend
+
+### Kitting
+![[SW-Graphite-1.png]]
+![[SW-Graphite-2.png]]
+![[SW-Graphite-3.png]]

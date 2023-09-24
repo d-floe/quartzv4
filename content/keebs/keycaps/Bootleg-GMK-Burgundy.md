@@ -9,9 +9,8 @@ tags:
 ## Bootleg GMK Burgundy
 
 A combination of the following sets to replicate the notorious set GMK Burgundy.
-- [[Linworks-WoB]]
-- [[SW-La-Vie-En-Rose]]
-
+- [[Linworks-WoB|Linworks WoB]]
+- [[SW-La-Vie-En-Rose|SW La Vie En Rose]]
 
 ![[gmk-burgundy.png]]
 > GMK Burgundy Official Render
