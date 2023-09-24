@@ -89,30 +89,6 @@ After about a day of soaking and stripping, the final result turned out pretty d
 
 ![[22_Ultra-Compact-Model-F62-11.png]]
 
-#### Flipped Spacebar Design
-
-Due to the design of the buckling spring spacebar using a wire that attaches to the spacebar itself, it's impossible to simply flip the spacebar. So I took it upon myself to model a "flipped" spacebar and have it 3D printed by JLCPCB.
-I took the SCAD model from [Jaseg's Model M Keycaps](https://github.com/jaseg/Model-m), generated it using OpenSCAD, exported it as an STL and modified the rest in Blender.
-
-![[22_Ultra-Compact-Model-F62-14.png]]
-![[22_Ultra-Compact-Model-F62-12.png]]
-
-Since the cost of resin printing was so cheap, I had two of each available material printed. I await their arrival to test out the result.
-![[22_Ultra-Compact-Model-F62-15.png]]
-
-#### V1
-
-After receiving the first prototype I quickly noticed a few issues with my design:
-
-- The hole for the wire to go in was too tight and allowed very little room for the wire to rotate.
-- The plastic bits on the bottom were causing the keycap to bottom out before actuating
-- The depth of the keycap was too shallow making it so the cap would hit the barrel before actuation.
-
-![[22_Ultra-Compact-Model-F62-16.png]]
-
-For version two I will need to make the keycap tall enough to actuate properly but not too tall that I end up with an identical keycap to the original.
-
-![[22_Ultra-Compact-Model-F62-17.png]]
 #### Lubing Buckling Spring Keycaps
 
 Unlike MX switches, the push mechanism for buckling spring switches are driven by the integrated stem underneath the keycap. All of the friction in the keypress comes from the keycap stem rubbing against the barrel of the switch. Much like in MX switches, minimizing the friction of the stem using Krytox 205g0 greatly improves the sound and feel of the switch.
@@ -128,7 +104,6 @@ Unlike MX switches, the push mechanism for buckling spring switches are driven b
 
 - Case: ~~Black~~ Raw aluminum
 - Keycaps: Unicomp Red Cyrillic on Brilliant White + Gray Modifiers
-    - Custom 3D printed flipped spacebar from JLCPCB(?)
 - Layout: HHKB-style split right shift and regular 2-unit wide backspace
 - Configuration: Floss Modded, lubed spacebar wire, lubed keycap stems
 - Bumpers: [Anodized Mechanical Keyboard Feet](https://www.amazon.com/dp/B0BKM1HC1D)
