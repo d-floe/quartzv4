@@ -57,7 +57,7 @@ gantt
 			[[22_Ultra-Compact-Model-F62|Ultra Compact Model F62 - 60%]]
 	</div>
 	<div class="card" onclick="location.href='/keebs/21_Sharkeneko-60';">
-			![[sharkeneko.png]]
+			![[21_Sharkeneko-60-14.png]]
 			[[21_Sharkeneko-60|Sharkeneko - 60%]]
 	</div>
 </ul>
