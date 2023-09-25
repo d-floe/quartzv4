@@ -41,5 +41,6 @@ export {
   DesktopOnly,
   MobileOnly,
   GlobalNav,
-  RecentNotes
+  RecentNotes,
+  NotFound
 }
