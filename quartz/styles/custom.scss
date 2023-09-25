@@ -125,7 +125,9 @@ footer {
   &::-webkit-scrollbar {
     display: none;
   }
-
+  @media all and (max-width: $fullPageWidth) {
+    padding: 2rem 2rem !important;
+  }
 }
 
 .right {
@@ -196,7 +198,7 @@ footer {
   .darkmode {
     grid-area: 2 / 2 / 3 / 3;
   }
-  .gb-nav {
+  .explorer {
     grid-area: 3 / 1 / 4 / 3;
   }
   .desktop-only {
@@ -217,11 +219,15 @@ footer {
     .darkmode {
       grid-area: 1 / 3 / 2 / 4;
     }
-    .gb-nav {
+    .explorer {
       grid-area: 2 / 1 / 3 / 4;
     }
     gap: 0.5rem 1rem !important;
   }
+}
+
+.toc {
+  margin-bottom: 1rem;
 }
 
 .search {
@@ -733,6 +739,14 @@ th {
   border-bottom: 2px solid var(--lightgray) !important;
 }
 
-.explorer {
+.explorer, .explorer-ul, .explorer-content {
   width: 100%;
+}
+
+#search-icon {
+  background-color:var(--highlight) !important;
+}
+
+.page article li:has(> input[type="checkbox"]:checked) {
+  text-decoration: inherit !important;
 }
