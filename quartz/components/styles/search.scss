@@ -6,7 +6,7 @@
   flex-grow: 0.3;
 
   & > #search-icon {
-    background-color: var(--highlight);
+    background-color: var(--lightgray);
     border-radius: 4px;
     height: 2rem;
     display: flex;
@@ -79,7 +79,7 @@
         font-family: var(--bodyFont);
         color: var(--dark);
         font-size: 1.1em;
-        border: 1px solid var(--highlight);
+        border: 1px solid var(--lightgray);
 
         &:focus {
           outline: none;
@@ -91,7 +91,7 @@
           padding: 1em;
           cursor: pointer;
           transition: background 0.2s ease;
-          border: 1px solid var(--highlight);
+          border: 1px solid var(--lightgray);
           border-bottom: none;
           width: 100%;
 
@@ -112,7 +112,7 @@
 
           &:hover,
           &:focus {
-            background: var(--highlight);
+            background: var(--lightgray);
           }
 
           &:first-of-type {
@@ -123,7 +123,7 @@
           &:last-of-type {
             border-bottom-left-radius: 5px;
             border-bottom-right-radius: 5px;
-            border-bottom: 1px solid var(--highlight);
+            border-bottom: 1px solid var(--lightgray);
           }
 
           & > h3 {

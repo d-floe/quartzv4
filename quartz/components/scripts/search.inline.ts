@@ -1,7 +1,7 @@
 import { Document, SimpleDocumentSearchResultSetUnit } from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
-import { FullSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import { FullSlug, resolveRelative } from "../../util/path"
 
 interface Item {
   id: number
@@ -72,6 +72,7 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
 }
 
 const encoder = (str: string) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/)
+let prevShortcutHandler: ((e: HTMLElementEventMap["keydown"]) => void) | undefined = undefined
 document.addEventListener("nav", async (e: unknown) => {
   const currentSlug = (e as CustomEventMap["nav"]).detail.url
 
@@ -288,10 +289,14 @@ document.addEventListener("nav", async (e: unknown) => {
     displayResults(finalResults)
   }
 
-  document.removeEventListener("keydown", shortcutHandler)
+  if (prevShortcutHandler) {
+    document.removeEventListener("keydown", prevShortcutHandler)
+  }
+
   document.addEventListener("keydown", shortcutHandler)
-  searchIcon?.removeEventListener("click", showSearch)
-  searchIcon?.addEventListener("click", showSearch)
+  prevShortcutHandler = shortcutHandler
+  searchIcon?.removeEventListener("click", () => showSearch("basic"))
+  searchIcon?.addEventListener("click", () => showSearch("basic"))
   searchBar?.removeEventListener("input", onType)
   searchBar?.addEventListener("input", onType)
 

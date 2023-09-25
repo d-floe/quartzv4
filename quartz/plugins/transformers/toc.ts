@@ -11,7 +11,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  maxDepth: 5,
+  maxDepth: 3,
   minEntries: 1,
   showByDefault: true,
 }
