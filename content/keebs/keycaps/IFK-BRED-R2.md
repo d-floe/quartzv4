@@ -4,7 +4,6 @@ tags:
   - Keycaps
   - DyeSubPBT
 ---
-DyeSubPBT
 ![[bred-r2.jpg]]
 
 ## IFK BRED R2

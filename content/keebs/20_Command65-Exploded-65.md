@@ -8,6 +8,7 @@ tags:
 ---
 
 ![[20_Command65-Exploded-65.png]]
+
 ## Command65
 
 - Received: April 14, 2023

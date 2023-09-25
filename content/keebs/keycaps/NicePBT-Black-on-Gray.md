@@ -4,7 +4,6 @@ tags:
   - Keycaps
   - DyeSubPBT
 ---
-DyeSubPBT
 ![[bog.png]]
 
 ## NicePBT Black on Gray

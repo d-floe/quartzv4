@@ -43,4 +43,3 @@ I later decided to go into Fusion360 and verify that the parts that I ordered wo
 ![[Beam-Spring-B62-11.png]]
 
 ![[Beam-Spring-B62-10.png]]
-

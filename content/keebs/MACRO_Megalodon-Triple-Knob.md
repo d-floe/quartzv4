@@ -11,7 +11,8 @@ tags:
 ## Megalodon Triple Knob Macropad
 
 - Received: June 3rd, 2023
-- Weight (built):  355g / 0.783lbs
+- Weight (built): 355g / 0.783lbs
+
 ### Summary
 
 I got this macro pad after witnessing fellow illustrator [nemi](https://twitter.com/nemmmiii) work extremely quickly during a Discord screen share. He was able to speed through his linework process very quickly because he was able to rotate his canvas effortlessly using a rotary encoder. After doing some research on available options I landed on the Megalodon Triple Knob Macropad. It had a good balance of footprint and usability, but what I wanted most out of the macro pad was an easily programmable large rotary encoder. A lot of macro pads had much smaller rotary encoders which didn't allow for very comfortable and precise rotation. This was pretty much what I needed.

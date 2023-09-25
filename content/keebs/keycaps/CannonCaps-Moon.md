@@ -4,7 +4,6 @@ tags:
   - Keycaps
   - DyeSubPBT
 ---
-DyeSubPBT
 ![[moon.jpg]]
 
 ## CannonCaps Moon

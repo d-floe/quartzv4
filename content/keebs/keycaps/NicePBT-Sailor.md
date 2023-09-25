@@ -4,7 +4,6 @@ tags:
   - Keycaps
   - DyeSubPBT
 ---
-DyeSubPBTDyeSubPBT
 ![[sailor.jpg]]
 
 ## NicePBT Sailor

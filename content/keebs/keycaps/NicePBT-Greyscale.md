@@ -4,7 +4,7 @@ tags:
   - Keycaps
   - DyeSubPBT
 ---
-DyeSubPBT
+
 ![[greyscale-2.jpg]]
 
 ## NicePBT Greyscale

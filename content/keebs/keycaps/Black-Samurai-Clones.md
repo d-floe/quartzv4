@@ -4,7 +4,6 @@ tags:
   - Keycaps
   - DyeSubPBT
 ---
-DyeSubPBT
 ![[black-samurai-clones.png]]
 
 ## Black Samurai Clones

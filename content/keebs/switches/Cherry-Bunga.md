@@ -12,6 +12,6 @@ tags:
 - [KNC Keys Unga Bunga Stems](https://knckeys.com/products/knc-keys-long-stems)
 - [TX XL 62g springs](https://divinikey.com/products/tx-xl-springs?variant=39998118658113)
 
-Stem length:  13.77-13.80mm (compared to MX Red: 12.42mm)
+Stem length: 13.77-13.80mm (compared to MX Red: 12.42mm)
 
 ![[Cherry-Bunga.png]]

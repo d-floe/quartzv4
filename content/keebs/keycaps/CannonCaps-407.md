@@ -4,7 +4,6 @@ tags:
   - Keycaps
   - DyeSubPBT
 ---
-DyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBT
 ![[407-2.png]]![[407.png]]
 
 ## CannonCaps 407
