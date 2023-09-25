@@ -47,7 +47,8 @@ end
 quartz --> |Automatically deploys to GitHub Pages| website["Published to docs.d-floe.com"]
 ```
 
-> [!hidden] hidden
+> [!bug]
+>
 > -   📁 [[_index]] (You are here)
 >     -   📂[[art]]
 >         -   📄 [[color-precision|Achieving Color Precision]]
