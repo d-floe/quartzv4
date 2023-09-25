@@ -2,6 +2,7 @@
 title: Linworks WoB
 tags:
   - keycaps
+  - doubleshot_ABS
 ---
 
 ![[Linworks-WoB.png]]

@@ -1,7 +1,8 @@
 ---
-title: "Gliging Bento Clones"
+title: Gliging Bento Clones
 tags:
-- keycaps
+  - keycaps
+  - dyesub_PBT
 ---
 
 s

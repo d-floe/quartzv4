@@ -1,7 +1,8 @@
 ---
-title: "MT3 devtty"
+title: MT3 devtty
 tags:
-- keycaps 
+  - keycaps
+  - dyesub_PBT
 ---
 
 ![[devtty.jpg]]

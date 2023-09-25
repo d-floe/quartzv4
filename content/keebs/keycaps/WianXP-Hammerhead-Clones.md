@@ -1,7 +1,8 @@
 ---
-title: "WianXP Hammerhead Clones"
+title: WianXP Hammerhead Clones
 tags:
-- keycaps 
+  - keycaps
+  - dyesub_PBT
 ---
 
 ![[WianXP-Hammerhead-Clones-1.png]]

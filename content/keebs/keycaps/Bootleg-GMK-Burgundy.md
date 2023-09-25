@@ -1,7 +1,8 @@
 ---
-title: "Bootleg GMK Burgundy"
+title: Bootleg GMK Burgundy
 tags:
-- keycaps 
+  - keycaps
+  - bootleg
 ---
 
 ![[Bootleg-GMK-Burgundy-1.png]]

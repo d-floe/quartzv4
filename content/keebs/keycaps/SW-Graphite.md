@@ -2,6 +2,7 @@
 title: SW Graphite
 tags:
   - keycaps
+  - doubleshot_ABS
 ---
 ![[SW-Graphite.png]]
 # SW Graphite

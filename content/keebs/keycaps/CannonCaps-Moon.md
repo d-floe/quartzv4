@@ -1,7 +1,8 @@
 ---
-title: "CannonCaps Moon"
+title: CannonCaps Moon
 tags:
-- keycaps 
+  - keycaps
+  - dyesub_PBT
 ---
 
 ![[moon.jpg]]

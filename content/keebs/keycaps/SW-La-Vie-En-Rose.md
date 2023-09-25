@@ -2,6 +2,7 @@
 title: SW La Vie En Rose
 tags:
   - keycaps
+  - doubleshot_ABS
 ---
 ![[SW-La-Vie-En-Rose-1.png]]
 # SW La Vie En Rose

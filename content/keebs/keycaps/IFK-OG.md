@@ -1,7 +1,8 @@
 ---
-title: "IFK OG"
+title: IFK OG
 tags:
-- keycaps 
+  - keycaps
+  - dyesub_PBT
 ---
 
 ![[ifk-og-1.png]]

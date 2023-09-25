@@ -1,7 +1,8 @@
 ---
-title: "NicePBT Greyscale"
+title: NicePBT Greyscale
 tags:
-- keycaps 
+  - keycaps
+  - dyesub_PBT
 ---
 
 ![[greyscale-2.jpg]]

@@ -1,7 +1,8 @@
 ---
-title: "CannonCaps 407"
+title: CannonCaps 407
 tags:
-- keycaps 
+  - keycaps
+  - dyesub_PBT
 ---
 
 ![[407-2.png]]![[407.png]]

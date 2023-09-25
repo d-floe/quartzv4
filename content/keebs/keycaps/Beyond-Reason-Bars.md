@@ -1,7 +1,8 @@
 ---
-title: "Beyond Reason Bars"
+title: Beyond Reason Bars
 tags:
-- keycaps 
+  - keycaps
+  - SLA
 ---
 
 ![[BRB.jpg]]

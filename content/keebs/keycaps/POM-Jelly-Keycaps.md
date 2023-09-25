@@ -1,7 +1,8 @@
 ---
-title: "POM Jelly Keycaps"
+title: POM Jelly Keycaps
 tags:
-- keycaps 
+  - keycaps
+  - POM
 ---
 
 ![[pom-jelly.jpg]]

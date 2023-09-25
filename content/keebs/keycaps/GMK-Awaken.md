@@ -1,7 +1,8 @@
 ---
-title: "GMK Awaken"
+title: GMK Awaken
 tags:
-- keycaps 
+  - keycaps
+  - doubleshot_ABS
 ---
 
 ![[gmk-awaken-4.png]]

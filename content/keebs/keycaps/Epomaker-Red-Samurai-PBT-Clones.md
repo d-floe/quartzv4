@@ -1,7 +1,8 @@
 ---
-title: "Epomaker Red Samurai PBT Clones"
+title: Epomaker Red Samurai PBT Clones
 tags:
-- keycaps 
+  - keycaps
+  - doubleshot_PBT
 ---
 
 ![[Epomaker-Red-Samurai-PBT-Clones.png]]

@@ -1,7 +1,8 @@
 ---
-title: "IFK Monochrome"
+title: IFK Monochrome
 tags:
-- keycaps 
+  - keycaps
+  - dyesub_PBT
 ---
 
 ![[monochrome.png]]

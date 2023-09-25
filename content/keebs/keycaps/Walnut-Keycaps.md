@@ -1,7 +1,8 @@
 ---
-title: "Walnut Keycaps"
+title: Walnut Keycaps
 tags:
-- keycaps 
+  - keycaps
+  - walnut_wood
 ---
 
 ![[walnut.jpg]]

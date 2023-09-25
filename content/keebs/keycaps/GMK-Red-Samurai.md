@@ -1,7 +1,8 @@
 ---
-title: "GMK Red Samurai"
+title: GMK Red Samurai
 tags:
-- keycaps 
+  - keycaps
+  - doubleshot_ABS
 ---
 
 ![[gmk-samurai-2.jpg]]

@@ -2,6 +2,7 @@
 title: Tecware Pudding White Keycaps
 tags:
   - keycaps
+  - doubleshot_PBT
 ---
 
 ![[Tecware-Pudding-Keycaps.png]]

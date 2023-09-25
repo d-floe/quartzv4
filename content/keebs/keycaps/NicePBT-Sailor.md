@@ -1,7 +1,8 @@
 ---
-title: "NicePBT Sailor"
+title: NicePBT Sailor
 tags:
-- keycaps 
+  - keycaps
+  - dyesub_PBT
 ---
 
 ![[sailor.jpg]]

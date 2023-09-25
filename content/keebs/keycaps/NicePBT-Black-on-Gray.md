@@ -1,7 +1,8 @@
 ---
-title: "NicePBT Black on Gray"
+title: NicePBT Black on Gray
 tags:
-- keycaps 
+  - keycaps
+  - dyesub_PBT
 ---
 
 ![[bog.png]]

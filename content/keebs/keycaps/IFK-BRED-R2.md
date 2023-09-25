@@ -1,7 +1,8 @@
 ---
-title: "IFK BRED R2"
+title: IFK BRED R2
 tags:
-- keycaps 
+  - keycaps
+  - dyesub_PBT
 ---
 
 ![[bred-r2.jpg]]

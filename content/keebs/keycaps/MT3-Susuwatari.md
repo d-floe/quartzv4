@@ -1,7 +1,8 @@
 ---
-title: "MT3 Susuwatari"
+title: MT3 Susuwatari
 tags:
-- keycaps 
+  - keycaps
+  - doubleshot_ABS
 ---
 ![[susuwatari.png]]
 
