@@ -1,8 +1,8 @@
 ---
 title: WianXP Hammerhead Clones
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 DyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBT
 ![[WianXP-Hammerhead-Clones-1.png]]

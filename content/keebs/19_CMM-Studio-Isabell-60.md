@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the Isabell by CMM.Studio."
 tags:
 - 60Percent
 - GasketMount
-- keyboard
+- Keyboard
 ---
 
 ![[cmm-isabell.jpg]]

@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the Micro 82 by Niz."
 tags:
 - 75Percent
 - SandwichMount
-- keyboard
+- Keyboard
 ---
 
 ![[niz-micro-82.png]]

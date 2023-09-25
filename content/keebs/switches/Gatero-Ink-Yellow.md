@@ -1,7 +1,7 @@
 ---
 title: "Gateron Ink Yellow"
 tags:
-- switches
+- Switches
 ---
 
 ![[ink-yellow.jpg]]

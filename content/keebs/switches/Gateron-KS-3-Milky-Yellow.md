@@ -1,7 +1,7 @@
 ---
 title: "Gateron KS-3 Milky Yellow"
 tags:
-- switches
+- Switches
 ---
 
 ![[ks3-milky-yellow.jpg]]

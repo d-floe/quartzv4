@@ -5,7 +5,7 @@ tags:
 - Alice
 - 40Percent
 - GasketMount
-- keyboard
+- Keyboard
 ---
 
 ![[libra-mini.jpg]]

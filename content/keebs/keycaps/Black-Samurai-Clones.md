@@ -1,8 +1,8 @@
 ---
 title: Black Samurai Clones
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 DyeSubPBT
 ![[black-samurai-clones.png]]

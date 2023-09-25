@@ -1,8 +1,8 @@
 ---
 title: MT3 devtty
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 
 ![[devtty.jpg]]

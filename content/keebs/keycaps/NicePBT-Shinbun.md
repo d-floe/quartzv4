@@ -1,8 +1,8 @@
 ---
 title: NicePBT Shinbun
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 
 ![[shinbun.png]]

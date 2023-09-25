@@ -1,7 +1,7 @@
 ---
 title: "Gazzew Boba U4T *nixdork"
 tags:
-- switches
+- Switches
 ---
 
 ![[u4t-nixdork.jpg]]

@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the RK84 by Royal Kludge."
 tags:
 - 75Percent
 - TrayMount
-- keyboard
+- Keyboard
 ---
 
 ![[rk84.png]]

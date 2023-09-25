@@ -1,7 +1,7 @@
 ---
 title: XDA Virtual War
 tags:
-  - keycaps
+  - Keycaps
 ---
 
 ![[XDA-Virtual-War.png]]

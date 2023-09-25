@@ -1,7 +1,7 @@
 ---
 title: "Cherry Boba Frankenswitch"
 tags:
-- switches
+- Switches
 ---
 
 ![[Cherry-Boba.png]]

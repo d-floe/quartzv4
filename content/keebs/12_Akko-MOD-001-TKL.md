@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the MOD 001 by Akko."
 tags:
 - TKL
 - TrayMount
-- keyboard
+- Keyboard
 ---
 
 ![[akko-mod001.jpg]]

@@ -1,7 +1,7 @@
 ---
 title: POM Jelly Keycaps
 tags:
-  - keycaps
+  - Keycaps
   - POM
 ---
 

@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the K65 LUX RGB by Corsair."
 tags:
 - TKL
 - IntegratedPlate
-- keyboard
+- Keyboard
 ---
 
 ![[corsair-k65.jpg]]

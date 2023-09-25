@@ -5,7 +5,7 @@ tags:
 - 40Percent
 - Ortholinear
 - StackMount
-- keyboard
+- Keyboard
 ---
 
 ![[corne.jpg]]

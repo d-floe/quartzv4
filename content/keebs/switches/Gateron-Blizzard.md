@@ -1,7 +1,7 @@
 ---
 title: "Gateron Blizzard"
 tags:
-- switches
+- Switches
 ---
 
 ![[blizzard.jpg]]

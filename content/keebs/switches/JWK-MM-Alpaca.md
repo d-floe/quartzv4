@@ -1,7 +1,7 @@
 ---
 title: "JWK MM Alpaca"
 tags:
-- switches
+- Switches
 ---
 
 ![[alpaca-mm.jpg]]

@@ -1,7 +1,7 @@
 ---
 title: "Gateron Mochi"
 tags:
-- switches
+- Switches
 ---
 
 ![[mochi.jpg]]

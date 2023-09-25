@@ -1,7 +1,7 @@
 ---
 title: "Theoretical Travel Distance"
 tags:
-- concept
+- Concept
 ---
 
 ## What is theoretical travel distance?

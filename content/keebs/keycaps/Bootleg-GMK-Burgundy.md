@@ -1,8 +1,8 @@
 ---
 title: Bootleg GMK Burgundy
 tags:
-  - keycaps
-  - bootleg
+  - Keycaps
+  - Bootleg
 ---
 
 ![[Bootleg-GMK-Burgundy-1.png]]

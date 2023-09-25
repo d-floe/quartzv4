@@ -1,7 +1,7 @@
 ---
 title: "KTT AKKO Jelly Black"
 tags:
-- switches
+- Switches
 ---
 
 ![[jelly-black.jpg]]

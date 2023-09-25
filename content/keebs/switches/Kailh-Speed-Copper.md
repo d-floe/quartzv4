@@ -1,7 +1,7 @@
 ---
 title: "Kailh Speed Copper"
 tags:
-- switches
+- Switches
 ---
 
 ![[speed-copper.jpg]]

@@ -1,7 +1,7 @@
 ---
 title: "JWK Black T1"
 tags:
-- switches
+- Switches
 ---
 
 ![[t1-black.jpg]]

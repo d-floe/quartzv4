@@ -1,7 +1,7 @@
 ---
 title: "NovelKeys Cream"
 tags:
-- switches
+- Switches
 ---
 
 ![[cream.jpg]]

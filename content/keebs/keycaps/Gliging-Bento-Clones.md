@@ -1,8 +1,8 @@
 ---
 title: Gliging Bento Clones
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 
 s

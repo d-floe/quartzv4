@@ -1,8 +1,8 @@
 ---
 title: SA 9009 Clones
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 DyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBT
 ![[ONECAP-SA-9009-Clones-1.png]]

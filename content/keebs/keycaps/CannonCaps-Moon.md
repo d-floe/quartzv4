@@ -1,8 +1,8 @@
 ---
 title: CannonCaps Moon
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 DyeSubPBT
 ![[moon.jpg]]

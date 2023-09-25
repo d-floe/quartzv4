@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the Spring by OwLab."
 tags:
 - Arisu
 - LeafSpringMount
-- keyboard
+- Keyboard
 ---
 
 ![[owlab-spring.jpg]]

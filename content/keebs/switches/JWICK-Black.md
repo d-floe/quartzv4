@@ -1,7 +1,7 @@
 ---
 title: "JWICK Black"
 tags:
-- switches
+- Switches
 ---
 
 ![[jwick-black.jpg]]

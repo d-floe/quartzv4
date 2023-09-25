@@ -1,7 +1,7 @@
 ---
 title: "Owlstab V1"
 tags:
-- stabilizers
+- Stabilizers
 ---
 
 ![[Owlstab-V1.png]]

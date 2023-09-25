@@ -1,7 +1,7 @@
 ---
 title: "Lekker L60 Hall Effect"
 tags:
-- switches
+- Switches
 ---
 
 https://next.wooting.io/product/lekker-switch-linear60

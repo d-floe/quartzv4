@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the Wings by YMDK."
 tags:
 - Arisu
 - IntegratedPlate
-- keyboard
+- Keyboard
 ---
 
 ![[ymdk-wings.jpg]]

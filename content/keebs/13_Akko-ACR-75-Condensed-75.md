@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the ACR 75 by Akko."
 tags:
 - 75Percent
 - StackMount
-- keyboard
+- Keyboard
 ---
 
 ![[akko-acr75.jpg]]

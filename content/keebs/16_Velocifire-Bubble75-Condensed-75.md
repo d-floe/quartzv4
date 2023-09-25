@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the Bubble75 by Velocifire."
 tags:
 - 75Percent
 - GasketMount
-- keyboard
+- Keyboard
 ---
 
 ![[bubble75.jpg]]

@@ -1,7 +1,7 @@
 ---
 title: "Cherry Burgundy Frankenswitch"
 tags:
-- switches
+- Switches
 ---
 
 ![[cherry-burgundy.jpg]]

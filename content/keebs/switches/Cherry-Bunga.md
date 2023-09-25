@@ -1,7 +1,7 @@
 ---
 title: "Cherry Bunga Frankenswitch"
 tags:
-- switches
+- Switches
 ---
 
 ![[cherry-bunga.jpg]]

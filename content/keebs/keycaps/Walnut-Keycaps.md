@@ -1,8 +1,8 @@
 ---
 title: Walnut Keycaps
 tags:
-  - keycaps
-  - walnut_wood
+  - Keycaps
+  - WalnutWood
 ---
 
 ![[walnut.jpg]]

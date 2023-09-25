@@ -1,8 +1,8 @@
 ---
 title: GMK Awaken
 tags:
-  - keycaps
-  - doubleshot_ABS
+  - Keycaps
+  - DoubleShotABS
 ---
 
 ![[gmk-awaken-4.png]]

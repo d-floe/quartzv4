@@ -1,7 +1,7 @@
 ---
 title: "TX Stabilizers Rev.3"
 tags:
-- stabilizers
+- Stabilizers
 ---
 
 ![[TX-AP-Stabilizers-Rev-4.jpg]]

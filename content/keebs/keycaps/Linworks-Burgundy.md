@@ -1,8 +1,8 @@
 ---
 title: Linworks Burgundy
 tags:
-  - keycaps
-  - doubleshot_ABS
+  - Keycaps
+  - DoubleShotABS
 ---
 
 ![[Linworks-Burgundy.png]]

@@ -1,8 +1,8 @@
 ---
 title: Bootleg GMK Evil Dolch
 tags:
-  - keycaps
-  - bootleg
+  - Keycaps
+  - Bootleg
 ---
 
 ## Bootleg GMK Evil Dolch

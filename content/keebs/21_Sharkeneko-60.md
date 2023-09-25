@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the Sharkeneko."
 tags:
 - 60Percent
 - GummyOring
-- keyboard
+- Keyboard
 ---
 
 ![[21_Sharkeneko-60-14.png]]

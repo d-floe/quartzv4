@@ -1,7 +1,7 @@
 ---
 title: "Glorious Lynx"
 tags:
-- switches
+- Switches
 ---
 
 ![[glorious-lynx.jpg]]

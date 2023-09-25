@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the GK64 by Skyloong."
 tags:
 - 60Percent
 - TrayMount
-- keyboard
+- Keyboard
 ---
 
 ![[gk64.jpg]]

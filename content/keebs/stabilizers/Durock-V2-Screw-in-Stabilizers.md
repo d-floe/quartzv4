@@ -1,7 +1,7 @@
 ---
 title: "Durock V2 Screw-in Stabilizers"
 tags:
-- stabilizers
+- Stabilizers
 ---
 
 ![[durock-v2.png]]

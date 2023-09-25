@@ -1,8 +1,8 @@
 ---
 title: NicePBT Sailor
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 DyeSubPBTDyeSubPBT
 ![[sailor.jpg]]

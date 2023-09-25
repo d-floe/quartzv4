@@ -1,7 +1,7 @@
 ---
 title: "Clear Top Holy Boba Frankenswitch"
 tags:
-- switches
+- Switches
 ---
 
 ![[Clear-Top-Holy-Bobas.jpg]]

@@ -1,8 +1,8 @@
 ---
 title: Gliging White Hiragana
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 
 ![[Gliging-White-Hiragana.png]]

@@ -1,7 +1,7 @@
 ---
 title: "Gazzew Boba U4"
 tags:
-- switches
+- Switches
 ---
 
 ![[u4.jpg]]

@@ -1,7 +1,7 @@
 ---
 title: "NovelKeys Cream Clickie"
 tags:
-- switches
+- Switches
 ---
 
 ![[cream-clickie.jpg]]

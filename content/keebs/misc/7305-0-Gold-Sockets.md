@@ -1,7 +1,7 @@
 ---
 title: "7305-0 Gold Sockets"
 tags:
-- misc 
+- Misc 
 ---
 
 ![[7305-0-gold-sockets.jpg]]

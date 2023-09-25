@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the Phantom by Maker."
 tags:
 - 65Percent
 - GummyOring
-- keyboard
+- Keyboard
 ---
 
 ![[maker-phantom.jpg]]

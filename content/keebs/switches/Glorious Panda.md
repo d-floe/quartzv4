@@ -1,7 +1,7 @@
 ---
 title: "Glorious Panda"
 tags:
-- switches
+- Switches
 ---
 
 ![[glorious-panda.jpg]]![[glorious-panda-2.jpg]]

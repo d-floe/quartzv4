@@ -1,7 +1,7 @@
 ---
 title: "Tecsee Zaku"
 tags:
-- switches
+- Switches
 ---
 
 ![[zaku.jpg]]

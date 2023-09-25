@@ -1,7 +1,7 @@
 ---
 title: "Aurora x Zen Pond Stabilizers"
 tags:
-- stabilizers
+- Stabilizers
 ---
 
 ![[Zen-Pond-Stabs.png]]

@@ -1,8 +1,8 @@
 ---
 title: IFK WoB
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 DyeSubPBT
 ![[IFK-WoB.png]]

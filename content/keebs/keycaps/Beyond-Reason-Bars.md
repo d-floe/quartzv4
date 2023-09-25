@@ -1,7 +1,7 @@
 ---
 title: Beyond Reason Bars
 tags:
-  - keycaps
+  - Keycaps
   - SLA
 ---
 

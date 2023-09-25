@@ -1,7 +1,7 @@
 ---
 title: "NovelKeys Silk Olivia"
 tags:
-- switches
+- Switches
 ---
 
 ![[silk-olivia.jpg]]

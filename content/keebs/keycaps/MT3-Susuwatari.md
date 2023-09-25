@@ -1,8 +1,8 @@
 ---
 title: MT3 Susuwatari
 tags:
-  - keycaps
-  - doubleshot_ABS
+  - Keycaps
+  - DoubleShotABS
 ---
 ![[susuwatari.png]]
 

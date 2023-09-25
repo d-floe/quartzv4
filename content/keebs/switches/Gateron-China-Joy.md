@@ -1,7 +1,7 @@
 ---
 title: "Gateron China Joy"
 tags:
-- switches
+- Switches
 ---
 
 ![[china-joy.jpg]]

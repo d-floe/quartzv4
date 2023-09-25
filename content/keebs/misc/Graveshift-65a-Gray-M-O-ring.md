@@ -1,7 +1,7 @@
 ---
 title: "Graveshift 65a Gray M O-ring"
 tags:
-- misc 
+- Misc 
 ---
 
 ![[graveshift-oring.png]]

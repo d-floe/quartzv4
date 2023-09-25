@@ -1,7 +1,7 @@
 ---
 title: "Cherry MM Frankenswitch"
 tags:
-- switches
+- Switches
 ---
 
 Missing Image :(

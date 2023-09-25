@@ -1,7 +1,7 @@
 ---
 title: "KTT Monochrome Chalk"
 tags:
-- switches
+- Switches
 ---
 
 ![[ktt-chalk.jpg]]

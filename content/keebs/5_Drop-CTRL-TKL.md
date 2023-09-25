@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the CTRL by Drop."
 tags:
 - TKL
 - IntegratedPlate
-- keyboard
+- Keyboard
 ---
 
 ![[drop-ctrl.jpg]]

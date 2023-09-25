@@ -1,7 +1,7 @@
 ---
 title: "JWK TKC Banana Split"
 tags:
-- switches
+- Switches
 ---
 
 ![[banana-split.jpg]]

@@ -3,7 +3,7 @@ title: "Pikatea Macropad GB4"
 description: "d-floe's macropad overview for the Macropad GB4 by Pikatea"
 tags:
 - Macropad
-- keyboard
+- Keyboard
 ---
 
 ![[MACRO_Pikatea-Macropad-GB4.jpg]]

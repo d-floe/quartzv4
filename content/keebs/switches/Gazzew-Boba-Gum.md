@@ -1,7 +1,7 @@
 ---
 title: "Gazzew Boba Gum"
 tags:
-- switches
+- Switches
 ---
 
 ![[bobagum.jpg]]

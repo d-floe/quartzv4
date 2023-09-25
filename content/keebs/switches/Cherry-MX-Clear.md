@@ -1,7 +1,7 @@
 ---
 title: "Cherry MX Clear"
 tags:
-- switches
+- Switches
 ---
 
 ![[Cherry-MX-Clear.png]]

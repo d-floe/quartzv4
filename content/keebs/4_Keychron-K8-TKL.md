@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the K8 by Keychron."
 tags:
 - TKL
 - IntegratedPlate
-- keyboard
+- Keyboard
 ---
 
 ![[keychron-k8.jpg]]

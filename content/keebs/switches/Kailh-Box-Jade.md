@@ -1,7 +1,7 @@
 ---
 title: "Kailh Box Jade"
 tags:
-- switches
+- Switches
 ---
 
 ![[box-jade.jpg]]

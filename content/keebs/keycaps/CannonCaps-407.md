@@ -1,8 +1,8 @@
 ---
 title: CannonCaps 407
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 DyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBTDyeSubPBT
 ![[407-2.png]]![[407.png]]

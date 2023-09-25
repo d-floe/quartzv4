@@ -1,7 +1,7 @@
 ---
 title: "Hineybush H60"
 tags:
-- misc 
+- Misc 
 ---
 
 ![[h60.jpg]]

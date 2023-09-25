@@ -1,8 +1,8 @@
 ---
 title: IFK OG
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 
 ![[ifk-og-1.png]]

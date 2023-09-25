@@ -1,7 +1,7 @@
 ---
 title: "Wooting 60HE"
 tags:
-- misc 
+- Misc 
 ---
 
 ![[wooting-60he.png]]

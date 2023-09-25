@@ -1,7 +1,7 @@
 ---
 title: "TX AP Stabilizers Rev.4"
 tags:
-- stabilizers
+- Stabilizers
 ---
 
 ![[IMG_20230702_220134.jpg]]

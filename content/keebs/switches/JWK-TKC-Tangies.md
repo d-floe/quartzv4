@@ -1,7 +1,7 @@
 ---
 title: "JWK TKC Tangies"
 tags:
-- switches
+- Switches
 ---
 
 ![[IMG_20230629_193102.jpg]]

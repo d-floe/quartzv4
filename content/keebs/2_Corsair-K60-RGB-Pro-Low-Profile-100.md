@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the K60 RGB Low Profile by Corsair"
 tags:
 - 100Percent
 - IntegratedPlate
-- keyboard
+- Keyboard
 ---
 
 ![[corsair-k60.jpg]]

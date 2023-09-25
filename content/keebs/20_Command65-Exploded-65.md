@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the Command65 by Play Keyboard and 
 tags:
 - 65Percent
 - PseudoTopMount
-- keyboard
+- Keyboard
 ---
 
 ![[20_Command65-Exploded-65.png]]

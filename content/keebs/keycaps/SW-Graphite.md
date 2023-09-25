@@ -1,8 +1,8 @@
 ---
 title: SW Graphite
 tags:
-  - keycaps
-  - doubleshot_ABS
+  - Keycaps
+  - DoubleShotABS
 ---
 ![[SW-Graphite.png]]
 # SW Graphite

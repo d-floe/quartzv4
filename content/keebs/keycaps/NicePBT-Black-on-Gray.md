@@ -1,8 +1,8 @@
 ---
 title: NicePBT Black on Gray
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 DyeSubPBT
 ![[bog.png]]

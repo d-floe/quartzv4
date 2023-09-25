@@ -1,7 +1,7 @@
 ---
 title: "Durock V2 Plate Mount Stabilizers"
 tags:
-- stabilizers
+- Stabilizers
 ---
 
 ## Durock V2 Plate Mount Stabilizers

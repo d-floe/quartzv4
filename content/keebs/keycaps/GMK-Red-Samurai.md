@@ -1,8 +1,8 @@
 ---
 title: GMK Red Samurai
 tags:
-  - keycaps
-  - doubleshot_ABS
+  - Keycaps
+  - DoubleShotABS
 ---
 
 ![[gmk-samurai-2.jpg]]

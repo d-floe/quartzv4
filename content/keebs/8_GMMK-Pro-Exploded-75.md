@@ -4,7 +4,7 @@ description: "d-floe's keyboard overview for the GMMK Pro by Glorious."
 tags:
 - 75Percent
 - GasketMount
-- keyboard
+- Keyboard
 ---
 
 ![[gmmk-pro.jpg]]

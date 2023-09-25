@@ -1,7 +1,7 @@
 ---
 title: "Cherry Snap-in Stabilizers"
 tags:
-- stabilizers
+- Stabilizers
 ---
 
 ![[cherry-stabs.png]]

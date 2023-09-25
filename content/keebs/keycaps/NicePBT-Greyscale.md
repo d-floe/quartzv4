@@ -1,8 +1,8 @@
 ---
 title: NicePBT Greyscale
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 DyeSubPBT
 ![[greyscale-2.jpg]]

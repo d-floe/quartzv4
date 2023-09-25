@@ -1,8 +1,8 @@
 ---
 title: IFK BRED R2
 tags:
-  - keycaps
-  - dyesub_PBT
+  - Keycaps
+  - DyeSubPBT
 ---
 DyeSubPBT
 ![[bred-r2.jpg]]
