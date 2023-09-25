@@ -20,7 +20,24 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["ken", "!private"])
+        return !omit.has(node.name.toLowerCase())
+      },
+      mapFn: (node) => {
+        // dont change name of root node
+        if (node.depth > 0) {
+          // set emoji for file/folder
+          if (node.file) {
+            node.displayName = "📄 " + node.displayName
+          } else {
+            node.displayName = "📁 " + node.displayName
+          }
+        }
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
