@@ -1,8 +1,9 @@
 ---
-title: "Saturn-60 - 60%"
-description: "d-floe's keyboard overview for the Saturn-60 by Ace Keyboard Co."
+title: Saturn-60 - 60%
+description: d-floe's keyboard overview for the Saturn-60 by Ace Keyboard Co.
 tags:
-- keyboard
+  - keyboard
+draft: true
 ---
 
 ![[saturn-60.png]]
