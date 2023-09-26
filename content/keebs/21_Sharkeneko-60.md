@@ -80,7 +80,7 @@ This was probably the only part of the board I had issues with. The resulting fi
 
 #### Brass Patina
 
-The clear coat on the brass weight started to show signs of patina. I wasn't sure what had stripped the clear-coating off the weight, but I figured that if was to get patina on my weight, I might as well make the patina look beautiful. I commissioned [LoobedSwitches](https://loobedswitches.com/) to strip the clear coat off my brass weight; however, there were complications with the process so the weigh was returned with a bit more of a natural tarnish. The color of the brass is less vibrant but I feel that the patina will naturally come into its own over time and look better as time goes on.
+The clear coat on the brass weight started to show signs of patina. I wasn't sure what had stripped the clear-coating off the weight, but I figured that if was to get patina on my weight, I might as well make the patina look beautiful. I commissioned [LoobedSwitches](https://loobedswitches.com/) to strip the clear coat off my brass weight; however, there were complications with the process so the weight was returned with a bit more of a natural tarnish. The color of the brass is less vibrant but I feel that the patina will naturally come into its own over time and look better as time goes on.
 
 ![[21_Sharkeneko-60-5.png]]
 
@@ -113,9 +113,10 @@ The clear coat on the brass weight started to show signs of patina. I wasn't sur
 | Keebsforall               | Geon Keyboard Foams, TX Stabilizers (Rev. 3), Mill-Max 7305-0 Gold Sockets x 140               | 6.50 + 19 + 42 = **65.50**              | 65.50 + 1.55 + 12.33 = **81.38** |
 | Divinikey                 | Deskeys Switch Films x 120, Cherry MX Black x 90, TX XL Springs, Kailh Speed Pro Burgundy x 90 | 6.95 + 40.50 + 7.50 + 25.20 = **80.15** | 80.15 + 8.44 = **88.59**         |
 | Gaojie                    | Replacement Brass Weight                                                                       | **57.50**                               | **57.50**                        |
-| KLC Hobbyists' Playground | Linworks WoB                                                                                   | 70                                      | 70 + 21 = **92**                 |
+| KLC Hobbyists' Playground | Linworks WoB                                                                                   | **70**                                  | 70 + 21 = **92**                 |
+| Mechmarket                | SW La Vie En Rose.                                                                             | **68**                                  |**68**                            |
 |                           |                                                                                                |
-| **Grand Total**           |                                                                                                | **939.60**                              | **1073.90**                      |
+| **Grand Total**           |                                                                                                    | **752.65**                              | **913.85**                       |
 
 ## Photoshoot
 
