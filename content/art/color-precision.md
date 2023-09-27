@@ -7,7 +7,7 @@ tags:
 
 ## TL;DR
 
-- Color precision when your screens match.
+- Color precision is when your screens match.
 - You PROBABLY don't need perfect color accuracy.
 - Calibration is confusing and here's [[art/color-precision#Chapter 3 Calibration|how to do it.]]
 - Color management is messy and it sucks.
