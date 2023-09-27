@@ -1,5 +1,5 @@
 ---
-title: 10 - Corne - 40% Split Ortho
+title: Corne
 description: d-floe's keyboard overview for the Corne.
 tags:
   - 40Percent

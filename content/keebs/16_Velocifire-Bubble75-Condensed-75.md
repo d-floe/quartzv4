@@ -1,5 +1,5 @@
 ---
-title: 16 - Velocifire Bubble75 - 75%
+title: Velocifire Bubble75
 description: d-floe's keyboard overview for the Bubble75 by Velocifire.
 tags:
   - 75Percent

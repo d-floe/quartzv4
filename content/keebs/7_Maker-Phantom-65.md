@@ -1,5 +1,5 @@
 ---
-title: 7 - Maker Phantom - 65%
+title: Maker Phantom
 description: d-floe's keyboard overview for the Phantom by Maker.
 tags:
   - 65Percent

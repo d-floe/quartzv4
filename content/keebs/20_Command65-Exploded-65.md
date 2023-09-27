@@ -1,5 +1,5 @@
 ---
-title: 20 - Command65 - Exploded 65%
+title: PK x BIOI Command 65
 description: d-floe's keyboard overview for the Command65 by Play Keyboard and BIOI.
 tags:
   - 65Percent
@@ -9,7 +9,7 @@ tags:
 
 ![[20_Command65-Exploded-65.png]]
 
-## Command65
+## PK x BIOI Command 65
 
 - Received: April 14, 2023
 - Sold: August 1, 2023

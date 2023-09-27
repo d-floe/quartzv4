@@ -1,5 +1,5 @@
 ---
-title: 12 - Akko MOD 001 - TKL
+title: Akko MOD 001
 description: d-floe's keyboard overview for the MOD 001 by Akko.
 tags:
   - TKL

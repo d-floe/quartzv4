@@ -1,5 +1,5 @@
 ---
-title: 9 - YMDK Wings - Arisu
+title: YMDK Wings
 description: d-floe's keyboard overview for the Wings by YMDK.
 tags:
   - Arisu

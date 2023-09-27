@@ -1,5 +1,5 @@
 ---
-title: 4 - Keychron K8 - TKL
+title: Keychron K8
 description: d-floe's keyboard overview for the K8 by Keychron.
 tags:
   - TKL

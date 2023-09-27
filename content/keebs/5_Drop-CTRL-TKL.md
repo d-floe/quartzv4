@@ -1,5 +1,5 @@
 ---
-title: 5 - Drop CTRL - TKL
+title: Drop CTRL
 description: d-floe's keyboard overview for the CTRL by Drop.
 tags:
   - TKL

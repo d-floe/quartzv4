@@ -1,5 +1,5 @@
 ---
-title: 11 - KBDFans Blade60 - 60%
+title: KBDFans Blade60
 description: d-floe's keyboard overview for the Blade60 by KBDFans.
 tags:
   - 60Percent

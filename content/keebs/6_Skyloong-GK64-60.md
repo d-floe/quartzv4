@@ -1,5 +1,5 @@
 ---
-title: 6 - Skyloong GK64 - 60%
+title: Skyloong GK64
 description: d-floe's keyboard overview for the GK64 by Skyloong.
 tags:
   - 60Percent

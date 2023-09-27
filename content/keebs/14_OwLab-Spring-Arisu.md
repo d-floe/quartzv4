@@ -1,5 +1,5 @@
 ---
-title: 14 - OwLab Spring - Arisu
+title: OwLab Spring
 description: d-floe's keyboard overview for the Spring by OwLab.
 tags:
   - Arisu

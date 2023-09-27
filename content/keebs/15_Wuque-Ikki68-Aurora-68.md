@@ -1,5 +1,5 @@
 ---
-title: 15 - Wuque Ikki68 Aurora - 68%
+title: Wuque Ikki68 Aurora
 description: d-floe's keyboard overview for the Ikki68 Aurora by Wuque Studio.
 tags:
   - 65Percent

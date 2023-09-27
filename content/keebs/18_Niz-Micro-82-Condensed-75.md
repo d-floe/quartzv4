@@ -1,5 +1,5 @@
 ---
-title: 18 - Niz Micro 82 - 75%
+title: Niz Micro 82
 description: d-floe's keyboard overview for the Micro 82 by Niz.
 tags:
   - 75Percent

@@ -1,5 +1,5 @@
 ---
-title: 19 - CMM.Studio Isabell - 60%
+title: CMM.Studio Isabell
 description: d-floe's keyboard overview for the Isabell by CMM.Studio.
 tags:
   - 60Percent

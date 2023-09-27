@@ -1,5 +1,5 @@
 ---
-title: 17 - Libra Mini - 40% Alice
+title: Libra Mini
 description: d-floe's keyboard overview for the Libra Mini.
 tags:
   - Alice

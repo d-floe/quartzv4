@@ -1,5 +1,5 @@
 ---
-title: 2 - Corsair K60 RGB Pro Low Profile - 100%
+title: Corsair K60 RGB Pro Low Profile
 description: d-floe's keyboard overview for the K60 RGB Low Profile by Corsair
 tags:
   - 100Percent

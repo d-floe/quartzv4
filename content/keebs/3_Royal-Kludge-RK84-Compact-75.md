@@ -1,5 +1,5 @@
 ---
-title: 3 - Royal Kludge RK84 - 75%
+title: Royal Kludge RK84
 description: d-floe's keyboard overview for the RK84 by Royal Kludge.
 tags:
   - 75Percent

@@ -1,5 +1,5 @@
 ---
-title: 8 - GMMK Pro - 75%
+title: GMMK Pro
 description: d-floe's keyboard overview for the GMMK Pro by Glorious.
 tags:
   - 75Percent

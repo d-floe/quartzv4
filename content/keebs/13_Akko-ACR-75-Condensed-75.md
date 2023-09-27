@@ -1,5 +1,5 @@
 ---
-title: 13 - Akko ACR 75 - 75%
+title: Akko ACR 75
 description: d-floe's keyboard overview for the ACR 75 by Akko.
 tags:
   - 75Percent
