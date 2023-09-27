@@ -1,9 +1,9 @@
 ---
-title: "Model F62 Kishsaver - 60%"
-description: "d-floe's keyboard overview for the Ultra Compact Model F62 by Model F Labs."
+title: 22 - Model F62 Kishsaver - 60% ⭐
+description: d-floe's keyboard overview for the Ultra Compact Model F62 by Model F Labs.
 tags:
-- 60Percent
-- Keyboard
+  - 60Percent
+  - Keyboard
 ---
 
 ![[model-f-kishsaver.png]]

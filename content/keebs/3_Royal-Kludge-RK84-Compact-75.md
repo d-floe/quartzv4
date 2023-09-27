@@ -1,10 +1,10 @@
 ---
-title: "Royal Kludge RK84 - Compact 75%"
-description: "d-floe's keyboard overview for the RK84 by Royal Kludge."
+title: 3 - Royal Kludge RK84 - 75%
+description: d-floe's keyboard overview for the RK84 by Royal Kludge.
 tags:
-- 75Percent
-- TrayMount
-- Keyboard
+  - 75Percent
+  - TrayMount
+  - Keyboard
 ---
 
 ![[rk84.png]]

@@ -1,9 +1,9 @@
 ---
-title: "Megalodon Triple Knob Macropad"
-description: "d-floe's macropad overview for the Triple Knob Macropad by Megalodon"
+title: Megalodon Triple Knob Macropad ⭐
+description: d-floe's macropad overview for the Triple Knob Macropad by Megalodon
 tags:
-- Macropad
-- Keyboard
+  - Macropad
+  - Keyboard
 ---
 
 ![[MACRO_Megalodon-Triple-Knob.png]]

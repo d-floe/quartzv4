@@ -1,10 +1,10 @@
 ---
-title: "Keychron K8 - TKL"
-description: "d-floe's keyboard overview for the K8 by Keychron."
+title: 4 - Keychron K8 - TKL
+description: d-floe's keyboard overview for the K8 by Keychron.
 tags:
-- TKL
-- IntegratedPlate
-- Keyboard
+  - TKL
+  - IntegratedPlate
+  - Keyboard
 ---
 
 ![[keychron-k8.jpg]]

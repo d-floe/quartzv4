@@ -1,10 +1,10 @@
 ---
-title: "Akko ACR 75 - Condensed 75%"
-description: "d-floe's keyboard overview for the ACR 75 by Akko."
+title: 13 - Akko ACR 75 - 75%
+description: d-floe's keyboard overview for the ACR 75 by Akko.
 tags:
-- 75Percent
-- StackMount
-- Keyboard
+  - 75Percent
+  - StackMount
+  - Keyboard
 ---
 
 ![[akko-acr75.jpg]]

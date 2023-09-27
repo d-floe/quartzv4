@@ -1,10 +1,10 @@
 ---
-title: "OwLab Spring - Arisu"
-description: "d-floe's keyboard overview for the Spring by OwLab."
+title: 14 - OwLab Spring - Arisu
+description: d-floe's keyboard overview for the Spring by OwLab.
 tags:
-- Arisu
-- LeafSpringMount
-- Keyboard
+  - Arisu
+  - LeafSpringMount
+  - Keyboard
 ---
 
 ![[owlab-spring.jpg]]

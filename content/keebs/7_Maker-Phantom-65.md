@@ -1,10 +1,10 @@
 ---
-title: "Maker Phantom - 65%"
-description: "d-floe's keyboard overview for the Phantom by Maker."
+title: 7 - Maker Phantom - 65%
+description: d-floe's keyboard overview for the Phantom by Maker.
 tags:
-- 65Percent
-- GummyOring
-- Keyboard
+  - 65Percent
+  - GummyOring
+  - Keyboard
 ---
 
 ![[maker-phantom.jpg]]

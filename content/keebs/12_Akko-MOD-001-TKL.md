@@ -1,10 +1,10 @@
 ---
-title: "Akko MOD 001 - TKL"
-description: "d-floe's keyboard overview for the MOD 001 by Akko."
+title: 12 - Akko MOD 001 - TKL
+description: d-floe's keyboard overview for the MOD 001 by Akko.
 tags:
-- TKL
-- TrayMount
-- Keyboard
+  - TKL
+  - TrayMount
+  - Keyboard
 ---
 
 ![[akko-mod001.jpg]]

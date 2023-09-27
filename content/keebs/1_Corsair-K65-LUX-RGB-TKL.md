@@ -1,5 +1,5 @@
 ---
-title: Corsair K65 LUX RGB - TKL
+title: 1 - Corsair K65 LUX RGB - TKL
 description: d-floe's keyboard overview for the K65 LUX RGB by Corsair.
 tags:
   - TKL

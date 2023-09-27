@@ -1,10 +1,10 @@
 ---
-title: "YMDK Wings - Arisu"
-description: "d-floe's keyboard overview for the Wings by YMDK."
+title: 9 - YMDK Wings - Arisu
+description: d-floe's keyboard overview for the Wings by YMDK.
 tags:
-- Arisu
-- IntegratedPlate
-- Keyboard
+  - Arisu
+  - IntegratedPlate
+  - Keyboard
 ---
 
 ![[ymdk-wings.jpg]]

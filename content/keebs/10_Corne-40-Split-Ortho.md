@@ -1,11 +1,11 @@
 ---
-title: "Corne - 40% Split Ortho"
-description: "d-floe's keyboard overview for the Corne."
+title: 10 - Corne - 40% Split Ortho
+description: d-floe's keyboard overview for the Corne.
 tags:
-- 40Percent
-- Ortholinear
-- StackMount
-- Keyboard
+  - 40Percent
+  - Ortholinear
+  - StackMount
+  - Keyboard
 ---
 
 ![[corne.jpg]]

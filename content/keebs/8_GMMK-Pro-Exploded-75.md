@@ -1,10 +1,10 @@
 ---
-title: "GMMK Pro - Exploded 75%"
-description: "d-floe's keyboard overview for the GMMK Pro by Glorious."
+title: 8 - GMMK Pro - 75%
+description: d-floe's keyboard overview for the GMMK Pro by Glorious.
 tags:
-- 75Percent
-- GasketMount
-- Keyboard
+  - 75Percent
+  - GasketMount
+  - Keyboard
 ---
 
 ![[gmmk-pro.jpg]]

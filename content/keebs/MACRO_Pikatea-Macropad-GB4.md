@@ -13,7 +13,8 @@ tags:
 ## Pikatea Macropad GB4
 
 - Received: December 5th, 2022
-
+- Gifted: September 25th, 2023
+- Time owned: 9 months, 20 days
 ### Summary
 
 I got this macro pad to serve 4 needs:

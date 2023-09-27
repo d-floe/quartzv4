@@ -1,10 +1,10 @@
 ---
-title: "Sharkeneko - 60%"
-description: "d-floe's keyboard overview for the Sharkeneko."
+title: 21 - Sharkeneko - 60% ⭐
+description: d-floe's keyboard overview for the Sharkeneko.
 tags:
-- 60Percent
-- GummyOring
-- Keyboard
+  - 60Percent
+  - GummyOring
+  - Keyboard
 ---
 
 ![[21_Sharkeneko-60-14.png]]
@@ -118,7 +118,7 @@ The clear coat on the brass weight started to show signs of patina. I wasn't sur
 |                           |                                                                                                |
 | **Grand Total**           |                                                                                                    | **752.65**                              | **913.85**                       |
 
-## Photoshoot
+### Photoshoot
 
 ![[21_Sharkeneko-60-16.png]]
 

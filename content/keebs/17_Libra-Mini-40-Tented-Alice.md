@@ -1,11 +1,11 @@
 ---
-title: "Libra Mini - 40% Tented Alice"
-description: "d-floe's keyboard overview for the Libra Mini."
+title: 17 - Libra Mini - 40% Alice
+description: d-floe's keyboard overview for the Libra Mini.
 tags:
-- Alice
-- 40Percent
-- GasketMount
-- Keyboard
+  - Alice
+  - 40Percent
+  - GasketMount
+  - Keyboard
 ---
 
 ![[libra-mini.jpg]]
@@ -28,7 +28,7 @@ tags:
 - Stabilizers: unknown
 - Switches: [[JWICK-Red|JWICK Red]]
 
-## Photoshoot
+### Photoshoot
 
 ![[17_Libra-Mini-40-Tented-Alice-4.jpg]]
 

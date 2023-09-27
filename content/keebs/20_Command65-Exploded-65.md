@@ -1,10 +1,10 @@
 ---
-title: "Command65 - Exploded 65%"
-description: "d-floe's keyboard overview for the Command65 by Play Keyboard and BIOI."
+title: 20 - Command65 - Exploded 65%
+description: d-floe's keyboard overview for the Command65 by Play Keyboard and BIOI.
 tags:
-- 65Percent
-- PseudoTopMount
-- Keyboard
+  - 65Percent
+  - PseudoTopMount
+  - Keyboard
 ---
 
 ![[20_Command65-Exploded-65.png]]
@@ -35,7 +35,7 @@ https://www.play-keyboard.store/products/command-65
 - Stabilizers: [[TX-AP-Stabilizers-Rev-4|TX AP Stabilizers Rev.4]]
 - Switches: [[Kailh-Box-Jade|Kailh Box Jade]] / [[NovelKeys-Cream-Clickie|NovelKeys Cream Clickie]]
 
-## Pricing
+### Pricing
 
 | Vendor          | Item                                             | Subtotal           | Total                           |
 | --------------- | ------------------------------------------------ | ------------------ | ------------------------------- |
@@ -45,7 +45,7 @@ https://www.play-keyboard.store/products/command-65
 |                 |                                                  |
 | **Grand Total** |                                                  | **327.84**         | **387.07**                      |
 
-## Photoshoot
+### Photoshoot
 
 ![[20_Command65-Exploded-65-8.png]]
 

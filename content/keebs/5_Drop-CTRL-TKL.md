@@ -1,10 +1,10 @@
 ---
-title: "Drop CTRL - TKL"
-description: "d-floe's keyboard overview for the CTRL by Drop."
+title: 5 - Drop CTRL - TKL
+description: d-floe's keyboard overview for the CTRL by Drop.
 tags:
-- TKL
-- IntegratedPlate
-- Keyboard
+  - TKL
+  - IntegratedPlate
+  - Keyboard
 ---
 
 ![[drop-ctrl.jpg]]

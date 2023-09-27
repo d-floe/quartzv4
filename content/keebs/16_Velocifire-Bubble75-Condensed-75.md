@@ -1,10 +1,10 @@
 ---
-title: "Velocifire Bubble75 - Condensed 75%"
-description: "d-floe's keyboard overview for the Bubble75 by Velocifire."
+title: 16 - Velocifire Bubble75 - 75%
+description: d-floe's keyboard overview for the Bubble75 by Velocifire.
 tags:
-- 75Percent
-- GasketMount
-- Keyboard
+  - 75Percent
+  - GasketMount
+  - Keyboard
 ---
 
 ![[bubble75.jpg]]
@@ -28,7 +28,7 @@ tags:
 - Switches: [[JWK-Alpaca|JWK Alpaca]] + [[JWICK-Black|JWICK Black]] for F-row
 - Weight: gold-plated brass
 
-## Photoshoot
+### Photoshoot
 
 ![[16_Velocifire-Bubble75-Condensed-75-3.png]]
 
