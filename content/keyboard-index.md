@@ -53,7 +53,7 @@ gantt
 
 <ul class="card-reel">
 	<div class="card" onclick="location.href='/keebs/22_Ultra-Compact-Model-F62';">
-			![[model-f-kishsaver.png]]
+			![[22_Ultra-Compact-Model-F62-24.png]]
 			[[22_Ultra-Compact-Model-F62|Ultra Compact Model F62 - 60%]]
 	</div>
 	<div class="card" onclick="location.href='/keebs/21_Sharkeneko-60';">

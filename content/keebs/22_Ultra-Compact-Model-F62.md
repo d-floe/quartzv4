@@ -6,7 +6,7 @@ tags:
   - Keyboard
 ---
 
-![[model-f-kishsaver.png]]
+![[22_Ultra-Compact-Model-F62-24.png]]
 
 ## Model F62 Kishsaver
 
@@ -75,6 +75,7 @@ After fiddling around in Keyboard Render Kit I found my dream setup for this boa
 > Fourth render idea using Unicomp white + gray mods red Cyrillic on burgundy.
 
 ![[22_Ultra-Compact-Model-F62-2.png]]
+
 ![[22_Ultra-Compact-Model-F62-3.png]]
 
 > Final render idea using Unicomp white + gray mods red Cyrillic on silver.
@@ -84,6 +85,7 @@ After fiddling around in Keyboard Render Kit I found my dream setup for this boa
 To strip the original black powder coating off of the keyboard I bought a gallon of [Klean Strip paint stripper](https://www.homedepot.com/p/Klean-Strip-1-Gal-Premium-Paint-Remover-and-Stripper-GKPS300/307994460) and poured it all into a metal container. I then submerged the keyboard chassis parts into the vat of paint stripper and waited for roughly 4 hour increments, each time scraping off more and more of the residual powder coating. Originally I was having a lot of trouble getting it off but after buying a stainless steel wire brush I was able to get the coating off much faster. Paint stripper is very corrosive so I went through 3 pairs of heavy duty rubber gloves to get this project done. Try not to breathe this stuff in if you can help it, and always work in a well ventilated area. I did this on my porch witch a big fan blowing the vapors away.
 
 ![[22_Ultra-Compact-Model-F62-4.png]]
+
 ![[22_Ultra-Compact-Model-F62-5.png]]
 
 After about a day of soaking and stripping, the final result turned out pretty decent. There's some blemishes from the raw aluminum but some people say they like it. I'm still on the fence about it, but if it starts to really bother me I'll get it cerakoted in [H-151 Satin Aluminum](https://www.cerakote.com/shop/cerakote-coating/H-151/satin-aluminum).
@@ -118,3 +120,25 @@ Unlike MX switches, the push mechanism for buckling spring switches are driven b
 | Model F Keyboards | Extra Parts                                                                  | **20**   | **29.99**  |
 |                   |                                                                              |
 | Grand Total       |                                                                              | **354**  | **378.58** |
+
+### Photoshoot
+
+![[22_Ultra-Compact-Model-F62-22.png]]
+
+![[22_Ultra-Compact-Model-F62-21.png]]
+
+![[22_Ultra-Compact-Model-F62-20.png]]
+
+![[22_Ultra-Compact-Model-F62-18.png]]
+
+![[22_Ultra-Compact-Model-F62-19.png]]
+
+![[22_Ultra-Compact-Model-F62-24.png]]
+
+![[22_Ultra-Compact-Model-F62-17.png]]
+
+![[22_Ultra-Compact-Model-F62-16.png]]
+
+![[22_Ultra-Compact-Model-F62-15.png]]
+
+![[22_Ultra-Compact-Model-F62-14.png]]
