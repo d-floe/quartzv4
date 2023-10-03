@@ -10,8 +10,8 @@ tags:
 
 ## OwLab Voice Mini
 
-- Received:
-- Weight (built):
+- Received: September 29
+- Weight (built): 230g
 
 ### Summary
 
@@ -21,5 +21,5 @@ This macropad will effectively be replacing my [[MACRO_Pikatea-Macropad-GB4|Pika
 ### Parts
 
 - Case: black and red anodized aluminum
-- Switches:
-- Keycaps:
+- Switches: [[Cherry-Boba|Cherry Boba]]
+- Keycaps: [[SW-La-Vie-En-Rose|SW La Vie En Rose]]
