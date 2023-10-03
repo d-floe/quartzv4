@@ -35,8 +35,8 @@ gantt
         GK64:a6, June 20th 2021,August 13th 2021
         Blade60:a11, October 15th 2021,March 9th 2023
         Isabell:a19, February 4th 2023,August 25th 2023
-        Sharkeneko:a21, May 4th 2023,September 24th 2023
-        UC Model F62:a22, July 22nd 2023,September 24th 2023
+        Sharkeneko:a21, May 4th 2023,October 2nd 2023
+        UC Model F62:a22, July 22nd 2023,October 2nd 2023
 
 		section Ergo
         YMDK Wings:a9, September 7th 2021,December 16th 2021
@@ -46,7 +46,8 @@ gantt
 
 		section Macropad
 		Pikatea GB4:apk, December 5th 2022,September 23rd 2023
-		Megalodon Triple Knob:atk, June 3rd 2023,September 24th 2023
+		Megalodon Triple Knob:atk, June 3rd 2023,October 2nd 2023
+		Owlab Voice Mini:avm, September 29th 2023,October 2nd 2023
 ```
 
 ## Currently Own
@@ -69,9 +70,10 @@ gantt
 			![[MACRO_Megalodon-Triple-Knob.png]]
 			[[MACRO_Megalodon-Triple-Knob|Megalodon Triple Knob Macropad]]
 	</div>
-	<div class="card" onclick="location.href='/keebs/MACRO_Pikatea-Macropad-GB4';">
-			![[MACRO_Pikatea-Macropad-GB4.jpg]]
-			[[MACRO_Pikatea-Macropad-GB4|Pikatea Macropad GB4]]
+	<ul class="card-reel">
+	<div class="card" onclick="location.href='/keebs/MACRO_OwLab-Voice-Mini';">
+			![[MACRO_OwLab-Voice-Mini.png]]
+			[[MACRO_MACRO_OwLab-Voice-Mini|Owlab Voice Mini]]
 	</div>
 </ul>
 
@@ -87,6 +89,10 @@ gantt
 ## Past Projects
 
 <ul class="card-reel">
+	<div class="card" onclick="location.href='/keebs/MACRO_Pikatea-Macropad-GB4';">
+			![[MACRO_Pikatea-Macropad-GB4.jpg]]
+			[[MACRO_Pikatea-Macropad-GB4|Pikatea Macropad GB4]]
+	</div>
 	<div class="card" onclick="location.href='/keebs/20_Command65-Exploded-65';">
 			![[20_Command65-Exploded-65.png]]
 			[[20_Command65-Exploded-65|Command65 - Exploded 65%]] 
