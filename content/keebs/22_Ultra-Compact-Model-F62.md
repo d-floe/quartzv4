@@ -1,5 +1,5 @@
 ---
-title: Model F62 Kishsaver⭐
+title: Ultra Compact Model F62⭐
 description: d-floe's keyboard overview for the Ultra Compact Model F62 by Model F Labs.
 tags:
   - 60Percent
@@ -8,7 +8,7 @@ tags:
 
 ![[22_Ultra-Compact-Model-F62-24.png]]
 
-## Model F62 Kishsaver
+## Reproduction Ultra Compact Model F62
 
 - Received: July 22nd, 2023
 - Weight (built): 1609g / 3.547lbs
