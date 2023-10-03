@@ -22,11 +22,18 @@ tags:
 ### Parts
 
 - Case: burgundy anodized aluminum
-- Configuration: case foam, PE Foam, plate Foam
+- Configuration: 
+    - Case foam
+    - PE foam
+    - Plate foam
 - Mid-piece: silver aluminum
 - Plate: black anodized aluminum
 - Stabilizers: [[TX-Stabilizers-Rev-3|TX Stabilizers Rev.3]]
-- Switches: [[Cherry-MM|Cherry MM]] / [[Tecsee-Zaku|Tecsee Zaku]] / [[Cherry-Burgundy|Cherry Burgundy]] / [[JWK-MM-Alpaca|JWK MM Alpaca]]
+- Switches: 
+    - [[Cherry-MM|Cherry MM]] 
+    - [[Tecsee-Zaku|Tecsee Zaku]] 
+    - [[Cherry-Burgundy|Cherry Burgundy]] 
+    - [[JWK-MM-Alpaca|JWK MM Alpaca]]
 
 ![[19_CMM-Studio-Isabell-60-2.png]]
 

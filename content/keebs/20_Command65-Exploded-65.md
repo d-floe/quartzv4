@@ -28,7 +28,7 @@ https://www.play-keyboard.store/products/command-65
 
 - Add-ons: Nokia batteries for wireless Bluetooth functionality
 - Case: ivory injection-molded ABS plastic
-- Configuration: lower case silicone
+- Configuration: lower case silicone dampener only
 - Keycaps: [[IFK-WoB|IFK WoB]]
 - Plate: black sandblasted aluminum
     - Make sure to file down the notches on the plate. The tolerances on this plate are very tight and can even be problematic for cherry switches.
