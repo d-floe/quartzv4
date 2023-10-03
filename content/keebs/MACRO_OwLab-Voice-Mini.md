@@ -6,8 +6,8 @@ tags:
   - Keyboard
 ---
 
-![[MACRO_OwLab-Voice-Mini.jpg]]
 ![[MACRO_OwLab-Voice-Mini.png]]
+
 ## OwLab Voice Mini
 
 - Received: September 29
@@ -15,8 +15,8 @@ tags:
 
 ### Summary
 
-I have not received this yet but I eagerly await its arrival...
-This macropad will effectively be replacing my [[MACRO_Pikatea-Macropad-GB4|Pikatea Macropad]].
+Its a pretty good macropad! I like that it has wireless capability so there's no need for a clunky cord. I can effortlessly move this to different places on my desk as I want.
+The build experience was enjoyable, though
 
 ### Parts
 
