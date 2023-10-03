@@ -7,7 +7,7 @@ tags:
 ---
 
 ![[MACRO_OwLab-Voice-Mini.jpg]]
-
+![[MACRO_OwLab-Voice-Mini.png]]
 ## OwLab Voice Mini
 
 - Received: September 29
