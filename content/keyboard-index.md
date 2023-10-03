@@ -70,7 +70,6 @@ gantt
 			![[MACRO_Megalodon-Triple-Knob.png]]
 			[[MACRO_Megalodon-Triple-Knob|Megalodon Triple Knob Macropad]]
 	</div>
-	<ul class="card-reel">
 	<div class="card" onclick="location.href='/keebs/MACRO_OwLab-Voice-Mini';">
 			![[MACRO_OwLab-Voice-Mini.png]]
 			[[MACRO_MACRO_OwLab-Voice-Mini|Owlab Voice Mini]]
