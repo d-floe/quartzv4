@@ -1,6 +1,6 @@
 ---
-title: Ultra Compact Model F62⭐
-description: d-floe's keyboard overview for the Ultra Compact Model F62 by Model F Labs.
+title: Model F62 Ultra Compact
+description: d-floe's keyboard overview for the Model F62 Ultra Compact by Model F Labs.
 tags:
   - 60Percent
   - Keyboard
@@ -8,7 +8,7 @@ tags:
 
 ![[22_Ultra-Compact-Model-F62-24.png]]
 
-## Reproduction Ultra Compact Model F62
+## Reproduction Model F62 Ultra Compact
 
 - Received: July 22nd, 2023
 - Weight (built): 1609g / 3.547lbs

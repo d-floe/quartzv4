@@ -50,8 +50,6 @@ I tried a few different approaches to the design such as:
 
 Ultimately, due to manufacturing restrictions of 1mm minimum thickness, I ended up settling for the first design, and after much deliberation, I decided to go with a PVD finish instead of sand-blasted brass. This would ultimately prove to be a blunder (or perhaps a blessing in disguise?).
 
-![[sharkeneko-concept.gif]]
-
 #### Build
 
 The initial build process went pretty smoothly. I soldered [[7305-0-Gold-Sockets|7305-0 Gold Mill-Max Sockets]] onto the [[Hineybush-H60|Hineybush H60]] PCB, making sure to leave the Esc key, and both Ctrl keys bare so that when it was time to put it together, the corner switches would remain attached, ensuring that the PCB and Plate assembly would remain inseparable. This is important when it comes to gummy-oring keyboards because the corners keep the o-ring in place. If you happen to remove the corner keys, you would effectively have to reassemble the whole thing, which would end up being a major hassle. All of the other keys are completely fine to remove, though.
@@ -114,9 +112,9 @@ The clear coat on the brass weight started to show signs of patina. I wasn't sur
 | Divinikey                 | Deskeys Switch Films x 120, Cherry MX Black x 90, TX XL Springs, Kailh Speed Pro Burgundy x 90 | 6.95 + 40.50 + 7.50 + 25.20 = **80.15** | 80.15 + 8.44 = **88.59**         |
 | Gaojie                    | Replacement Brass Weight                                                                       | **57.50**                               | **57.50**                        |
 | KLC Hobbyists' Playground | Linworks WoB                                                                                   | **70**                                  | 70 + 21 = **92**                 |
-| Mechmarket                | SW La Vie En Rose.                                                                             | **68**                                  |**68**                            |
+| Mechmarket                | SW La Vie En Rose.                                                                             | **68**                                  | **68**                           |
 |                           |                                                                                                |
-| **Grand Total**           |                                                                                                    | **752.65**                              | **913.85**                       |
+| **Grand Total**           |                                                                                                | **752.65**                              | **913.85**                       |
 
 ### Photoshoot
 

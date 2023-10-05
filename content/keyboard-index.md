@@ -54,8 +54,8 @@ gantt
 
 <ul class="card-reel">
 	<div class="card" onclick="location.href='/keebs/22_Ultra-Compact-Model-F62';">
-			![[22_Ultra-Compact-Model-F62-24.png]]
-			[[22_Ultra-Compact-Model-F62|Ultra Compact Model F62 - 60%]]
+			![[23_Classic-Model-F62.png]]
+			[[23_Classic-Model-F62|Classic Model F62 - 60%]]
 	</div>
 	<div class="card" onclick="location.href='/keebs/21_Sharkeneko-60';">
 			![[21_Sharkeneko-60-14.png]]
@@ -88,6 +88,10 @@ gantt
 ## Past Projects
 
 <ul class="card-reel">
+	<div class="card" onclick="location.href='/keebs/22_Ultra-Compact-Model-F62';">
+				![[22_Ultra-Compact-Model-F62-24.png]]
+				[[22_Ultra-Compact-Model-F62|Ultra Compact Model F62 - 60%]]
+		</div>
 	<div class="card" onclick="location.href='/keebs/MACRO_Pikatea-Macropad-GB4';">
 			![[MACRO_Pikatea-Macropad-GB4.jpg]]
 			[[MACRO_Pikatea-Macropad-GB4|Pikatea Macropad GB4]]
