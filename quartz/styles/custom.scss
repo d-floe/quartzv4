@@ -750,3 +750,7 @@ th {
 .page article li:has(> input[type="checkbox"]:checked) {
   text-decoration: inherit !important;
 }
+
+breadcrumb-container {
+  margin-bottom: .75rem !important;
+}
