@@ -11,7 +11,7 @@ tags:
 ## Reproduction Model F62 Classic
 
 - Received: October 5th, 2023
-- Weight (built):
+- Weight (built): 3457g / 7lb 10oz
 
 ### Summary
 

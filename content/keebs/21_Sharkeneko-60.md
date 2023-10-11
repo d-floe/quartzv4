@@ -12,7 +12,7 @@ tags:
 ## Sharkeneko
 
 - Received: May 4th, 2023
-- Weight (built): 1474g / 3.25lbs
+- Weight (built): 1474g / 3lbs 4oz
 
 ### Summary
 

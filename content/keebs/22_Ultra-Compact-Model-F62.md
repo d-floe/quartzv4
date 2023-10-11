@@ -11,7 +11,7 @@ tags:
 ## Reproduction Model F62 Ultra Compact
 
 - Received: July 22nd, 2023
-- Weight (built): 1609g / 3.547lbs
+- Weight (built): 1609g / 3lbs 8.8 oz
 
 ### Summary
 
