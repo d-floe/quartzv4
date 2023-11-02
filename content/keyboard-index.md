@@ -53,7 +53,7 @@ gantt
 ## Currently Own
 
 <ul class="card-reel">
-	<div class="card" onclick="location.href='/keebs/22_Ultra-Compact-Model-F62';">
+	<div class="card" onclick="location.href='/keebs/23_Classic-Model-F62';">
 			![[23_Classic-Model-F62.png]]
 			[[23_Classic-Model-F62|Classic Model F62 - 60%]]
 	</div>
