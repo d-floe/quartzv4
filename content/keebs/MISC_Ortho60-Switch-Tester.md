@@ -7,12 +7,12 @@ tags:
   - SwitchTester
 ---
 
-![[23_Classic-Model-F62.png]]
+![[MISC_Ortho60-Switch-Tester.png]]
 
-## Reproduction Model F62 Classic
+## CannonKeys Ortho60 (Switch Tester)
 
 - Received: October 5th, 2023
-- Weight (built): 3457g / 7lb 10oz
+- Weight (built): 
 
 ### Summary
 
