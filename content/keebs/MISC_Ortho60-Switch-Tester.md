@@ -1,6 +1,6 @@
 ---
-title: Ortho60 (Switch Tester)⭐
-description: d-floe's keyboard overview for the Ortho60 (Switch Tester).
+title: Ortho60 (Tester)⭐
+description: d-floe's keyboard overview for the Ortho60 (Tester).
 tags:
   - Keyboard
   - Ortholinear
@@ -10,7 +10,7 @@ tags:
 ![[MISC_Ortho60-Switch-Tester-1.png]]
 ![[MISC_Ortho60-Switch-Tester.png]]
 
-## CannonKeys Ortho60 (Switch Tester)
+## CannonKeys Ortho60 (Tester)
 
 - Received: November 4th, 2023
 - Weight (built):
@@ -29,11 +29,11 @@ I plan on printing some custom dye sublimation sheets and printing them directly
 
 ![[MISC_Ortho60-Switch-Tester-4.png]]
 
-> Brown = Tactile
-> Blue = Clicky
-> Red = Linear
-> Tan = Silent Tactile
-> Pink = Silent Linear
+- Brown = Tactile
+- Blue = Clicky
+- Red = Linear
+- Tan = Silent Tactile
+- Pink = Silent Linear
 
 ### Switches Used
 
