@@ -24,7 +24,16 @@ After I got the sample pack, it occurred to me that this would be a great opport
 
 To maintain a consistent sound from each switch, I also needed to make sure the keycaps I used for each switch were identical to each other, so for that, I decided to go with the blank white XDA profile keycaps from YMDK on Amazon.
 
+I plan on printing some custom dye sublimation sheets and printing them directly onto the blank XDA keycaps so it is immediately clear which switch you're pressing.
+
+![[MISC_Ortho60-Switch-Tester-4.png]]
+> Brown = Tactile
+> Blue = Clicky
+> Red = Linear
+> Tan = Silent Tactile
+> Pink = Silent Linear
 ### Switches Used
+These are all the switches included in the original collectors edition sample pack.
 - [Anubis Tactile](https://cannonkeys.com/products/anubis-switch "Anubis Tactile")
 - [Blue Macaw Silent Tactile](https://cannonkeys.com/products/blue-macaw-silent-tactile-switch "Blue Macaw Silent Tactile")
 - [Blush Light Tactile](https://cannonkeys.com/products/blush-light-tactile-switch "Blush Light Tactile")
@@ -83,5 +92,6 @@ To maintain a consistent sound from each switch, I also needed to make sure the 
 - [Aurora Series Fog Linear](https://cannonkeys.com/products/aurora-series-fog-linear-switch "Aurora Series Fog Linear Switch")
 - [Aurora Series Pink Linear](https://cannonkeys.com/products/aurora-series-pink-linear-switch "Aurora Series Pink Linear Switch")
 #### Other switches
+These were switches I included to make up for the empty slots that were not filled by the switches from the sample pack,
 - [[Kailh-Box-Jade|Kailh Box Jade]]
-- 
+- [[Cherry-Burgundy|Cherry Burgundy]]

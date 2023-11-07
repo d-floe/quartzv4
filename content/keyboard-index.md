@@ -49,6 +49,9 @@ gantt
 		Pikatea GB4:apk, December 5th 2022,September 23rd 2023
 		Megalodon Triple Knob:atk, June 3rd 2023,November 7th 2023
 		Owlab Voice Mini:avm, September 29th 2023,November 7th 2023
+
+		section Misc
+		Ortho60 (Switch Tester):ost, November 4th 2023,November 7th 2023
 ```
 
 ## Currently Own
@@ -77,6 +80,14 @@ gantt
 	</div>
 </ul>
 
+### Other
+
+<ul class="card-reel">
+		<div class="card" onclick="location.href='/keebs/MISC_Ortho60-Switch-Tester';">
+				![[MISC_Ortho60-Switch-Tester-1.png]]
+				[[MISC_Ortho60-Switch-Tester|Ortho60 (Switch Tester)]]
+		</div>
+</ul>
 ## Future Projects
 
 <ul class="card-reel">
