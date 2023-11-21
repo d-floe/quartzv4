@@ -7,7 +7,7 @@ tags:
   - SwitchTester
 ---
 
-![[MISC_Ortho60-Switch-Tester-1.png]]
+![[MISC_Ortho60-Switch-Tester-5.png]]
 ![[MISC_Ortho60-Switch-Tester.png]]
 
 ## CannonKeys Ortho60 (Tester)
