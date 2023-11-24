@@ -18,7 +18,7 @@ You can contact me anytime on Twitter or Discord below!
 [COMMISSION QUEUE](https://trello.com/b/2gT3qDED/commission-sheet)
 
 ---
-/commi
+
 ## Standard Commission
 
 - Variable price per character and complexity
