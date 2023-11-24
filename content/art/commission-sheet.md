@@ -119,5 +119,5 @@ By commissioning me, you accept my T.O.S.
 
 ### Reference Sheets
 
-| ![[commission-sheet-2.png]] | ![[comm-example-9.png]] |
+| ![[commission-sheet-2.png]] | ![[commission-sheet-3.png]] |
 | ----------------------- | ----------------------- |
