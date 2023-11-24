@@ -6,7 +6,7 @@ tags:
 
 ![[d-floe-commission-sheet-1.png]]
 
-Thank you for checking out my commission sheet! I’m happy to work with a wide variety of requests to make a piece you like! /commit
+Thank you for checking out my commission sheet! I’m happy to work with a wide variety of requests to make a piece you like! 
 
 ### Questions? Comments? 
 
