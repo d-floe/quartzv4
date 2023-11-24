@@ -6,7 +6,7 @@ tags:
 
 ![[d-floe-commission-sheet-1.png]]
 
-Thank you for checking out my commission sheet! I’m happy to work with a wide variety of requests to make a piece you like!
+Thank you for checking out my commission sheet! I’m happy to work with a wide variety of requests to make a piece you like! /commit
 
 ### Questions? Comments? 
 
@@ -52,14 +52,14 @@ By commissioning me, you accept my T.O.S.
 
 - All commissions must be paid upfront through PayPal (USD), Prices are on a “per-character” basis.
 - Work will not begin until the transaction has been processed and confirmed by me.
-- All commissions will be handled through Twitter or Discord direct messages, if you feel I may be unable to reach you through either of these, you can contact me by email; Contact info is listed at the end of this document.
+- All commissions will be handled through Twitter or Discord direct messages.
 - Commissions:
     - Humanoids Only
     - No Rigid Armor (Plated armor, ect.)
     - No Mecha
-    - [NSFW](https://nsfw.d-floe.com/)
     - No Fetish Art, Gore, Etc.
-- RUSH ORDERS: Jump to the front of the queue for +50% addition to Total Price.
+- [NSFW Guidelines](https://nsfw.d-floe.com/)
+- **RUSH ORDERS:** Jump to the front of the queue for +50% addition to Total Price.
 
 ---
 
