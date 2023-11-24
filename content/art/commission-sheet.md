@@ -6,7 +6,7 @@ tags:
 
 ![[d-floe-commission-sheet-1.png]]
 
-Thank you for checking out my commission sheet! I’m happy to work with a wide variety of requests to make a piece you like! 
+Thank you for checking out my commission sheet! I’m happy to work with a wide variety of requests to make a piece you like!
 
 ### Questions? Comments? 
 
@@ -18,7 +18,7 @@ You can contact me anytime on Twitter or Discord below!
 [COMMISSION QUEUE](https://trello.com/b/2gT3qDED/commission-sheet)
 
 ---
-
+/commi
 ## Standard Commission
 
 - Variable price per character and complexity
@@ -27,10 +27,10 @@ You can contact me anytime on Twitter or Discord below!
 <div class="Comm">
   <div class="Image">![[d-floe-commission-sheet.png]]</div>
   <div class="Top">Lineart / Flat / Render</div>
-  <div class="Headshot">Headshot<br>170 / 195  / 220 USD</div>
-  <div class="Chest-up">Chest Up<br>180 / 230  / 280 USD</div>
-  <div class="Legs-up">Legs Up<br>240 / 290  / 340 USD</div>
-  <div class="Full-Pose">Full Pose<br>280 / 350  / 420 USD</div>
+  <div class="Headshot">Headshot<br>150 / 175  / 200 USD</div>
+  <div class="Chest-up">Chest Up<br>160 / 210  / 260 USD</div>
+  <div class="Legs-up">Legs Up<br>220 / 270  / 320 USD</div>
+  <div class="Full-Pose">Full Pose<br>260 / 330  / 400 USD</div>
 </div>
 
 ---
@@ -40,9 +40,8 @@ You can contact me anytime on Twitter or Discord below!
 I would be happy to assist in creating new designs with you!
 Below are examples of the iterative design process that will be available for design commissions.
 
-
 | ![[commission-sheet-1.png]] | ![[commission-sheet.png]] |
-| ----------------------- | ----------------------- |
+| --------------------------- | ------------------------- |
 
 This design process comes with a **+50 USD** upcharge to the base price of the commission.
 
@@ -120,4 +119,4 @@ By commissioning me, you accept my T.O.S.
 ### Reference Sheets
 
 | ![[commission-sheet-2.png]] | ![[commission-sheet-3.png]] |
-| ----------------------- | ----------------------- |
+| --------------------------- | --------------------------- |
