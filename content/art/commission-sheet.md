@@ -35,6 +35,25 @@ You can contact me anytime on Twitter or Discord below!
 
 ---
 
+## New Designs
+
+I would be happy to assist in creating new designs with you!
+Below are examples of the iterative design process that will be available for design commissions.
+
+
+| ![[commission-sheet-1.png]] | ![[commission-sheet.png]] |
+| ----------------------- | ----------------------- |
+
+This design process comes with a **+50 USD** upcharge to the base price of the commission.
+
+---
+
+### Reference Sheets
+
+Reference sheets follow the same rate as standard commissions. Each drawing is charged as if they are their own individual character.
+
+---
+
 ## Terms of Service
 
 By commissioning me, you accept my T.O.S.
@@ -96,4 +115,9 @@ By commissioning me, you accept my T.O.S.
 ### Line Art
 
 | ![[comm-example-8.png]] | ![[comm-example-9.png]] |
+| ----------------------- | ----------------------- |
+
+### Reference Sheets
+
+| ![[commission-sheet-2.png]] | ![[comm-example-9.png]] |
 | ----------------------- | ----------------------- |
