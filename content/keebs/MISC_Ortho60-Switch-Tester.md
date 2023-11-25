@@ -25,7 +25,7 @@ After I got the sample pack, it occurred to me that this would be a great opport
 
 To maintain a consistent sound from each switch, I also needed to make sure the keycaps I used for each switch were identical to each other, so for that, I decided to go with the blank white XDA profile keycaps from YMDK on Amazon.
 
-I plan on printing some custom dye sublimation sheets and printing them directly onto the blank XDA keycaps so it is immediately clear which switch you're pressing.
+I printed custom dye sublimation sheets and transferred them directly onto the blank XDA keycaps so it is immediately clear which switch you're pressing.
 
 ![[MISC_Ortho60-Switch-Tester-4.png]]
 
@@ -34,6 +34,8 @@ I plan on printing some custom dye sublimation sheets and printing them directly
 - Red = Linear
 - Tan = Silent Tactile
 - Pink = Silent Linear
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EexYUowfBhU?si=S5_TxeDHGoK52M5h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Switches Used
 
