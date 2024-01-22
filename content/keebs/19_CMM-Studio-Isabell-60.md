@@ -41,15 +41,15 @@ tags:
 
 > [!bug]
 > I figured rather than letting my Isabell go to waste, why not convert it into the ultimate high-response gaming machine without compromising on aesthetics and sound. The Isabell is one of the only GH60 designs that has a gasket mounted structure which leaves doors open for improved sound in any typing experience. Plus, I just love that sweet, sweet burgundy chassis. A custom Plate will need to be cut to support the Wooting 60HE PCB so here's hoping I get it right the first try.
-
-### Pricing
-
-| Vendor              | Item                 | Subtotal   | Total                       |
-| ------------------- | -------------------- | ---------- | --------------------------- |
-| Kanata Keys         | Isabell 60% Keyboard | **234.96** | 234.96 + 21.58 = **256.54** |
-| Mechmarket purchase | IFK WoB              | **68**     | **68**                      |
-|                     |                      |
-| **Grand Total**     |                      | **302.96** | **324.54**                  |
+>
+> ### Pricing
+>
+>| Vendor              | Item                 | Subtotal   | Total                       |
+>------------------- | -------------------- | ---------- | --------------------------- |
+>| Kanata Keys         | Isabell 60% Keyboard | **234.96** | 234.96 + 21.58 = **256.54** |
+>| Mechmarket purchase | IFK WoB              | **68**     | **68**                      |
+>|                     |                      |
+>| **Grand Total**     |                      | **302.96** | **324.54**                  |
 
 ### Photoshoot
 

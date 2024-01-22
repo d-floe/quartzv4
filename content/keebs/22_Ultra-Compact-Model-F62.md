@@ -111,15 +111,16 @@ Unlike MX switches, the push mechanism for buckling spring switches are driven b
 - Configuration: Floss Modded, lubed spacebar wire, lubed keycap stems
 - Bumpers: [Anodized Mechanical Keyboard Feet](https://www.amazon.com/dp/B0BKM1HC1D)
 
-### Pricing
-
-| Vendor            | Item                                                                         | Subtotal | Total      |
-| ----------------- | ---------------------------------------------------------------------------- | -------- | ---------- |
-| MechMarket        | Ultra Compact Model F62 Keyboard Black, Unicomp US APL Buttons, Floss Modded | **255**  | **255**    |
-| Unicomp           | Unicomp White Red Russian Legends keycaps, stabilizer inserts                | **79**   | **93.59**  |
-| Model F Keyboards | Extra Parts                                                                  | **20**   | **29.99**  |
-|                   |                                                                              |
-| Grand Total       |                                                                              | **354**  | **378.58** |
+> [!bug]
+> ### Pricing
+> 
+> | Vendor            | Item                                                                         | Subtotal | Total      |
+> | ----------------- | ---------------------------------------------------------------------------- | -------- | ---------- |
+> | MechMarket        | Ultra Compact Model F62 Keyboard Black, Unicomp US APL Buttons, Floss Modded | **255**  | **255**    |
+> | Unicomp           | Unicomp White Red Russian Legends keycaps, stabilizer inserts                | **79**   | **93.59**  |
+> | Model F Keyboards | Extra Parts                                                                  | **20**   | **29.99**  |
+> |                   |                                                                              |
+> | Grand Total       |                                                                              | **354**  | **378.58** |
 
 ### Photoshoot
 

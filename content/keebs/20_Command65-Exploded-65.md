@@ -22,6 +22,7 @@ This retro callback to the Commodore64 oozes of fun and style. The [[NovelKeys-C
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Rp_AqlqRecU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4gzmWPU9VB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Parts
 
 https://www.play-keyboard.store/products/command-65
@@ -35,15 +36,16 @@ https://www.play-keyboard.store/products/command-65
 - Stabilizers: [[TX-AP-Stabilizers-Rev-4|TX AP Stabilizers Rev.4]]
 - Switches: [[Kailh-Box-Jade|Kailh Box Jade]] / [[NovelKeys-Cream-Clickie|NovelKeys Cream Clickie]]
 
-### Pricing
-
-| Vendor          | Item                                             | Subtotal           | Total                           |
-| --------------- | ------------------------------------------------ | ------------------ | ------------------------------- |
-| Play Keyboard   | Command65 Keyboard Kit Bluetooth, Aluminum Plate | 229 + 29 = **258** | 258 + 43.89 = **301.89**        |
-| NovelKeys       | Cream Clickie Switches x 70                      | **51.84**          | 51.84 + 4.45 + 4.65 = **60.94** |
-| Divinikey       | TX AP Stabilizers Rev 4                          | **18**             | 18 + 6.24 = **24.24**           |
-|                 |                                                  |
-| **Grand Total** |                                                  | **327.84**         | **387.07**                      |
+> [!bug]
+> ### Pricing
+> 
+> | Vendor          | Item                                             | Subtotal           | Total                           |
+> | --------------- | ------------------------------------------------ | ------------------ | ------------------------------- |
+> | Play Keyboard   | Command65 Keyboard Kit Bluetooth, Aluminum Plate | 229 + 29 = **258** | 258 + 43.89 = **301.89**        |
+> | NovelKeys       | Cream Clickie Switches x 70                      | **51.84**          | 51.84 + 4.45 + 4.65 = **60.94** |
+> | Divinikey       | TX AP Stabilizers Rev 4                          | **18**             | 18 + 6.24 = **24.24**           |
+> |                 |                                                  |
+> | **Grand Total** |                                                  | **327.84**         | **387.07**                      |
 
 ### Photoshoot
 
