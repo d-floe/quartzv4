@@ -8,6 +8,7 @@ tags:
 
 ![[22_Ultra-Compact-Model-F62-24.png]]
 
+> **Model F62 Ultra Compact** with Unicomp Keycaps
 ## Reproduction Model F62 Ultra Compact
 
 - Received: July 22nd, 2023

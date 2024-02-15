@@ -9,6 +9,8 @@ tags:
 
 ![[20_Command65-Exploded-65.png]]
 
+> **Command65** with [[IFK-WoB|IFK WoB]]
+
 ## PK x BIOI Command 65
 
 - Received: April 14, 2023
@@ -37,8 +39,9 @@ https://www.play-keyboard.store/products/command-65
 - Switches: [[Kailh-Box-Jade|Kailh Box Jade]] / [[NovelKeys-Cream-Clickie|NovelKeys Cream Clickie]]
 
 > [!bug]
+>
 > ### Pricing
-> 
+>
 > | Vendor          | Item                                             | Subtotal           | Total                           |
 > | --------------- | ------------------------------------------------ | ------------------ | ------------------------------- |
 > | Play Keyboard   | Command65 Keyboard Kit Bluetooth, Aluminum Plate | 229 + 29 = **258** | 258 + 43.89 = **301.89**        |

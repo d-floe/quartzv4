@@ -9,6 +9,8 @@ tags:
 
 ![[21_Sharkeneko-60-14.png]]
 
+> **Sharkeneko** with [[Linworks-WoB|Linworks WoB]] and [[SW-La-Vie-En-Rose|SW La Vie En Rose]]
+
 ## Sharkeneko
 
 - Received: May 4th, 2023
@@ -100,19 +102,21 @@ The clear coat on the brass weight started to show signs of patina. I wasn't sur
 - [x] Weight: natural patina brass ~~clear-coat brass~~ ~~PVD stainless steel~~
 
 > [!bug]
+>
 > ### Pricing
-> | Vendor | Item | Subtotal | Total |
-> | ---- | ---- | ---- | ---- |
-> | Gaojie | Aluminum Case, PVD Stainless Steel Weight, Carbon Fiber Plate | 176 + 177 + 56 = **412** | 412 + 48 = **460** |
-> | Hineybush | H60 PCB, USB C Daughterboard | 39 + 10 = **49** | 49 + 7.96 = **56.96** |
-> | Graveshift | GraveShift M o-ring Gray | **5.45** | 5.45 + 3.97 = **9.42** |
-> | Keebsforall | Geon Keyboard Foams, TX Stabilizers (Rev. 3), Mill-Max 7305-0 Gold Sockets x 140 | 6.50 + 19 + 42 = **65.50** | 65.50 + 1.55 + 12.33 = **81.38** |
-> | Divinikey | Deskeys Switch Films x 120, Cherry MX Black x 90, TX XL Springs, Kailh Speed Pro Burgundy x 90 | 6.95 + 40.50 + 7.50 + 25.20 = **80.15** | 80.15 + 8.44 = **88.59** |
-> | Gaojie | Replacement Brass Weight | **57.50** | **57.50** |
-> | KLC Hobbyists' Playground | Linworks WoB | **70** | 70 + 21 = **92** |
-> | Mechmarket | SW La Vie En Rose. | **68** | **68** |
-> |  |  |  |  |
-> | **Grand Total** |  | **752.65** | **913.85** |
+>
+> | Vendor                    | Item                                                                                           | Subtotal                                | Total                            |
+> | ------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------- | -------------------------------- |
+> | Gaojie                    | Aluminum Case, PVD Stainless Steel Weight, Carbon Fiber Plate                                  | 176 + 177 + 56 = **412**                | 412 + 48 = **460**               |
+> | Hineybush                 | H60 PCB, USB C Daughterboard                                                                   | 39 + 10 = **49**                        | 49 + 7.96 = **56.96**            |
+> | Graveshift                | GraveShift M o-ring Gray                                                                       | **5.45**                                | 5.45 + 3.97 = **9.42**           |
+> | Keebsforall               | Geon Keyboard Foams, TX Stabilizers (Rev. 3), Mill-Max 7305-0 Gold Sockets x 140               | 6.50 + 19 + 42 = **65.50**              | 65.50 + 1.55 + 12.33 = **81.38** |
+> | Divinikey                 | Deskeys Switch Films x 120, Cherry MX Black x 90, TX XL Springs, Kailh Speed Pro Burgundy x 90 | 6.95 + 40.50 + 7.50 + 25.20 = **80.15** | 80.15 + 8.44 = **88.59**         |
+> | Gaojie                    | Replacement Brass Weight                                                                       | **57.50**                               | **57.50**                        |
+> | KLC Hobbyists' Playground | Linworks WoB                                                                                   | **70**                                  | 70 + 21 = **92**                 |
+> | Mechmarket                | SW La Vie En Rose.                                                                             | **68**                                  | **68**                           |
+> |                           |                                                                                                |                                         |                                  |
+> | **Grand Total**           |                                                                                                | **752.65**                              | **913.85**                       |
 
 ### Photoshoot
 

@@ -8,6 +8,8 @@ tags:
 
 ![[23_Classic-Model-F62.png]]
 
+> **Model F62 Classic** with Model F Labs Pearl and Pebble keycaps
+
 ## Reproduction Model F62 Classic
 
 - Received: October 5th, 2023

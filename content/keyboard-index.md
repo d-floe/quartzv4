@@ -66,8 +66,8 @@ gantt
 			[[21_Sharkeneko-60|Sharkeneko - 60%]]
 	</div>
 	<div class="card" onclick="location.href='/keebs/25_Sharkeneko-60';">
-			![[21_Sharkeneko-60-14.png]]
-			[[21_Sharkeneko-60|Sharkeneko - 60%]]
+			![[25_Typ65+-8.png]]
+			[[25_Typ65+|Typ65+ - 65%]]
 	</div>
 </ul>
 
@@ -104,10 +104,14 @@ gantt
 ## Past Projects
 
 <ul class="card-reel">
+	<div class="card" onclick="location.href='/keebs/24_Alps-60';">
+			![[24_Alps-60.png]]
+			[[24_Alps-60|ALPS 60]]
+	</div>
 	<div class="card" onclick="location.href='/keebs/22_Ultra-Compact-Model-F62';">
-				![[22_Ultra-Compact-Model-F62-24.png]]
-				[[22_Ultra-Compact-Model-F62|Ultra Compact Model F62 - 60%]]
-		</div>
+			![[22_Ultra-Compact-Model-F62-24.png]]
+			[[22_Ultra-Compact-Model-F62|Ultra Compact Model F62 - 60%]]
+	</div>
 	<div class="card" onclick="location.href='/keebs/MACRO_Pikatea-Macropad-GB4';">
 			![[MACRO_Pikatea-Macropad-GB4.jpg]]
 			[[MACRO_Pikatea-Macropad-GB4|Pikatea Macropad GB4]]
@@ -168,11 +172,11 @@ gantt
 			![[maker-phantom.jpg]]
 			[[7_Maker-Phantom-65|Maker Phantom - 65%]] 
 	</div>
-			<div class="card" onclick="location.href='/keebs/6_Skyloong-GK64-60';">
+	<div class="card" onclick="location.href='/keebs/6_Skyloong-GK64-60';">
 			![[gk64.jpg]]
 			[[6_Skyloong-GK64-60|Skyloong GK64 - 60%]] 
 	</div>
-			<div class="card" onclick="location.href='/keebs/5_Drop-CTRL-TKL';">
+	<div class="card" onclick="location.href='/keebs/5_Drop-CTRL-TKL';">
 			![[drop-ctrl.jpg]]
 			[[5_Drop-CTRL-TKL|Drop CTRL - TKL]]
 	</div>
