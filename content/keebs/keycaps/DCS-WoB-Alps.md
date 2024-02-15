@@ -5,7 +5,7 @@ tags:
   - DoubleShotABS
 ---
 
-
+![[DCS-WoB-Alps.jpg]]
 
 ## DCS WoB Alps
 
@@ -13,7 +13,6 @@ tags:
 - Vendor: Bear Cables
 - Material: Doubleshot ABS
 
-### Kitting
-
+Uses standard MX stabilizer mounting. Tab key stem snapped but Signature Plastics sent a replacement keycap with an updated stem mold.
 
 
