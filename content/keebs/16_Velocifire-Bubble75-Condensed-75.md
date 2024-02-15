@@ -36,4 +36,4 @@ tags:
 
 ![[16_Velocifire-Bubble75-Condensed-75-1.png]]
 
-![[16_Velocifire-Bubble75-Condensed-75.png]]
+![[16_Velocifire-Bubble75-Condensed-75 1.png]]

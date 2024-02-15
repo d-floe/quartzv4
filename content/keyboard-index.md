@@ -65,6 +65,10 @@ gantt
 			![[21_Sharkeneko-60-14.png]]
 			[[21_Sharkeneko-60|Sharkeneko - 60%]]
 	</div>
+	<div class="card" onclick="location.href='/keebs/25_Sharkeneko-60';">
+			![[21_Sharkeneko-60-14.png]]
+			[[21_Sharkeneko-60|Sharkeneko - 60%]]
+	</div>
 </ul>
 
 ### Macropads
