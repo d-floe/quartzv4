@@ -6,7 +6,7 @@ tags:
   - GasketMount
   - Keyboard
 ---
-/commit
+
 ![[ikki68-aurora.jpg]]
 
 > **Ikki68 Aurora** with [[IFK-Monochrome|IFK Monochrome]] and [[NicePBT-Sailor|NicePBT Sailor]] accent keys.
