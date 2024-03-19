@@ -71,10 +71,6 @@ gantt
 ### Macropads
 
 <ul class="card-reel">
-	<div class="card" onclick="location.href='/keebs/25_Sharkeneko-60';">
-			![[25_Typ65+-8.png]]
-			[[25_Typ65+|Typ65+ - 65%]]
-	</div>
 	<div class="card" onclick="location.href='/keebs/MACRO_Megalodon-Triple-Knob';">
 			![[MACRO_Megalodon-Triple-Knob.png]]
 			[[MACRO_Megalodon-Triple-Knob|Megalodon Triple Knob Macropad]]
@@ -106,6 +102,10 @@ gantt
 ## Past Projects
 
 <ul class="card-reel">
+	<div class="card" onclick="location.href='/keebs/25_Sharkeneko-60';">
+			![[25_Typ65+-8.png]]
+			[[25_Typ65+|Typ65+ - 65%]]
+	</div>
 	<div class="card" onclick="location.href='/keebs/24_Alps-60';">
 			![[24_Alps-60.png]]
 			[[24_Alps-60|ALPS 60]]

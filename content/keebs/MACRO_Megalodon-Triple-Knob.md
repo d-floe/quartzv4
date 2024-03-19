@@ -1,5 +1,5 @@
 ---
-title: ⭐Megalodon Triple Knob Macropad
+title: ⭐Megalodon Macropad
 description: d-floe's macropad overview for the Triple Knob Macropad by Megalodon
 tags:
   - Macropad
