@@ -1,6 +1,6 @@
 ---
 title: Keyboard Index
-description: "This is a complete list of every keyboard I've owned thus far, featuring a comprehensive timeline of how when, and how long I've owned them."
+description: This is a complete list of every keyboard I've owned thus far, featuring a comprehensive timeline of how when, and how long I've owned them.
 ---
 
 ```mermaid
@@ -29,15 +29,16 @@ gantt
         section 65%
         Maker Phantom:a7, July 2nd 2021,February 23rd 2022
         Ikki68 Aurora:a15, July 2nd 2022,December 23rd 2022
-        Command65:a20, April 14 2023,July 26th 2023
+        Command65:a20, April 14th 2023,July 26th 2023
+        Typ65+:a23, January 20th 2024,February 17th 2024
 
         section 60%
         GK64:a6, June 20th 2021,August 13th 2021
         Blade60:a11, October 15th 2021,March 9th 2023
         Isabell:a19, February 4th 2023,August 25th 2023
-        Sharkeneko:a21, May 4th 2023,February 15th 2024
+        Sharkeneko:a21, May 4th 2023,March 18th 2024
         UC Model F62:a22, July 22nd 2023,October 5th 2023
-        Classic Model F62:a22, October 5th 2023,February 15th 2024
+        Classic Model F62:a22, October 5th 2023,March 18th 2024
 
 		section Ergo
         YMDK Wings:a9, September 7th 2021,December 16th 2021
@@ -47,11 +48,11 @@ gantt
 
 		section Macropad
 		Pikatea GB4:apk, December 5th 2022,September 23rd 2023
-		Megalodon Triple Knob:atk, June 3rd 2023,February 15th 2024
-		Owlab Voice Mini:avm, September 29th 2023,February 15th 2024
+		Megalodon Triple Knob:atk, June 3rd 2023,March 18th 2024
+		Owlab Voice Mini:avm, September 29th 2023,March 18th 2024
 
 		section Misc
-		Ortho60 (Switch Tester):ost, November 4th 2023,February 15th 2024
+		Ortho60 (Switch Tester):ost, November 4th 2023,March 18th 2024
 ```
 
 ## Currently Own
@@ -65,15 +66,15 @@ gantt
 			![[21_Sharkeneko-60-14.png]]
 			[[21_Sharkeneko-60|Sharkeneko - 60%]]
 	</div>
-	<div class="card" onclick="location.href='/keebs/25_Sharkeneko-60';">
-			![[25_Typ65+-8.png]]
-			[[25_Typ65+|Typ65+ - 65%]]
-	</div>
 </ul>
 
 ### Macropads
 
 <ul class="card-reel">
+	<div class="card" onclick="location.href='/keebs/25_Sharkeneko-60';">
+			![[25_Typ65+-8.png]]
+			[[25_Typ65+|Typ65+ - 65%]]
+	</div>
 	<div class="card" onclick="location.href='/keebs/MACRO_Megalodon-Triple-Knob';">
 			![[MACRO_Megalodon-Triple-Knob.png]]
 			[[MACRO_Megalodon-Triple-Knob|Megalodon Triple Knob Macropad]]
@@ -92,6 +93,7 @@ gantt
 				[[MISC_Ortho60-Switch-Tester|Ortho60 (Switch Tester)]]
 		</div>
 </ul>
+
 ## Future Projects
 
 <ul class="card-reel">
