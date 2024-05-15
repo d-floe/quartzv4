@@ -1,5 +1,5 @@
 ---
-title: ⭐Model F62 Classic
+title: Model F62 Classic
 description: d-floe's keyboard overview for the Model F62 Classic by Model F Labs.
 tags:
   - 60Percent

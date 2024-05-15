@@ -1,5 +1,5 @@
 ---
-title: Model F62 Ultra Compact
+title: ⭐Model F62 Ultra Compact
 description: d-floe's keyboard overview for the Model F62 Ultra Compact by Model F Labs.
 tags:
   - 60Percent
