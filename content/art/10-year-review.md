@@ -54,3 +54,7 @@ Early 2016 was also when I first designed my mascot and flagship character, Apri
 ### Mid 2016
 
 ![[2016 mid.png]]
+
+Still more continued experimentation as early in the year. Same mixed bag.
+
+### Late 2016
