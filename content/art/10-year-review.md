@@ -39,4 +39,4 @@ Ultimately I ended up going with this piece to best summarize 2015. I feel like 
 
 ## 2016 - An Emerging Art Style
 
-2016, especially later on, is when things really start to come together and make sense. 
+2016, especially later on, is when things really start to come together and make sense. Early on I was doing figure studies and photo studies, but I also heavily deviated into
