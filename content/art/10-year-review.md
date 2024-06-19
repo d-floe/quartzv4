@@ -41,8 +41,9 @@ Ultimately I ended up going with this piece to best summarize 2015. I feel like 
 
 2016, especially later on, is when things really start to come together and make sense. Early on I was doing figure studies and photo studies, but I also heavily deviated into "eugh" territory before readjusting back on course. 
 
-
+![[2016 early.png]]
 > Early 2016
 
 Continuing the trend from 2015, early 2016 had a ludicrous amount of experimentation. Some were pretty good, some were not so great. I am grateful that I at least tried to start studies during this period.
+
 
