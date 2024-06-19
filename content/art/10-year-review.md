@@ -45,7 +45,7 @@ Ultimately I ended up going with this piece to best summarize 2015. I feel like 
 
 ![[early 2016.png]]
 
-Continuing the trend from 2015, early 2016 had a ludicrous amount of experimentation. Some were pretty good, some were not so great. I am grateful that I at least tried to start studies during this period.
+Continuing the trend from 2015, early 2016 had a ludicrous amount of experimentation. Some were pretty good, some were not so great. I am grateful that I at least tried to start studies during this period. Around this time was when I began going by the name d-floe.
 
 Early 2016 was also when I first designed my mascot and flagship character, Apricot.
 
@@ -55,6 +55,14 @@ Early 2016 was also when I first designed my mascot and flagship character, Apri
 
 ![[2016 mid.png]]
 
-Still more continued experimentation as early in the year. Same mixed bag.
+Still more continued experimentation as early in the year. Same mixed bag. However; big changes were on the horizon.
 
 ### Late 2016
+![[2016 late.png]]
+
+Late 2016 is probably where I would consider the real beginning of my art journey. During this time, I started taking art way more seriously to the point where I began my first anatomical studies. This was also the true beginnings of when I helped found the SHA亞MED discord server. I don't remember exactly what was going through my head at the time but I reached a stylistic epiphany that I would continue to carry over the course of the new few years.
+
+### Selection
+
+![[2016 selection.png]]
+
