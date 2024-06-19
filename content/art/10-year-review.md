@@ -23,17 +23,17 @@ During these early years there was a wide range of different styles and approach
 
 I feel a weird mixture of pride and embarrassment when it comes to these early pieces. I think most artists feel some level of embarrassment when it comes to sharing old artwork. It's like sharing old photos of yourself to other people. That's not you anymore, but it was you, and the fact that there is a difference shows some form of growth. I am glad I explored as much as I did during this era. Even though I was doing the equivalent of smacking my head against a well to get through it, the process helped point me in a direction that best suited myself as a parson and formed the basis that would carry me on through my art journey. Of course, I didn't know any of this at the time, I was just a 16 year old doing art for fun.
 
-![[2015 late.png]]
+### Late 2015
 
-> Late 2015
+![[2015 late.png]]
 
 As I look back its like watching someone through a window trip and fall on a series of obvious banana peels. All I can do is sit here and watch as my past self continuously makes silly mistakes, and occasionally making a pretty decent piece without realizing, only to go back to making silly mistakes again.
 
 This will be a reoccurring theme, but the pieces I chose to showcase here don't even begin to match up to the mountain of art I made this year or any year. Splitting up the year into thirds still isn't enough to truly capture the wild journey that was my early years.
 
-![[2015.png]]
+### Selection
 
-> June 2015
+![[2015.png]]
 
 Ultimately I ended up going with this piece to best summarize 2015. I feel like it has much of the early roots that would later become my art style today. I don't like it, but I certainly dislike it the least.
 
@@ -41,14 +41,16 @@ Ultimately I ended up going with this piece to best summarize 2015. I feel like 
 
 2016, especially later on, is when things really start to come together and make sense. Early on I was doing figure studies and photo studies, but I also heavily deviated into "eugh" territory before readjusting back on course.
 
-![[early 2016.png]]
+### Early 2016
 
-> Early 2016
+![[early 2016.png]]
 
 Continuing the trend from 2015, early 2016 had a ludicrous amount of experimentation. Some were pretty good, some were not so great. I am grateful that I at least tried to start studies during this period.
 
 ![[2016 apricot.png]]
 
-> Early 2016 was when I first designed my mascot and flagship character: Apricot
+Early 2016 was also when I first designed my mascot and flagship character, Apricot.
+
+### Mid 2016
 
 ![[2016 mid.png]]
