@@ -21,4 +21,4 @@ During these early years there was a wide range of different styles and approach
 
 > Mid 2015
 
-I feel a weird mixture of
+I feel a weird mixture of pride and embarrassment when it comes to these early pieces
