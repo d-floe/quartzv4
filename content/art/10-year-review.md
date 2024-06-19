@@ -21,4 +21,5 @@ During these early years there was a wide range of different styles and approach
 
 > Mid 2015
 
-I feel a weird mixture of pride and embarrassment when it comes to these early pieces
+I feel a weird mixture of pride and embarrassment when it comes to these early pieces. I think most artists feel some level of embarrassment when it comes to sharing old artwork. It's like sharing old photos of yourself to other people. That's not you anymore, but it was you, and the fact that there is a difference shows some form of growth. I am glad I explored as much as I did during this era. Even though I was doing the equivalent of smacking my head against a well to get through it, the process helped point me in a direction that best suited myself as a parson and formed the basis that would carry me on through my art journey. Of course, I didn't know any of this at the time, I was just a 16 year old doing art for fun.
+
