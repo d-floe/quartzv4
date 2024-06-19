@@ -47,9 +47,9 @@ Ultimately I ended up going with this piece to best summarize 2015. I feel like 
 
 Continuing the trend from 2015, early 2016 had a ludicrous amount of experimentation. Some were pretty good, some were not so great. I am grateful that I at least tried to start studies during this period.
 
-![[2016 apricot.png]]
-
 Early 2016 was also when I first designed my mascot and flagship character, Apricot.
+
+![[2016 apricot.png]]
 
 ### Mid 2016
 
