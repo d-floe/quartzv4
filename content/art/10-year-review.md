@@ -66,3 +66,5 @@ Late 2016 is probably where I would consider the real beginning of my art journe
 
 ![[2016 selection.png]]
 
+....
+WIP
