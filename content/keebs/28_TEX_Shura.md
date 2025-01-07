@@ -26,3 +26,5 @@ WIP
 - Plate: stainless steel 
 - Stabilizers: Typeplus x YiKB Screw-in Stabilizers
 - Switches: QK01 Switches
+
+![[28_TEX_Shura-1.png]]
