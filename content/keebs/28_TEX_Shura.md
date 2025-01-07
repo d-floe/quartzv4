@@ -5,7 +5,7 @@ tags:
   - Keyboard
   - 60Percent
 ---
-
+![[28_TEX_Shura.png]]
 
 > TEX Shura with Linworks White on Black
 

@@ -6,7 +6,7 @@ tags:
   - 60Percent
 ---
 
-![[27_Tofu_Redux_Gummy Thong.png]]
+![[27_Tofu_Redux_Gummy.png]]
 > Tofu Redux with [[Linworks-WoB|Linworks WoB]]
 
 ## Tofu Redux
@@ -29,3 +29,5 @@ WIP
 - PCB: [Merro60 PCB](https://keyspresso.ca/products/limited-merro60-60-pcb)
 - Stabilizers: [[TX-AP-Stabilizers-Rev-4|TX AP Stabilizers Rev. 4]]
 - Switches: [CBRKBD Trash Linears](https://www.cbkbd.com/product/trash-linear-switches)
+
+![[27_Tofu_Redux_Gummy-1.png]]

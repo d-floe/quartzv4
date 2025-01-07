@@ -33,3 +33,7 @@ WIP
 	- Stabilizer Landing Pads
 	- Lubed housings with 205g0
 - Domes: DESKEYS V2 Tiffany / Pink
+
+
+![[26_Sangeo60_Topre-1.png]]
+![[26_Sangeo60_Topre-2.png]]
